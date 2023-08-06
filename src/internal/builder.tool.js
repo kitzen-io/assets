@@ -8,8 +8,8 @@ const outputDirectory = `./${libDir}/logo`;  // folder where all logos will be s
 class BuilderTool {
   static mergeAssetsMetadata() {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
-    fs.writeFileSync(`${libDir}/metadata.json`, JSON.stringify(allInfoData, null, 2));
-    console.log('Merged all metadata.json files into metadata.json');
+    fs.writeFileSync(`${libDir}/assetsMetadata.json`, JSON.stringify(allInfoData, null, 2));
+    console.log('Merged all assetsMetadata.json files into assetsMetadata.json');
   }
 
   static generateAssets() {
@@ -39,11 +39,11 @@ class BuilderTool {
   static generateMainIndexFile() {
     const exportsContent = `
       export * from './logo/index.js';
-      export const metadata = require('./metadata.json');
+      export const assetsMetadata = require('./assetsMetadata.json');
     `;
 
     fs.writeFileSync(`${libDir}/index.js`, exportsContent);
-    console.log('Generated main index.js with exports from logo/index.js and metadata.json');
+    console.log('Generated main index.js with exports from logo/index.js and assetsMetadata.json');
   }
 
   static gatherInfoFromDirectory(dir) {
@@ -58,7 +58,6 @@ class BuilderTool {
         results.push(...BuilderTool.gatherInfoFromDirectory(fullPath));
       } else if (file === 'metadata.json') {
         const data = fs.readFileSync(fullPath, 'utf8');
-        // @ts-ignore
         results.push(JSON.parse(data));
       }
     });
