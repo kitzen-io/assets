@@ -38,7 +38,7 @@ For code contributions, explore our "Contributing" guidelines and become part of
 Thank you to all the dedicated individuals who contribute; your passion drives our success. Together, we shape the future of web3 industry.
 
 
-<a href="https://github.com/kitzen-io/api-dto/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kitzen-io/api-dto&max=400&columns=20" />
+<a href="https://github.com/kitzen-io/assets/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kitzen-io/assets&max=400&columns=20" />
   <img src="https://us-central1-tooljet-hub.cloudfunctions.net/github" width="0" height="0" />
 </a>
