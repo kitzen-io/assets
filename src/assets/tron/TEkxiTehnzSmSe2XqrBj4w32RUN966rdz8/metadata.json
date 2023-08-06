@@ -1,7 +1,7 @@
 {
     "identifier": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
     "name": "USD Coin",
-    "type": "trc20",
+    "network": "trc20",
     "symbol": "USDC",
     "decimals": 6,
     "website": "https://www.centre.io",

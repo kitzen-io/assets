@@ -56,9 +56,11 @@ class BuilderTool {
       if (fileStat.isDirectory()) {
         BuilderTool.processLogosFromDirectory(fullPath);
       } else if (file === 'logo.png') {
-        const assetName = dir.replace(directoryPath, '').split(path.sep).filter(Boolean).join('_');
-        const newLogoName = `${assetName}.png`;
-        const destination = path.join(outputDirectory, newLogoName);
+        const metadata = require(`${process.cwd()}/${dir}/metadata.json`);
+        console.log(metadata);
+
+        const assetName = `${metadata.network}_${metadata.identifier}.png`;
+        const destination = path.join(outputDirectory, assetName);
         fs.copyFileSync(fullPath, destination);
       }
     });
