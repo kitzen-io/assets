@@ -1,6 +1,6 @@
 {
   "name": "@kitzen/assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "kitzen <kitzen.io>",
   "license": "Apache-2.0",
   "homepage": "https://github.com/kitzen-io/assets#readme",
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "prebuild": "rimraf lib",
-    "prebuild-assets": "node src/build.js",
+    "prebuild-assets": "node src/internal/build.js",
     "prebuild-files": "cp ./package.json lib && cp ./.releaserc.json lib && cp ./tsconfig.json lib && cp ./README.md lib",
     "build": "yarn prebuild && yarn prebuild-assets && yarn prebuild-files",
     "build:watch": "tsc --watch",
