@@ -1,0 +1,28 @@
+{
+    "identifier": "coin",
+    "name": "TRON",
+    "website": "https://tron.network/",
+    "description": "TRON is dedicated to building the infrastructure for a truly decentralized Internet",
+    "explorer": "https://tronscan.io/",
+    "symbol": "TRX",
+    "network": "trc10",
+    "decimals": 6,
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/tronprotocol"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tronfoundation"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Tronix"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://developers.tron.network/docs"
+        }
+    ]
+}
