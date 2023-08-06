@@ -5,6 +5,7 @@ const libDir = 'lib';
 const directoryPath = 'src/assets';  // root directory
 const outputDirectory = `./${libDir}/logo`;  // folder where all logos will be saved
 
+const mergedFileName = `assetMetadata.json`;
 class BuilderTool {
   static mergeAssetsMetadata() {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
@@ -19,31 +20,11 @@ class BuilderTool {
     console.log('All logos have been processed and saved in', outputDirectory);
   }
 
-  static generateExportImageFile() {
-    const imageExports = [];
-
-    const images = fs.readdirSync(outputDirectory);
-    images.forEach((imageName) => {
-      const imageBaseName = path.basename(imageName, '.png');
-      imageExports.push(`export const ${imageBaseName} = require('./${imageName}');`);
-    });
-
-    const exportsContent = `
-      ${imageExports.join('\n')}
-    `;
-
-    fs.writeFileSync(`${libDir}/logo/index.js`, exportsContent);
-    console.log('Generated index.js with explicit exports for each logo');
-  }
-
   static generateMainIndexFile() {
-    const exportsContent = ` 
-      export * from './logo/index.js';
-      export const assetsMetadata = require('./assetsMetadata.json');
-    `;
+    const exportsContent = `export const assetsMetadata = require('./${mergedFileName}');`;
 
     fs.writeFileSync(`${libDir}/index.js`, exportsContent);
-    console.log('Generated main index.js with exports from logo/index.js and assetsMetadata.json');
+    console.log(`Generated main index.js with exports ${mergedFileName}`);
   }
 
   static gatherInfoFromDirectory(dir) {
