@@ -38,7 +38,7 @@ class BuilderTool {
 
   static generateMainIndexFile() {
     const exportsContent = `
-      export * from './logo/index.js';
+      export const assetLogo from './logo/index.js';
       export const assetsMetadata = require('./assetsMetadata.json');
     `;
 
