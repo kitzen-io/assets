@@ -26,7 +26,7 @@ class BuilderTool {
     images.forEach((imageName) => {
       const imageBaseName = path.basename(imageName, '.png');
       imageExports.push(`export const ${imageBaseName} = require('./${imageName}');`);
-    }); 
+    });
 
     const exportsContent = `
       ${imageExports.join('\n')}
@@ -38,7 +38,7 @@ class BuilderTool {
 
   static generateMainIndexFile() {
     const exportsContent = `
-      export const assetLogo from './logo/index.js';
+      export * from './logo/index.js';
       export const assetsMetadata = require('./assetsMetadata.json');
     `;
 
