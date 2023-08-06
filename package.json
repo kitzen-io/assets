@@ -18,7 +18,6 @@
     "lint:check": "eslint 'src/**/*.ts'",
     "semantic-release": "semantic-release"
   },
-  "type": "commonjs",
   "engines": {
     "node": ">=16"
   },
