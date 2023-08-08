@@ -1,30 +1,42 @@
 const fs = require('fs');
 const path = require("path");
 
-const libDir = 'lib';
+const SRC_DIR = 'src';
+const LIB_DIR = 'lib';
 const directoryPath = 'src/assets';  // root directory
-const outputDirectory = `./${libDir}/logo`;  // folder where all logos will be saved
+const outputDirectory = `./${LIB_DIR}/logo`;  // folder where all logos will be saved
 
-const mergedFileName = `assetsMetadata.json`;
+const mergedJsonName = `assets.metadata`;
+const mergedObjectName = `assetMetadataObject`;
+const mergedObjectFileName = `assets.metadata.constant`;
+
 class BuilderTool {
   static mergeAssetsMetadata() {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
-    fs.writeFileSync(`${libDir}/assetsMetadata.json`, JSON.stringify(allInfoData, null, 2));
-    console.log('Merged all assetsMetadata.json files into assetsMetadata.json');
+    fs.writeFileSync(`${SRC_DIR}/${mergedJsonName}.json`, JSON.stringify(allInfoData, null, 2));
+    console.log(`Merged all metadata.json files into ${mergedJsonName}.json`);
+    BuilderTool.generateAssetsMetadataEnum(allInfoData)
+  }
+
+  static generateAssetsMetadataEnum(data) {
+    const AssetsMetadataObject = {};
+
+    for (let asset of data) {
+      AssetsMetadataObject[`${asset.network}_${asset.identifier}`] = asset;
+    }
+
+    let objectContent = `export const ${mergedObjectName} = ${JSON.stringify(AssetsMetadataObject)};`;
+    const objectFilePath = `${SRC_DIR}/${mergedObjectFileName}.ts`;
+
+    fs.writeFileSync(objectFilePath, objectContent);
+    console.log(`Generated object in ${objectFilePath}`);
   }
 
   static generateAssets() {
-    if (!fs.existsSync(libDir)) fs.mkdirSync(libDir);
+    if (!fs.existsSync(LIB_DIR)) fs.mkdirSync(LIB_DIR);
     if (!fs.existsSync(outputDirectory)) fs.mkdirSync(outputDirectory);
     BuilderTool.processLogosFromDirectory(directoryPath);
     console.log('All logos have been processed and saved in', outputDirectory);
-  }
-
-  static generateMainIndexFile() {
-    const exportsContent = `export const AssetsMetadata = require('./${mergedFileName}');`;
-
-    fs.writeFileSync(`${libDir}/index.js`, exportsContent);
-    console.log(`Generated main index.js with exports ${mergedFileName}`);
   }
 
   static gatherInfoFromDirectory(dir) {

@@ -10,9 +10,9 @@
   },
   "scripts": {
     "prebuild": "rimraf lib",
-    "prebuild-assets": "node src/internal/build.js",
+    "prebuild-assets": "node build/build.js",
     "prebuild-files": "cp ./package.json lib && cp ./.releaserc.json lib && cp ./tsconfig.json lib && cp ./README.md lib",
-    "build": "yarn prebuild && yarn prebuild-assets && yarn prebuild-files",
+    "build": "yarn prebuild && yarn prebuild-assets && yarn prebuild-files && tsc",
     "build:watch": "tsc --watch",
     "lint": "eslint 'src/**/*.ts' --fix",
     "lint:check": "eslint 'src/**/*.ts'",
@@ -32,6 +32,7 @@
     "**/*"
   ],
   "devDependencies": {
+    "typescript": "^5.1.6",
     "semantic-release": "^19.0.2",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/gitlab": "^9.2.0",
