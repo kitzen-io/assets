@@ -1,6 +1,6 @@
 {
   "name": "@kitzen/assets",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "kitzen <kitzen.io>",
   "license": "Apache-2.0",
   "homepage": "https://github.com/kitzen-io/assets#readme",
@@ -24,9 +24,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "exports": {
-    ".": "./lib/index.js"
-  },
+  "main": "./lib/index.js",
   "types": "lib",
   "files": [
     "lib"
