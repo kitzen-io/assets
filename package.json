@@ -1,6 +1,6 @@
 {
   "name": "@kitzen/assets",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "kitzen <kitzen.io>",
   "license": "Apache-2.0",
   "homepage": "https://github.com/kitzen-io/assets#readme",
@@ -27,6 +27,7 @@
   "exports": {
     ".": "./lib/index.js"
   },
+  "types": "lib",
   "files": [
     "lib"
   ],
