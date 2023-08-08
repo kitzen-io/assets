@@ -7,7 +7,6 @@ const directoryPath = 'src/assets';  // root directory
 const outputDirectory = `./${LIB_DIR}/logo`;  // folder where all logos will be saved
 
 const mergedJsonName = `assets.metadata`;
-const mergedObjectName = `assetMetadataObject`;
 const mergedObjectFileName = `assets.metadata.constant`;
 
 class BuilderTool {
@@ -25,8 +24,8 @@ class BuilderTool {
       AssetsMetadataObject[`${asset.network}_${asset.identifier}`] = asset;
     }
 
-    let objectContent = `export const ${mergedObjectName} = ${JSON.stringify(AssetsMetadataObject)};`;
-    const objectFilePath = `${SRC_DIR}/${mergedObjectFileName}.ts`;
+    let objectContent = JSON.stringify(AssetsMetadataObject);
+    const objectFilePath = `${SRC_DIR}/${mergedObjectFileName}.json`;
 
     fs.writeFileSync(objectFilePath, objectContent);
     console.log(`Generated object in ${objectFilePath}`);
@@ -67,11 +66,11 @@ class BuilderTool {
 
       if (fileStat.isDirectory()) {
         BuilderTool.processLogosFromDirectory(fullPath);
-      } else if (file === 'logo.png') {
+      } else if (file === 'logo.svg') {
         const metadata = require(`${process.cwd()}/${dir}/metadata.json`);
         console.log(metadata);
 
-        const assetName = `${metadata.network}_${metadata.identifier}.png`;
+        const assetName = `${metadata.network}_${metadata.identifier}.svg`;
         const destination = path.join(outputDirectory, assetName);
         fs.copyFileSync(fullPath, destination);
       }
