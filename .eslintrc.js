@@ -25,10 +25,6 @@ module.exports = {
     '@typescript-eslint/no-for-in-array': ['error'],
     '@typescript-eslint/naming-convention': ['error',
       {
-        'selector': 'variable',
-        'format': ['camelCase', 'UPPER_CASE']
-      },
-      {
         'selector': 'function',
         'format': ['camelCase']
       },
