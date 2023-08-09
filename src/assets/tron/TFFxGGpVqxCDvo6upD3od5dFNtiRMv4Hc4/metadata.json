@@ -1,0 +1,14 @@
+{
+  "name": "Remitt USD",
+  "symbol": "USDR",
+  "decimals": 6,
+  "description": "Remitt USD stable coin",
+  "website": "https://remitt.ai",
+  "explorer": "https://tronscan.io/#/token20/TFFxGGpVqxCDvo6upD3od5dFNtiRMv4Hc4",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [],
+  "identifier": "TFFxGGpVqxCDvo6upD3od5dFNtiRMv4Hc4",
+  "network": ""
+}

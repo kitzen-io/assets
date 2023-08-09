@@ -1,0 +1,14 @@
+{
+  "name": "The Flash Currency",
+  "symbol": "TFC",
+  "decimals": 6,
+  "website": "https://theflashcurrency.com/",
+  "description": "TheFlashCurrencyTFC The flash currency is a new token built according to the TRON standard TRC10 standard",
+  "explorer": "https://tronscan.io/#/token/1004117",
+  "links": [],
+  "tags": [
+    "defi"
+  ],
+  "identifier": "1004117",
+  "network": ""
+}

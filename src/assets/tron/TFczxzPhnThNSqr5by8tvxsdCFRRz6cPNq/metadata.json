@@ -1,0 +1,11 @@
+{
+  "name": "APENFT",
+  "symbol": "NFT",
+  "decimals": 6,
+  "description": "APENFT Fund was born with the mission to register world-class artworks as NFTs on-chain.",
+  "website": "https://apenft.org",
+  "explorer": "https://tronscan.io/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+  "identifier": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
+  "network": "",
+  "links": []
+}

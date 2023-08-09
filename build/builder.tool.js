@@ -1,20 +1,25 @@
 const fs = require('fs');
-const path = require("path");
+const path = require('path');
 
 const SRC_DIR = 'src';
 const LIB_DIR = 'lib';
 const directoryPath = 'src/assets';  // root directory
 const outputDirectory = `./${LIB_DIR}/logo`;  // folder where all logos will be saved
 
-const mergedJsonName = `assets.metadata`;
-const mergedObjectFileName = `assets.metadata.constant`;
+const mergedJsonName = 'assets.metadata';
+const mergedObjectFileName = 'assets.metadata.constant';
+
+const fileExtensions = {
+  png: 'png',
+  svg: 'svg',
+};
 
 class BuilderTool {
   static mergeAssetsMetadata() {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
     fs.writeFileSync(`${SRC_DIR}/${mergedJsonName}.json`, JSON.stringify(allInfoData, null, 2));
     console.log(`Merged all metadata.json files into ${mergedJsonName}.json`);
-    BuilderTool.generateAssetsMetadataEnum(allInfoData)
+    BuilderTool.generateAssetsMetadataEnum(allInfoData);
   }
 
   static generateAssetsMetadataEnum(data) {
@@ -63,14 +68,15 @@ class BuilderTool {
     files.forEach(file => {
       const fullPath = path.join(dir, file);
       const fileStat = fs.statSync(fullPath);
+      const fileSupportedExtension = fileExtensions[file.split('.').at(-1)];
 
       if (fileStat.isDirectory()) {
         BuilderTool.processLogosFromDirectory(fullPath);
-      } else if (file === 'logo.svg') {
+      } else if (fileSupportedExtension) {
         const metadata = require(`${process.cwd()}/${dir}/metadata.json`);
         console.log(metadata);
 
-        const assetName = `${metadata.network}_${metadata.identifier}.svg`;
+        const assetName = `${metadata.network}_${metadata.identifier}.${fileSupportedExtension}`;
         const destination = path.join(outputDirectory, assetName);
         fs.copyFileSync(fullPath, destination);
       }

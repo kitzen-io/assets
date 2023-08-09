@@ -1,0 +1,11 @@
+{
+  "name": "BeatzCoin",
+  "symbol": "BTZC",
+  "decimals": 6,
+  "description": "BTZC is to be used on the VibraVid.io platform.",
+  "website": "https://www.beatzcoin.io/",
+  "explorer": "https://tronscan.io/#/token/1002413",
+  "identifier": "1002413",
+  "network": "",
+  "links": []
+}

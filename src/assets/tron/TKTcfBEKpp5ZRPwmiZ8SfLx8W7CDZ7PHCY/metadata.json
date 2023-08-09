@@ -1,0 +1,11 @@
+{
+  "name": "TRONWALLET",
+  "symbol": "TWX",
+  "decimals": 6,
+  "description": "TronWallet Exchange / Marketplace Token.",
+  "website": "https://www.tronwallet.me/",
+  "explorer": "https://tronscan.io/#/token20/TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+  "identifier": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+  "network": "",
+  "links": []
+}

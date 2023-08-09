@@ -1,0 +1,11 @@
+{
+  "name": "POPPY",
+  "symbol": "POPPY",
+  "decimals": 6,
+  "description": "A loyalty and reward token for the Poppy network.",
+  "website": "https://poppypos.com/",
+  "explorer": "https://tronscan.io/#/token/1001943",
+  "identifier": "1001943",
+  "network": "",
+  "links": []
+}
