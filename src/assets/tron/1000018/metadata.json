@@ -6,6 +6,6 @@
   "website": "https://www.tronwallet.me/",
   "explorer": "https://tronscan.io/#/token/1000018",
   "identifier": "1000018",
-  "network": "",
+  "network": "trc10",
   "links": []
 }

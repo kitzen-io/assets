@@ -6,6 +6,6 @@
   "description": "New Gateway for staking, lending and borrowing.",
   "explorer": "https://tronscan.io/#/token20/TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
   "identifier": "TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
-  "network": "",
+  "network": "trc20",
   "links": []
 }
