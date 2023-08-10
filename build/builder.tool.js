@@ -9,11 +9,6 @@ const outputDirectory = `./${LIB_DIR}/logo`;  // folder where all logos will be 
 const mergedJsonName = 'assets.metadata';
 const mergedObjectFileName = 'assets.metadata.constant';
 
-const fileExtensions = {
-  png: 'png',
-  svg: 'svg',
-};
-
 class BuilderTool {
   static mergeAssetsMetadata() {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
@@ -68,15 +63,14 @@ class BuilderTool {
     files.forEach(file => {
       const fullPath = path.join(dir, file);
       const fileStat = fs.statSync(fullPath);
-      const fileSupportedExtension = fileExtensions[file.split('.').at(-1)];
 
       if (fileStat.isDirectory()) {
         BuilderTool.processLogosFromDirectory(fullPath);
-      } else if (fileSupportedExtension) {
+      } else if (file === 'logo.svg') {
         const metadata = require(`${process.cwd()}/${dir}/metadata.json`);
         console.log(metadata);
 
-        const assetName = `${metadata.network}_${metadata.identifier}.${fileSupportedExtension}`;
+        const assetName = `${metadata.network}_${metadata.identifier}.svg`;
         const destination = path.join(outputDirectory, assetName);
         fs.copyFileSync(fullPath, destination);
       }

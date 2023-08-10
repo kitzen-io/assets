@@ -6,6 +6,6 @@
   "website": "https://tronscan.io/www.bitguild.com",
   "explorer": "https://tronscan.io/#/token20/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
   "identifier": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
-  "network": "",
+  "network": "trc20",
   "links": []
 }

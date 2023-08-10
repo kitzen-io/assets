@@ -6,6 +6,6 @@
   "website": "https://www.sesameseed.org/",
   "explorer": "https://tronscan.io/#/token/1000001",
   "identifier": "1000001",
-  "network": "",
+  "network": "trc10",
   "links": []
 }

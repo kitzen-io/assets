@@ -6,6 +6,6 @@
   "website": "https://tronup.io/",
   "explorer": "https://tronscan.io/#/token20/TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
   "identifier": "TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
-  "network": "",
+  "network": "trc20",
   "links": []
 }

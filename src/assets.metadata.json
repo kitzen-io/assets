@@ -95,7 +95,7 @@
     "website": "https://www.sesameseed.org/",
     "explorer": "https://tronscan.io/#/token/1000001",
     "identifier": "1000001",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -106,7 +106,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000010",
     "identifier": "1000010",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -117,7 +117,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000017",
     "identifier": "1000017",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -128,7 +128,7 @@
     "website": "https://www.tronwallet.me/",
     "explorer": "https://tronscan.io/#/token/1000018",
     "identifier": "1000018",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -139,7 +139,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000131",
     "identifier": "1000131",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -150,7 +150,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000161",
     "identifier": "1000161",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -161,7 +161,7 @@
     "website": "https://tron-europe.org/",
     "explorer": "https://tronscan.io/#/token/1000226",
     "identifier": "1000226",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -172,7 +172,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000231",
     "identifier": "1000231",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -183,7 +183,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000251",
     "identifier": "1000251",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -194,7 +194,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000307",
     "identifier": "1000307",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -205,7 +205,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000317",
     "identifier": "1000317",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -216,7 +216,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000318",
     "identifier": "1000318",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -227,7 +227,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000324",
     "identifier": "1000324",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -238,7 +238,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000375",
     "identifier": "1000375",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -249,7 +249,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000391",
     "identifier": "1000391",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -260,7 +260,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000430",
     "identifier": "1000430",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -271,7 +271,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000451",
     "identifier": "1000451",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -282,7 +282,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000475",
     "identifier": "1000475",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -293,7 +293,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000554",
     "identifier": "1000554",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -304,7 +304,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000566",
     "identifier": "1000566",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -315,7 +315,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000577",
     "identifier": "1000577",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -326,7 +326,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000641",
     "identifier": "1000641",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -337,7 +337,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000709",
     "identifier": "1000709",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -348,7 +348,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000811",
     "identifier": "1000811",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -359,7 +359,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000814",
     "identifier": "1000814",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -370,7 +370,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000822",
     "identifier": "1000822",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -381,7 +381,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000824",
     "identifier": "1000824",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -392,7 +392,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000848",
     "identifier": "1000848",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -403,7 +403,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000849",
     "identifier": "1000849",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -414,7 +414,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000854",
     "identifier": "1000854",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -425,7 +425,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000865",
     "identifier": "1000865",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -436,7 +436,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000891",
     "identifier": "1000891",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -447,7 +447,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000897",
     "identifier": "1000897",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -458,7 +458,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000898",
     "identifier": "1000898",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -469,7 +469,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000900",
     "identifier": "1000900",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -480,7 +480,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000907",
     "identifier": "1000907",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -491,7 +491,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000930",
     "identifier": "1000930",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -502,7 +502,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000932",
     "identifier": "1000932",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -513,7 +513,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000933",
     "identifier": "1000933",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -524,7 +524,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000935",
     "identifier": "1000935",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -535,7 +535,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000943",
     "identifier": "1000943",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -546,7 +546,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000945",
     "identifier": "1000945",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -557,7 +557,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000981",
     "identifier": "1000981",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -568,7 +568,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000985",
     "identifier": "1000985",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -579,7 +579,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1000999",
     "identifier": "1000999",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -590,7 +590,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001013",
     "identifier": "1001013",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -601,7 +601,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001030",
     "identifier": "1001030",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -612,7 +612,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001046",
     "identifier": "1001046",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -623,7 +623,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001047",
     "identifier": "1001047",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -634,7 +634,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001050",
     "identifier": "1001050",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -645,7 +645,7 @@
     "website": "https://www.tronone.com",
     "explorer": "https://tronscan.io/#/token/1001090",
     "identifier": "1001090",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -656,7 +656,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001091",
     "identifier": "1001091",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -667,7 +667,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001092",
     "identifier": "1001092",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -678,7 +678,7 @@
     "website": "http://www.kaoscandy.com/",
     "explorer": "https://tronscan.io/#/token/1001107",
     "identifier": "1001107",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -689,7 +689,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001136",
     "identifier": "1001136",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -700,7 +700,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001137",
     "identifier": "1001137",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -711,7 +711,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001142",
     "identifier": "1001142",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -722,7 +722,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001164",
     "identifier": "1001164",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -733,7 +733,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001186",
     "identifier": "1001186",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -744,7 +744,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001203",
     "identifier": "1001203",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -755,7 +755,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001217",
     "identifier": "1001217",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -766,7 +766,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001268",
     "identifier": "1001268",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -777,7 +777,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001302",
     "identifier": "1001302",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -788,7 +788,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001305",
     "identifier": "1001305",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -799,7 +799,7 @@
     "website": "https://www.cryptoguyinza.co.za",
     "explorer": "https://tronscan.io/#/token/1001313",
     "identifier": "1001313",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -810,7 +810,7 @@
     "website": "http://www.cryptodiva.io/",
     "explorer": "https://tronscan.io/#/token/1001351",
     "identifier": "1001351",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -821,7 +821,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001353",
     "identifier": "1001353",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -832,7 +832,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001359",
     "identifier": "1001359",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -843,7 +843,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001361",
     "identifier": "1001361",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -854,7 +854,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001363",
     "identifier": "1001363",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -865,7 +865,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001367",
     "identifier": "1001367",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -876,7 +876,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001385",
     "identifier": "1001385",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -887,7 +887,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001411",
     "identifier": "1001411",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -898,7 +898,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001414",
     "identifier": "1001414",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -909,7 +909,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001427",
     "identifier": "1001427",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -920,7 +920,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001438",
     "identifier": "1001438",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -931,7 +931,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001457",
     "identifier": "1001457",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -942,7 +942,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001466",
     "identifier": "1001466",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -953,7 +953,7 @@
     "website": "https://www.halosocialmeetup.com/",
     "explorer": "https://tronscan.io/#/token/1001500",
     "identifier": "1001500",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -964,7 +964,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001546",
     "identifier": "1001546",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -975,7 +975,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001559",
     "identifier": "1001559",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -986,7 +986,7 @@
     "website": "https://healthport.io/",
     "explorer": "https://tronscan.io/#/token/1001581",
     "identifier": "1001581",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -997,7 +997,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001584",
     "identifier": "1001584",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1008,7 +1008,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001596",
     "identifier": "1001596",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1019,7 +1019,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001617",
     "identifier": "1001617",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1030,7 +1030,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001645",
     "identifier": "1001645",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1041,7 +1041,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001652",
     "identifier": "1001652",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1052,7 +1052,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001698",
     "identifier": "1001698",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1063,7 +1063,7 @@
     "website": "https://nolelegends.com/",
     "explorer": "https://tronscan.io/#/token/1001699",
     "identifier": "1001699",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1074,7 +1074,7 @@
     "website": "https://dappevolution.com/",
     "explorer": "https://tronscan.io/#/token/1001757",
     "identifier": "1001757",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1085,7 +1085,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001778",
     "identifier": "1001778",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1096,7 +1096,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001801",
     "identifier": "1001801",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1107,7 +1107,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001803",
     "identifier": "1001803",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1118,7 +1118,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001825",
     "identifier": "1001825",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1129,7 +1129,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001834",
     "identifier": "1001834",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1140,7 +1140,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001837",
     "identifier": "1001837",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1151,7 +1151,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001845",
     "identifier": "1001845",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1162,7 +1162,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001865",
     "identifier": "1001865",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1173,7 +1173,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001893",
     "identifier": "1001893",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1184,7 +1184,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001909",
     "identifier": "1001909",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1195,7 +1195,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001920",
     "identifier": "1001920",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1206,7 +1206,7 @@
     "website": "https://poppypos.com/",
     "explorer": "https://tronscan.io/#/token/1001943",
     "identifier": "1001943",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1217,7 +1217,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1001949",
     "identifier": "1001949",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1228,7 +1228,7 @@
     "symbol": "BTTOLD",
     "decimals": 6,
     "identifier": "1002000",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1239,7 +1239,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002021",
     "identifier": "1002021",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1250,7 +1250,7 @@
     "website": "https://kioshu.io/",
     "explorer": "https://tronscan.io/#/token/1002023",
     "identifier": "1002023",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1261,7 +1261,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002028",
     "identifier": "1002028",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1272,7 +1272,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002043",
     "identifier": "1002043",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1283,7 +1283,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002058",
     "identifier": "1002058",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1294,7 +1294,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002093",
     "identifier": "1002093",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1305,7 +1305,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002116",
     "identifier": "1002116",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1316,7 +1316,7 @@
     "website": "https://www.friendster.io/",
     "explorer": "https://tronscan.io/#/token/1002226",
     "identifier": "1002226",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1327,7 +1327,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002234",
     "identifier": "1002234",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1338,7 +1338,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002270",
     "identifier": "1002270",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1350,7 +1350,7 @@
     "explorer": "https://tronscan.io/#/token/1002357",
     "links": [],
     "identifier": "1002357",
-    "network": ""
+    "network": "trc10"
   },
   {
     "name": "BeatzCoin",
@@ -1360,7 +1360,7 @@
     "website": "https://www.beatzcoin.io/",
     "explorer": "https://tronscan.io/#/token/1002413",
     "identifier": "1002413",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1371,7 +1371,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002469",
     "identifier": "1002469",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1382,7 +1382,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002483",
     "identifier": "1002483",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1393,7 +1393,7 @@
     "website": "https://tronbuild.fun/",
     "explorer": "https://tronscan.io/#/token/1002517",
     "identifier": "1002517",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1404,7 +1404,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002570",
     "identifier": "1002570",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1415,7 +1415,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002573",
     "identifier": "1002573",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1426,7 +1426,7 @@
     "website": "https://www.moonmarketing.info/",
     "explorer": "https://tronscan.io/#/token/1002575",
     "identifier": "1002575",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1437,7 +1437,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002578",
     "identifier": "1002578",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1448,7 +1448,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002605",
     "identifier": "1002605",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1459,7 +1459,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002633",
     "identifier": "1002633",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1470,7 +1470,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002671",
     "identifier": "1002671",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1481,7 +1481,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002672",
     "identifier": "1002672",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1492,7 +1492,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002683",
     "identifier": "1002683",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1503,7 +1503,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002762",
     "identifier": "1002762",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1514,7 +1514,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002795",
     "identifier": "1002795",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1525,7 +1525,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002831",
     "identifier": "1002831",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1536,7 +1536,7 @@
     "website": "https://TRON-Family.de",
     "explorer": "https://tronscan.io/#/token/1002939",
     "identifier": "1002939",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1547,7 +1547,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1002963",
     "identifier": "1002963",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1558,7 +1558,7 @@
     "website": "https://grafenocoin.com",
     "explorer": "https://tronscan.io/#/token/1002992",
     "identifier": "1002992",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1569,7 +1569,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1003093",
     "identifier": "1003093",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1580,7 +1580,7 @@
     "website": "https://phoneum.io/",
     "explorer": "https://tronscan.io/#/token/1003095",
     "identifier": "1003095",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1591,7 +1591,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1003097",
     "identifier": "1003097",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1602,7 +1602,7 @@
     "website": "https://tronscan.io/www.zetbit.io",
     "explorer": "https://tronscan.io/#/token/1003123",
     "identifier": "1003123",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1615,7 +1615,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "1003134",
-    "network": ""
+    "network": "trc10"
   },
   {
     "name": "Txc",
@@ -1625,7 +1625,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1003148",
     "identifier": "1003148",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1636,7 +1636,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1003152",
     "identifier": "1003152",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1650,7 +1650,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "1003257",
-    "network": ""
+    "network": "trc10"
   },
   {
     "name": "PeerCash",
@@ -1660,7 +1660,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token/1003406",
     "identifier": "1003406",
-    "network": "",
+    "network": "trc10",
     "links": []
   },
   {
@@ -1672,7 +1672,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "1003611",
-    "network": ""
+    "network": "trc10"
   },
   {
     "name": "The Flash Currency",
@@ -1686,7 +1686,7 @@
       "defi"
     ],
     "identifier": "1004117",
-    "network": ""
+    "network": "trc10"
   },
   {
     "name": "Power Cash",
@@ -1696,7 +1696,7 @@
     "website": "https://PrCh.One/",
     "explorer": "https://tronscan.io/#/token20/TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
     "identifier": "TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1707,7 +1707,7 @@
     "website": "https://bittorrentchain.io",
     "explorer": "https://tronscan.io/#/token20/TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
     "identifier": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1718,7 +1718,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TAVDwcRTUpfibh5rr6GoE19FArsaHBfcur",
     "identifier": "TAVDwcRTUpfibh5rr6GoE19FArsaHBfcur",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1733,7 +1733,7 @@
       "gamefi"
     ],
     "identifier": "TAoA331n3iKDkR62kAZ4H2n3vNL7y3d8x9",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "DYIToken",
@@ -1743,7 +1743,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TAvQRWviGyfbjcbbDaLVrh7T3tfPK6N5He",
     "identifier": "TAvQRWviGyfbjcbbDaLVrh7T3tfPK6N5He",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1754,7 +1754,7 @@
     "symbol": "ZUPI",
     "decimals": 6,
     "identifier": "TBnY2jGuuYYF4j7kp1otQizqF5wbEhFKxA",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1766,7 +1766,7 @@
     "symbol": "SEED",
     "decimals": 6,
     "identifier": "TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1778,7 +1778,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "TCDgp5bwtixaShPifUm7HpZ71C1pe6zif1",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "JUST",
@@ -1792,7 +1792,7 @@
       "defi"
     ],
     "identifier": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1804,7 +1804,7 @@
     "decimals": 4,
     "links": [],
     "identifier": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Enme Token",
@@ -1814,7 +1814,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TCRhVHPv6efvXgogNMhiunAMXFKcMmv2pF",
     "identifier": "TCRhVHPv6efvXgogNMhiunAMXFKcMmv2pF",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1825,7 +1825,7 @@
     "description": "Pallapay is the only payments solution in UAE which allows businesses to accept, process and disburse payments with its product suite.",
     "explorer": "https://tronscan.io/#/token20/TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
     "identifier": "TCfLxS9xHxH8auBL3T8pf3NFTZhsxy4Ncg",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1836,7 +1836,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
     "identifier": "TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1849,7 +1849,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "CapitalShareToken",
@@ -1859,7 +1859,7 @@
     "website": "https://capitalst.io/",
     "explorer": "https://tronscan.io/#/token20/TDh4z44NbqrCGVCCqBe753UqHW2CcDpurB",
     "identifier": "TDh4z44NbqrCGVCCqBe753UqHW2CcDpurB",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1894,7 +1894,7 @@
     ],
     "links": [],
     "identifier": "TFFxGGpVqxCDvo6upD3od5dFNtiRMv4Hc4",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "APENFT",
@@ -1904,7 +1904,7 @@
     "website": "https://apenft.org",
     "explorer": "https://tronscan.io/#/token20/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
     "identifier": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1915,7 +1915,7 @@
     "website": "https://tronscan.io/www.bitguild.com",
     "explorer": "https://tronscan.io/#/token20/TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
     "identifier": "TG37mUxRUaH1E8DWSrrmoQ79BnZn1yHztb",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1926,7 +1926,7 @@
     "website": "https://t.me/LoveHeartsForever",
     "explorer": "https://tronscan.io/#/token20/TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
     "identifier": "TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1937,7 +1937,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
     "identifier": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1948,7 +1948,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
     "identifier": "TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1959,7 +1959,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
     "identifier": "TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1970,7 +1970,7 @@
     "website": "https://bestswap.com/",
     "explorer": "https://tronscan.io/#/token20/TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
     "identifier": "TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1981,7 +1981,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TJoiXo9nPhqPFvYfuHjUzswdth9Lu7Vg2p",
     "identifier": "TJoiXo9nPhqPFvYfuHjUzswdth9Lu7Vg2p",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -1993,7 +1993,7 @@
     "explorer": "https://tronscan.io/#/token20/TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC",
     "links": [],
     "identifier": "TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "451PCBCOM",
@@ -2003,7 +2003,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TJzcEaqgYk9g4jZLEsB2DksLGikM4dWwYJ",
     "identifier": "TJzcEaqgYk9g4jZLEsB2DksLGikM4dWwYJ",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2014,7 +2014,7 @@
     "website": "https://www.tronwallet.me/",
     "explorer": "https://tronscan.io/#/token20/TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
     "identifier": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2026,7 +2026,7 @@
     "symbol": "SUN",
     "decimals": 18,
     "identifier": "TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2037,7 +2037,7 @@
     "symbol": "DICE",
     "decimals": 6,
     "identifier": "TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2049,7 +2049,7 @@
     "decimals": 18,
     "links": [],
     "identifier": "TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Paynet Coin",
@@ -2059,7 +2059,7 @@
     "symbol": "PAYN",
     "decimals": 8,
     "identifier": "TLLo3PU91yKPbwvSbuawvWKCzNX2JHYEE2",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2071,7 +2071,7 @@
     "decimals": 6,
     "links": [],
     "identifier": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "ZEDXION",
@@ -2081,7 +2081,7 @@
     "description": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token.",
     "explorer": "https://tronscan.io/#/token20/TMNTn2uFAHhkGE3uuM84rhfRRjt6ry9xnL",
     "identifier": "TMNTn2uFAHhkGE3uuM84rhfRRjt6ry9xnL",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2092,7 +2092,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TMNyGQm6DxaaKxH2sSebScgRNsMgqANEzY",
     "identifier": "TMNyGQm6DxaaKxH2sSebScgRNsMgqANEzY",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2103,7 +2103,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
     "identifier": "TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2115,7 +2115,7 @@
     "decimals": 8,
     "links": [],
     "identifier": "TMnqP8yuZrKJFXN59KoVDthkmM3LRkiZXP",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "JUST Stablecoin",
@@ -2125,7 +2125,7 @@
     "website": "https://www.just.network/",
     "explorer": "https://tronscan.io/#/token20/TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
     "identifier": "TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2140,7 +2140,7 @@
       "stablecoin"
     ],
     "identifier": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "JackPool.finance",
@@ -2150,7 +2150,7 @@
     "symbol": "JFI",
     "decimals": 18,
     "identifier": "TN7zQd2oCCguSQykZ437tZzLEaGJ7EGyha",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2161,7 +2161,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
     "identifier": "TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2172,7 +2172,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
     "identifier": "TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2184,7 +2184,7 @@
     "decimals": 18,
     "links": [],
     "identifier": "TPAQRJSVatTZLLaguCFMXGFKegKnqnKH2s",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "ICEDIUM",
@@ -2194,7 +2194,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
     "identifier": "TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2209,7 +2209,7 @@
       "stablecoin"
     ],
     "identifier": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Paynet Coin",
@@ -2223,7 +2223,7 @@
       "defi"
     ],
     "identifier": "TQYuR8FpmhMJK3ZpfoTgERjaZRywqMnFAH",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Travelcoins",
@@ -2233,7 +2233,7 @@
     "website": "https://travelcoins.io/",
     "explorer": "https://tronscan.io/#/token20/TQhfmGiZvRt3oe9vKv6W9WXRr4oErxc8RE",
     "identifier": "TQhfmGiZvRt3oe9vKv6W9WXRr4oErxc8RE",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2244,7 +2244,7 @@
     "description": "In compliance with SEC regulations, INTC is the currency of the people, by the people, for the people. Because every human being on the planet has the right to own cryptocurrency and the freedom to use it anywhere on a secure, fast, sustainable and decentralized network, without paying absurd transaction fees.",
     "explorer": "https://tronscan.io/#/token20/TQsm77PKjtpfawYu2LuQVTkigQcHPFLBaw",
     "identifier": "TQsm77PKjtpfawYu2LuQVTkigQcHPFLBaw",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2297,7 +2297,7 @@
     "symbol": "SUN",
     "decimals": 18,
     "identifier": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2308,7 +2308,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
     "identifier": "TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2319,7 +2319,7 @@
     "description": "New Gateway for staking, lending and borrowing.",
     "explorer": "https://tronscan.io/#/token20/TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
     "identifier": "TTUwzoZAK6rpDjpSh8B2XFTnxGfbMLHJaq",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2330,7 +2330,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
     "identifier": "TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2341,7 +2341,7 @@
     "description": "Happiness",
     "explorer": "https://tronscan.io/#/token20/TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
     "identifier": "TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2352,7 +2352,7 @@
     "website": "https://ciex.io",
     "explorer": "https://tronscan.io/#/token20/TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
     "identifier": "TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2363,7 +2363,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
     "identifier": "TUL5yxRKeSWvceLZ3BSU5iNJcQmNxkWayh",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2375,7 +2375,7 @@
     "explorer": "https://tronscan.io/#/token20/TUP3g7kbaESRFRhULeA19USSrcVBEpWLVY",
     "links": [],
     "identifier": "TUP3g7kbaESRFRhULeA19USSrcVBEpWLVY",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "TrueUSDToken",
@@ -2386,7 +2386,7 @@
     "explorer": "https://tronscan.io/#/token20/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
     "links": [],
     "identifier": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "DXAToken",
@@ -2396,7 +2396,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TV2UZpAzMPuMNpzQW8FJEHidDB1oht7Anb",
     "identifier": "TV2UZpAzMPuMNpzQW8FJEHidDB1oht7Anb",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2408,7 +2408,7 @@
     "symbol": "KLV",
     "decimals": 6,
     "identifier": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2419,7 +2419,7 @@
     "website": "https://mrweb.finance",
     "explorer": "https://tronscan.io/#/token20/TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK",
     "identifier": "TVocZFCRZ6tg8MqKCKXzZ9H2qSg29T75tK",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2430,7 +2430,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TVthmvBhhmgVNnXZwCvCFoCUTC9Hj4eg6y",
     "identifier": "TVthmvBhhmgVNnXZwCvCFoCUTC9Hj4eg6y",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2441,7 +2441,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TW2BkFwvkoH9Cx2zwifTacwkGSGiyiZWmt",
     "identifier": "TW2BkFwvkoH9Cx2zwifTacwkGSGiyiZWmt",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2453,7 +2453,7 @@
     "explorer": "https://tronscan.io/#/token20/TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
     "links": [],
     "identifier": "TWUs7FajJdRK26U1A5KZJbo8wP7jHiRFwk",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Oikos Network Token",
@@ -2463,7 +2463,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
     "identifier": "TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2474,7 +2474,7 @@
     "website": "https://azeusx.com",
     "explorer": "https://tronscan.io/#/token20/TWXZxJDGWVhNz2SXx31kQGA5kb2cjAz9ys",
     "identifier": "TWXZxJDGWVhNz2SXx31kQGA5kb2cjAz9ys",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2486,7 +2486,7 @@
     "decimals": 18,
     "links": [],
     "identifier": "TWmocwvHpui48QXUVJeW2SvcFe8LyNgLCU",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "Black Phoenix",
@@ -2497,7 +2497,7 @@
     "explorer": "https://tronscan.io/#/token20/TXBcx59eDVndV5upFQnTR2xdvqFd5reXET",
     "links": [],
     "identifier": "TXBcx59eDVndV5upFQnTR2xdvqFd5reXET",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "DLIToken",
@@ -2507,7 +2507,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
     "identifier": "TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2518,7 +2518,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TYLrbh1pVcx95bop33XQ1iYdh7r3ogEQ8Q",
     "identifier": "TYLrbh1pVcx95bop33XQ1iYdh7r3ogEQ8Q",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2529,7 +2529,7 @@
     "website": "https://kingdomgame.org/",
     "explorer": "https://tronscan.io/#/token20/TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
     "identifier": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2540,7 +2540,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
     "identifier": "TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2551,7 +2551,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TYqgBctn2NjCQZLBbh1SMEAsH36mopnNqo",
     "identifier": "TYqgBctn2NjCQZLBbh1SMEAsH36mopnNqo",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2562,7 +2562,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
     "identifier": "TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2574,7 +2574,7 @@
     "explorer": "https://tronscan.io/#/token20/TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
     "links": [],
     "identifier": "TZ5jA9F5zGRgi9qk9ATMu6D7wyEpnxQGJh",
-    "network": ""
+    "network": "trc20"
   },
   {
     "name": "TRON UP",
@@ -2584,7 +2584,7 @@
     "website": "https://tronup.io/",
     "explorer": "https://tronscan.io/#/token20/TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
     "identifier": "TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
@@ -2595,7 +2595,7 @@
     "website": "",
     "explorer": "https://tronscan.io/#/token20/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
     "identifier": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
-    "network": "",
+    "network": "trc20",
     "links": []
   },
   {
