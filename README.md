@@ -1,4 +1,4 @@
-# @kitzen/data-transfer-objects
+# @kitzen/assets
 [![npm version](https://img.shields.io/npm/v/@kitzen/assets?color=green)](https://www.npmjs.com/package/@kitzen/assets)
 [![from kitzen with Love](https://img.shields.io/badge/from%20kitzen%20with-%F0%9F%A4%8D-red)](https://kitzen.io/)
 
