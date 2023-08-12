@@ -16,6 +16,30 @@ Maintaining this vast compilation is a communal endeavor, so contributions by ad
 yarn add @kitzen/assets
 ````
 
+## Usage
+You can access list of all metadata object just
+
+````
+import { AssetsMetadata, IAssetMetadata } from '@kitzen/assets';
+const network = 'bitcoin';
+const identifier = 'coin';
+
+const asset: IAssetMetadata = AssetsMetadata.find((metadata: IAssetMetadata) => metadata.network === network && metadata.identifier === identifier); 
+
+````
+
+Or you can access metadata of asset without iteration O(1) just by key:
+````
+import { AssetsMetadataObject, IAssetMetadata } from '@kitzen/assets';
+
+const network = 'bitcoin';
+const identifier = 'coin;
+
+const asset: IAssetMetadata = AssetsMetadataObject[network][identifier]; 
+````
+
+
+
 ## Versioning
 
 This lib use [semantic-release](https://github.com/semantic-release/semantic-release#how-does-it-work) library.

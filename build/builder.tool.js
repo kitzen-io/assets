@@ -21,7 +21,9 @@ class BuilderTool {
     const AssetsMetadataObject = {};
 
     for (let asset of data) {
-      AssetsMetadataObject[`${asset.network}_${asset.identifier}`] = asset;
+      const { network, identifier } = asset;
+      if (!AssetsMetadataObject[network]) AssetsMetadataObject[network] = {};
+      AssetsMetadataObject[network][identifier] = asset;
     }
 
     let objectContent = JSON.stringify(AssetsMetadataObject);
