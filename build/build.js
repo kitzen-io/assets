@@ -1,4 +1,5 @@
-const BuilderTool = require("./builder.tool");
+const BuilderTool = require('./builder.tool');
 
 BuilderTool.generateAssets();
 BuilderTool.mergeAssetsMetadata();
+
