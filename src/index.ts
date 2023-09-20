@@ -5,7 +5,6 @@ import assetMetadataObject from './assets.metadata.constant.json';
 import assetTestMetadataObject from './assets.test.metadata.constant.json';
 import defaultAssets from './default.asssets.json';
 
-const AssetsMetadataObject: = assetMetadataObject;
 
 function getAssetMetadata(env: 'prod' | 'test' = 'prod'): IAssetMetadata[] {
   if (env === 'prod') {
@@ -19,7 +18,7 @@ function getAssetMetadataObject(env: 'prod' | 'test' = 'prod'):  { [network: str
   if (env === 'prod') {
     return assetMetadataObject;
   } else {
-    return assetsTestMetadata;
+    return assetTestMetadataObject;
   }
 }
 

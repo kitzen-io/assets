@@ -3,21 +3,18 @@ const path = require('path');
 
 const SRC_DIR = 'src';
 const LIB_DIR = 'lib';
-const directoryPath = 'src/assets';  // root directory
 const outputDirectory = `./${LIB_DIR}/logo`;  // folder where all logos will be saved
 
-const mergedJsonName = 'assets.metadata';
-const mergedObjectFileName = 'assets.metadata.constant';
 
 class BuilderTool {
-  static mergeAssetsMetadata() {
+  static mergeAssetsMetadata(directoryPath, mergedJsonName, mergedObjectFileName) {
     const allInfoData = BuilderTool.gatherInfoFromDirectory(directoryPath);
     fs.writeFileSync(`${SRC_DIR}/${mergedJsonName}.json`, JSON.stringify(allInfoData, null, 2));
     console.log(`Merged all metadata.json files into ${mergedJsonName}.json`);
-    BuilderTool.generateAssetsMetadataEnum(allInfoData);
+    BuilderTool.generateAssetsMetadataEnum(allInfoData, mergedObjectFileName);
   }
 
-  static generateAssetsMetadataEnum(data) {
+  static generateAssetsMetadataEnum(data, filename) {
     const AssetsMetadataObject = {};
 
     for (let asset of data) {
@@ -27,13 +24,13 @@ class BuilderTool {
     }
 
     let objectContent = JSON.stringify(AssetsMetadataObject);
-    const objectFilePath = `${SRC_DIR}/${mergedObjectFileName}.json`;
+    const objectFilePath = `${SRC_DIR}/${filename}.json`;
 
     fs.writeFileSync(objectFilePath, objectContent);
     console.log(`Generated object in ${objectFilePath}`);
   }
 
-  static generateAssets() {
+  static generateAssets(directoryPath) {
     if (!fs.existsSync(LIB_DIR)) fs.mkdirSync(LIB_DIR);
     if (!fs.existsSync(outputDirectory)) fs.mkdirSync(outputDirectory);
     BuilderTool.processLogosFromDirectory(directoryPath);
