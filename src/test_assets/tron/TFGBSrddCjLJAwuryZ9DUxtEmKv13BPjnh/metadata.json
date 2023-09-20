@@ -1,0 +1,20 @@
+{
+    "identifier": "TFGBSrddCjLJAwuryZ9DUxtEmKv13BPjnh",
+    "name": "USD Coin",
+    "network": "trc20",
+    "symbol": "USDC",
+    "decimals": 6,
+    "website": "https://www.centre.io",
+    "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+    "explorer": "https://shasta.tronscan.org/#/contract/TFGBSrddCjLJAwuryZ9DUxtEmKv13BPjnh",
+    "links": [
+      {
+        "name": "github",
+        "url": "https://github.com/centrehq"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/centre_io"
+      }
+    ]
+  }

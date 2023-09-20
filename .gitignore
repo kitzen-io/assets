@@ -28,3 +28,4 @@ lerna-debug.log*
 *.sublime-workspace
 .vscode
 src/assets.metadata.constant.json
+src/assets.metadata.json

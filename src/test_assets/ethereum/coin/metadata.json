@@ -1,0 +1,28 @@
+{
+    "identifier": "coin",
+    "name": "Ethereum",
+    "website": "https://ethereum.org/",
+    "description": "Ethereum is an open-source platform for creating and deploying decentralized applications.",
+    "explorer": "https://etherscan.io/",
+    "symbol": "ETH",
+    "network": "erc20",
+    "decimals": 18,
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ethereum"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ethereum"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+        }
+    ]
+}
