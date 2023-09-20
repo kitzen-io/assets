@@ -1,0 +1,26 @@
+[
+  {
+    "network": "btc",
+    "identifier": "coin"
+  },
+  {
+    "network": "erc20",
+    "identifier": "coin"
+  },
+  {
+    "name": "Tether",
+    "network": "trc20"
+  },
+  {
+    "network": "trc10",
+    "identifier": "coin"
+  },
+  {
+    "network": "trc20",
+    "name": "USD Coin"
+  },
+  {
+    "network": "erc20",
+    "name": "USD Coin"
+  }
+]
