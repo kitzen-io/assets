@@ -1,12 +1,31 @@
 import IAssetMetadata from './interface/asset-metadata.interface';
 import assetsMetadata from './assets.metadata.json';
+import assetsTestMetadata from './assets.test.metadata.json';
 import assetMetadataObject from './assets.metadata.constant.json';
+import assetTestMetadataObject from './assets.test.metadata.constant.json';
+import defaultAssets from './default.asssets.json';
+import { IAssetMetadataObject } from './interface/asset-metadata-object.interface';
 
-const AssetsMetadata: IAssetMetadata[] = assetsMetadata;
-const AssetsMetadataObject: { [network: string]: { [identifier: string]: IAssetMetadata } } = assetMetadataObject;
+function getAssetMetadata(env: 'production' | 'development' = 'production'): IAssetMetadata[] {
+  if (env === 'development') {
+    return assetsTestMetadata;
+  } else {
+    return assetsMetadata;
+  }
+}
+
+function getAssetMetadataObject(env: 'production' | 'development' = 'production'): IAssetMetadataObject {
+  if (env === 'development') {
+    return assetTestMetadataObject;
+  } else {
+    return assetMetadataObject;
+  }
+}
 
 export {
-  AssetsMetadata,
-  AssetsMetadataObject,
+  getAssetMetadata,
+  getAssetMetadataObject,
+  defaultAssets,
   IAssetMetadata,
+  IAssetMetadataObject,
 };
