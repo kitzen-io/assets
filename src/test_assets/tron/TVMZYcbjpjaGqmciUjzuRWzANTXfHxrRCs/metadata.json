@@ -1,0 +1,14 @@
+{
+  "name": "Decentralized USD",
+  "symbol": "USDD",
+  "decimals": 18,
+  "description": "USDD is a fully decentralized algorithmic stablecoin",
+  "website": "https://usdd.io/",
+  "explorer": "https://shasta.tronscan.org/#/token20/TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs",
+  "links": [],
+  "tags": [
+    "stablecoin"
+  ],
+  "identifier": "TVMZYcbjpjaGqmciUjzuRWzANTXfHxrRCs",
+  "network": "trc20"
+}
