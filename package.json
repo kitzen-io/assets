@@ -11,6 +11,7 @@
   "scripts": {
     "prebuild": "rimraf lib",
     "assets": "node ./build/build.js",
+    "scale-svg": "node ./build/downscaler.js",
     "build": "yarn assets && tsc",
     "build:watch": "tsc --watch",
     "lint": "eslint 'src/**/*.ts' --fix",
@@ -30,8 +31,6 @@
     "lib"
   ],
   "devDependencies": {
-    "typescript": "^5.1.6",
-    "semantic-release": "^19.0.2",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/gitlab": "^9.2.0",
     "@semantic-release/npm": "^9.0.1",
@@ -41,6 +40,9 @@
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-plugin-import": "^2.22.0",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "semantic-release": "^19.0.2",
+    "typescript": "^5.1.6",
+    "svg-scaler": "^0.1.5"
   }
 }
