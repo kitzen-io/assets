@@ -41,6 +41,7 @@
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-plugin-import": "^2.22.0",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "svg-scaler": "^0.1.5"
   }
 }
