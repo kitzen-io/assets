@@ -54,6 +54,17 @@ Please, set valid commit message, to increment the right version
 ### To increase version (X.y.z) version
 `````perf: your commit message...`````
 
+# Logos
+
+- all logos should be in SVG so mobile apps wouldn't need to support 5 images of each easset that will grealy increase the app size and complexity on frontend.
+- all logos should be a fixed sized, 36x36 according figma. While it's easy to downscale an image in web using css transfrom or viewport, it would not work on mobile. Thus all assets should be already withing correct width and height. 
+
+### Libs that did NOT succeed with current assets svg
+- svg-scaler: provides a lot of NaN in the path
+- scale-that-svg - unable to properly parse width, provides NaN's in width of Path attribute and unable to specify outcome width, only % scale e.g. 0.5
+- svgo - doesn't support resizing
+- svg-resizer; uses rsvg-convert under the hood, but render to raster format like png
+
 # Contributing
 We deeply appreciate the valuable contributions made by our community. 
 To provide feedback or report bugs, [kindly open a GitHub issue](https://github.com/kitzen-io/api-dto/issues/new).
