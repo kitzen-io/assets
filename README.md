@@ -54,6 +54,10 @@ Please, set valid commit message, to increment the right version
 ### To increase version (X.y.z) version
 `````perf: your commit message...`````
 
+# Logos
+ - All logos must be in SVG format to avoid the need for mobile apps to support multiple image assets, which would significantly increase app size and frontend complexity
+ - All logos should have a fixed size of 36x36
+
 # Contributing
 We deeply appreciate the valuable contributions made by our community. 
 To provide feedback or report bugs, [kindly open a GitHub issue](https://github.com/kitzen-io/api-dto/issues/new).
