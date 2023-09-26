@@ -58,12 +58,6 @@ Please, set valid commit message, to increment the right version
  - All logos must be in SVG format to avoid the need for mobile apps to support multiple image assets, which would significantly increase app size and frontend complexity
  - All logos should have a fixed size of 36x36
 
-### Libs that did NOT succeed with current assets svg
-- svg-scaler: provides a lot of NaN in the path
-- scale-that-svg - unable to properly parse width, provides NaN's in width of Path attribute and unable to specify outcome width, only % scale e.g. 0.5
-- svgo - doesn't support resizing
-- svg-resizer; uses rsvg-convert under the hood, but render to raster format like png
-
 # Contributing
 We deeply appreciate the valuable contributions made by our community. 
 To provide feedback or report bugs, [kindly open a GitHub issue](https://github.com/kitzen-io/api-dto/issues/new).

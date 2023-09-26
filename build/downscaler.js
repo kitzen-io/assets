@@ -2,6 +2,13 @@ const fs = require('fs/promises');
 const path = require('path');
 const SVGTranslator = require('svg-scaler/lib/SVGTranslator');
 
+
+// Libs that did NOT succeed with current assets svg
+// - svg-scaler: provides a lot of NaN in the path
+// - scale-that-svg - unable to properly parse width, provides NaN's in width of Path attribute and unable to specify outcome width, only % scale e.g. 0.5
+// - svgo - doesn't support resizing
+// - svg-resizer; uses rsvg-convert under the hood, but render to raster format like png
+
 async function scaleSVGsInDirectory(directoryPath, outputDirectoryPath, targetWidth) {
   // Read the list of files in the directory
   const files = await fs.readdir(directoryPath);
