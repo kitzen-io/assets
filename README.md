@@ -55,9 +55,8 @@ Please, set valid commit message, to increment the right version
 `````perf: your commit message...`````
 
 # Logos
-
-- all logos should be in SVG so mobile apps wouldn't need to support 5 images of each easset that will grealy increase the app size and complexity on frontend.
-- all logos should be a fixed sized, 36x36 according figma. While it's easy to downscale an image in web using css transfrom or viewport, it would not work on mobile. Thus all assets should be already withing correct width and height. 
+ - All logos must be in SVG format to avoid the need for mobile apps to support multiple image assets, which would significantly increase app size and frontend complexity
+ - All logos should have a fixed size of 36x36
 
 ### Libs that did NOT succeed with current assets svg
 - svg-scaler: provides a lot of NaN in the path
