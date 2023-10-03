@@ -1,4 +1,5 @@
 const fs = require('fs');
+const fsExtra = require('fs-extra');
 const path = require('path');
 
 const SRC_DIR = 'src';
@@ -35,6 +36,10 @@ class BuilderTool {
     if (!fs.existsSync(outputDirectory)) fs.mkdirSync(outputDirectory);
     BuilderTool.processLogosFromDirectory(directoryPath);
     console.log('All logos have been processed and saved in', outputDirectory);
+  }
+
+  static copyFlags() {
+    fsExtra.copySync(`${SRC_DIR}/flags`, `${LIB_DIR}/flags`);
   }
 
   static gatherInfoFromDirectory(dir) {
