@@ -6,20 +6,7 @@
     "symbol": "NBU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/nmbplatform"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/nmbplatform"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCOl3hXqESQ54chKSn5nsfPg"
-        }
-    ],
+    "links": [],
     "tags": [
         "staking",
         "defi"

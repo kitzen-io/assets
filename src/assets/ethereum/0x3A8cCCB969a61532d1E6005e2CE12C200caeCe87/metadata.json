@@ -6,20 +6,7 @@
     "description": "TITAN is a blockchain based decentralized financial center that provides optimal liquidity solutions for different digital asset category by adaptive bonding curve.",
     "explorer": "https://etherscan.io/token/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TitanSwaporg"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/titanSwap"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/TitanSwap"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

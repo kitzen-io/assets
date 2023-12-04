@@ -6,20 +6,7 @@
     "website": "https://ptokens.io/",
     "explorer": "https://etherscan.io/token/0xb6C53431608E626AC81a9776ac3e999c5556717c",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/pNetworkDeFi"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/provable-things"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/telos/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

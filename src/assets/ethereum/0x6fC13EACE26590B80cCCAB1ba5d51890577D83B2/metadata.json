@@ -8,16 +8,7 @@
     "symbol": "UMB",
     "status": "active",
     "research": "",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/umbrella-network/overture"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.umb.network/wp-content/uploads/2021/02/umb_litepaper_design_v3.1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6fc13eace26590b80cccab1ba5d51890577d83b2"
 }

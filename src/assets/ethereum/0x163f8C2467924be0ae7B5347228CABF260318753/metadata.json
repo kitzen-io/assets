@@ -6,20 +6,7 @@
     "symbol": "WLD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/worldcoin"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/worldcoin"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/worldcoin-org/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x163f8c2467924be0ae7b5347228cabf260318753"
 }

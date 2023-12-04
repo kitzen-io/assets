@@ -6,20 +6,7 @@
     "symbol": "mUSDT",
     "decimals": 6,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DMMDAO"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/DMMDAO"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/dmm-dao"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x84d4afe150da7ea1165b9e45ff8ee4798d7c38da"
 }

@@ -6,16 +6,7 @@
     "symbol": "YLD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yieldapp"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://yield.app/whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf94b5c5651c888d928439ab6514b93944eee6f48"
 }

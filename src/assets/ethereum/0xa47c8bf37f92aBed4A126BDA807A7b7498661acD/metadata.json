@@ -9,24 +9,7 @@
     "tags": [
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TerraMoney"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/terra_announcements"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/bYfyhUT"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/terra-money"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa47c8bf37f92abed4a126bda807a7b7498661acd"
 }

@@ -6,16 +6,7 @@
     "symbol": "DICE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DiceFinance"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/dice-finance/Whitepaper/blob/master/Dice.FinanceWP.md"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcf67ced76e8356366291246a9222169f4dbdbe64"
 }

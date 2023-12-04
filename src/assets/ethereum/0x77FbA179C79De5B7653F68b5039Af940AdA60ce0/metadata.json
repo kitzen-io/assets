@@ -9,32 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ampleforth"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/AmpleforthOrg"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/ampleforthcrypto"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Ampleforth"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/ampleforth-governance-token/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/ampleforth-governance-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
 }

@@ -7,28 +7,7 @@
     "symbol": "ORN",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/orionprotocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/orion_protocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/orionprotocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/orion-protocol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.orionprotocol.io/hubfs/whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a"
 }

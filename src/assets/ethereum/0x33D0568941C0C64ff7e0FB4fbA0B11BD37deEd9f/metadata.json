@@ -6,20 +6,7 @@
     "symbol": "RAMP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/RampDefi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/rampdefiofficial"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/rampdefi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
 }

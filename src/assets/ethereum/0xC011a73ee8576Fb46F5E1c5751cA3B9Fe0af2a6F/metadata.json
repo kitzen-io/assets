@@ -10,32 +10,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/havven/havven"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/synthetix_io"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/synthetix_io/"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.synthetix.io/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://synthetix.io/uploads/havven_whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/havven/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
 }

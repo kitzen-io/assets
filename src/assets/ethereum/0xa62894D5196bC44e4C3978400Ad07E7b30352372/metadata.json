@@ -6,16 +6,7 @@
     "symbol": "X",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/YEJR2HN4"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Xerc20"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa62894d5196bc44e4c3978400ad07e7b30352372"
 }

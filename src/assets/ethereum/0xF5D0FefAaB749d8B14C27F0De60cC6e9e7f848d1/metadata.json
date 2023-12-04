@@ -6,24 +6,7 @@
     "symbol": "YFARM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yffsfinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/yffsfinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/yffsfinance"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@yffs.finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf5d0fefaab749d8b14c27f0de60cc6e9e7f848d1"
 }

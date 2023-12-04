@@ -7,24 +7,7 @@
     "symbol": "AVA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/travalacom"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/travala"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/travala"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/travala/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0"
 }

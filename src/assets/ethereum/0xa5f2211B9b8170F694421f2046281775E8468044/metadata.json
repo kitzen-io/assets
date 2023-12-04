@@ -6,36 +6,7 @@
     "symbol": "THOR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/thorswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/THORSwap"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/thorswap_ann"
-        },
-        {
-            "name": "medium",
-            "url": "https://thorswap.medium.com"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.thorswap.finance"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/thorswap"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/thorswap"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa5f2211b9b8170f694421f2046281775e8468044"
 }

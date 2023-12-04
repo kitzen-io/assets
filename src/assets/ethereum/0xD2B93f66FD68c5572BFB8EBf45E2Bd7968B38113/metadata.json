@@ -6,12 +6,7 @@
     "symbol": "NIP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/geass-zero/nyan.finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd2b93f66fd68c5572bfb8ebf45e2bd7968b38113"
 }

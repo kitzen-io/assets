@@ -6,16 +6,7 @@
     "symbol": "SBX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SBXtoken"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/6n49BTy"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdaf8a0e12fc3b109a17ed5cbb943a8f3f86081f7"
 }

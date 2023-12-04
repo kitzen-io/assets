@@ -6,28 +6,7 @@
     "symbol": "GHST",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/aavegotchi"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/aavegotchi"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/aavegotchi/"
-        },
-        {
-            "name": "medium",
-            "url": "https://aavegotchi.medium.com/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/aavegotchi-ghst-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
 }

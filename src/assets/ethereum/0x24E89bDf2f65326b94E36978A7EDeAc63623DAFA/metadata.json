@@ -6,16 +6,7 @@
     "description": "Official coin of the Tiger King",
     "explorer": "https://etherscan.io/token/0x24e89bdf2f65326b94e36978a7edeac63623dafa",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Tiger_King_Coin"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/theTigerKingOfficial"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x24e89bdf2f65326b94e36978a7edeac63623dafa"
 }

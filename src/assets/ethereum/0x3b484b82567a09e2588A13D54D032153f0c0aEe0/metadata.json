@@ -9,20 +9,7 @@
     "tags": [
         "nft"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/The_OpenDAO"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/opendao/"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/zzzKhejARz"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
 }

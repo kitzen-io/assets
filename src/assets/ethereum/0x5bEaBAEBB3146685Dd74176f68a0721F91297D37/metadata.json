@@ -7,24 +7,7 @@
     "symbol": "BOT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bouncefinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/bounce_finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bounce_finance"
-        },
-        {
-            "name": "medium",
-            "url": "https://bouncefinance.medium.com"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5beabaebb3146685dd74176f68a0721f91297d37"
 }

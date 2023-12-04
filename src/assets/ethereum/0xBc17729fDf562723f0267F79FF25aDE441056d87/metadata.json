@@ -6,20 +6,7 @@
     "symbol": "KST",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://ksmstarter.com/wp-content/uploads/2021/09/ksm_starter.pdf"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KSMStarter"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/KSM_starter"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbc17729fdf562723f0267f79ff25ade441056d87"
 }

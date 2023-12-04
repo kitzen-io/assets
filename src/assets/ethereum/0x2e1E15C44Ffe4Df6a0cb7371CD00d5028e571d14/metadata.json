@@ -6,32 +6,7 @@
     "symbol": "MTLX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/fetchai/mettalex-market-maker"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Mettalex"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mettalex_official_news"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/zvWqGEaykD"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCrEQK_X2Vm1kCtftlRoodXA"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/mettalex"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14"
 }

@@ -11,48 +11,7 @@
         "governance",
         "staking"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/singnet"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://public.singularitynet.io/whitepaper.pdf"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/singularity_net"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/singularitynet"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/SingularityNet"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/singularityNET.io/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/singularitynet/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/singularitynet"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.singularitynet.io/"
-        },
-        {
-            "name": "forum",
-            "url": "https://community.singularitynet.io/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
 }

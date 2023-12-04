@@ -9,28 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/keep-network/keep-core"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/keep_project"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/KeepNetwork"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/keep-network/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/keep-network/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
 }

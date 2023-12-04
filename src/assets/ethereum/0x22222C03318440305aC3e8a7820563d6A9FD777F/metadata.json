@@ -6,12 +6,7 @@
     "symbol": "CLV",
     "decimals": 6,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/clvfi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x22222c03318440305ac3e8a7820563d6a9fd777f"
 }

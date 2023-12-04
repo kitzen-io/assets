@@ -6,16 +6,7 @@
     "symbol": "GHO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GHOAave"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/aave/gho-core/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
 }

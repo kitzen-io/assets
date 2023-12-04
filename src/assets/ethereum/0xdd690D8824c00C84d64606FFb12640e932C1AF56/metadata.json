@@ -9,16 +9,7 @@
     "symbol": "TAVITT",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://tavitt.co.jp/TAVITT_WP_En_ver2.01.pdf"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/Tavitt/token"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdd690d8824c00c84d64606ffb12640e932c1af56"
 }

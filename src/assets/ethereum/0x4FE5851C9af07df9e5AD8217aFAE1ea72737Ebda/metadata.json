@@ -7,12 +7,7 @@
     "symbol": "OPT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://openpredict.io/litepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda"
 }

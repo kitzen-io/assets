@@ -6,12 +6,7 @@
     "symbol": "RUGZ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/ruglife"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xedfbd6c48c3ddff5612ade14b45bb19f916809ba"
 }

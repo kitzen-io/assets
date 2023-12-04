@@ -6,16 +6,7 @@
     "symbol": "AceD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/AceDcoin"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/VExsPg6"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4b3a0c6d668b43f3f07904e124328659b90bb4ca"
 }

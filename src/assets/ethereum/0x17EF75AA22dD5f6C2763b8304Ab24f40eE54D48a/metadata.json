@@ -6,24 +6,7 @@
     "symbol": "RVP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Rev_Populi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/revpopofficial"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/37gBNkJ"
-        },
-        {
-            "name": "medium",
-            "url": "https://revolutionpopuli.medium.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a"
 }

@@ -7,20 +7,7 @@
     "symbol": "$PREMIA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/premiafinance/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/premiafinance"
-        },
-        {
-            "name": "medium",
-            "url": "https://premia.medium.com"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
 }

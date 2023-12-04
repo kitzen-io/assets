@@ -7,12 +7,7 @@
     "symbol": "BET",
     "decimals": 4,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://earnbet.io/BET"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6"
 }

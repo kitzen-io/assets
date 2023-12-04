@@ -9,24 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ichifarm"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ichifoundation"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ichifarm"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ichifarm"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x903bef1736cddf2a537176cf3c64579c3867a881"
 }

@@ -7,16 +7,7 @@
     "symbol": "QUSD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://qian.finance/qian_whitepaper_zh.pdf"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/QIAN-Protocol/QIAN"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1"
 }

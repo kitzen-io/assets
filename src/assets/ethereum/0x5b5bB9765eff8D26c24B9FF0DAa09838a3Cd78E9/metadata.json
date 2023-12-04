@@ -7,24 +7,7 @@
     "symbol": "BI",
     "decimals": 4,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/vittominacori/erc20-generator/blob/v3.0.4/dist/BaseToken.dist.sol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/@bitaniumb"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/gregowens"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://bitanium.org"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5b5bb9765eff8d26c24b9ff0daa09838a3cd78e9"
 }

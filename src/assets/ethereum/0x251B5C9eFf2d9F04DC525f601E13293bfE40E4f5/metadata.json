@@ -6,12 +6,7 @@
     "symbol": "IYFI",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "source_code",
-            "url": "https://gitlab.com/iYearnFinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x251b5c9eff2d9f04dc525f601e13293bfe40e4f5"
 }

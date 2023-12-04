@@ -6,20 +6,7 @@
     "description": "$Dino is a Meme Coin.",
     "explorer": "https://etherscan.io/token/0x49642110b712c1fd7261bc074105e9e44676c68f",
     "status": "active",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/dinolfg/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DinoLFG"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/OfficialDinoLFG"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

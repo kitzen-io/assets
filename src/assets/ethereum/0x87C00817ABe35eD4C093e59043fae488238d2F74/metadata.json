@@ -6,16 +6,7 @@
     "symbol": "YNK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/yoinknetwork"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/yoinkofficial"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x87c00817abe35ed4c093e59043fae488238d2f74"
 }

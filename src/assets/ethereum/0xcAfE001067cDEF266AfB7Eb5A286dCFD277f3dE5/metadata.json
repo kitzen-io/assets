@@ -6,20 +6,7 @@
     "description": "ParaSwap aggregates decentralized exchanges and other DeFi services in one comprehensive interface to streamline and facilitate users' interactions with decentralized finance on Ethereum and EVM-compatible chains Polygon, Avalanche, BSC & more to come.",
     "explorer": "https://etherscan.io/token/0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/paraswap"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/paraswap"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/paraswap/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

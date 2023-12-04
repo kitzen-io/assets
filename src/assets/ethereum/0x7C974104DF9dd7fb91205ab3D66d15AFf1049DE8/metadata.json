@@ -6,16 +6,7 @@
     "symbol": "uSD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/b-u-i-d-l/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://covenants.eth.link/#/grimoire"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8"
 }

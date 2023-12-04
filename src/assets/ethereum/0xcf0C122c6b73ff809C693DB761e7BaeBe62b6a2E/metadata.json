@@ -9,36 +9,7 @@
     "tags": [
         "memes"
     ],
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/FlokiInuToken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/realflokiinu"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/floki-inu/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/floki-inu"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/floki"
-        },
-        {
-            "name": "medium",
-            "url": "https://realflokiinu.medium.com/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.theflokiinu.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e"
 }

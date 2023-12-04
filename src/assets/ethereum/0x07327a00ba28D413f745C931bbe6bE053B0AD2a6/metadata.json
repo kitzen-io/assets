@@ -6,20 +6,7 @@
     "description": "Humanscape aims to cure incurable diseases, by curating personal health data.",
     "explorer": "https://etherscan.io/token/0x07327a00ba28D413f745C931bbe6bE053B0AD2a6",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Humanscape_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Humanscape"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/humanscape/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x07327a00ba28d413f745c931bbe6be053b0ad2a6"
 }

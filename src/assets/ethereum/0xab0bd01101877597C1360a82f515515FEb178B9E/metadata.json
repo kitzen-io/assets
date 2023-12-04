@@ -6,16 +6,7 @@
     "symbol": "FF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/fudeshu"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.babaoshu.com/whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xab0bd01101877597c1360a82f515515feb178b9e"
 }

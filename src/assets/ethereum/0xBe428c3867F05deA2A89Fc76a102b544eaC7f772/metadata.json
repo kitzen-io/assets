@@ -6,32 +6,7 @@
     "symbol": "CVT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CyberVeinGroup"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/CyberVeinCommunity"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/cyberveinteam"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCpIgOnNTu4FPFsa9LBdQjCw?view_as=subscriber"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/CyberVeinOfficial/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/cybervein"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbe428c3867f05dea2a89fc76a102b544eac7f772"
 }

@@ -6,12 +6,7 @@
     "symbol": "PCT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/percent-finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbc16da9df0a22f01a16bc0620a27e7d6d6488550"
 }

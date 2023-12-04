@@ -6,20 +6,7 @@
     "symbol": "JREX",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/JuraNetwork"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/JuraProtocol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docsend.com/view/p9f87gp/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x638155f4bd8f85d401da32498d8866ee39a150b8"
 }

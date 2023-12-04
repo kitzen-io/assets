@@ -11,24 +11,7 @@
         "defi",
         "governance"
     ],
-    "links": [
-        {
-            "name": "blog",
-            "url": "https://blog.makerdao.com/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://makerdao.com/assets/documents/purple.pdf"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/MakerDAO/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/maker/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
 }

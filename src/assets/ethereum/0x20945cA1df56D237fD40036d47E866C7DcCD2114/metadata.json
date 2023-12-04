@@ -6,28 +6,7 @@
     "symbol": "Nsure",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/nsure-tech"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Nsure"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/nsurenet"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@nsure_network"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://nsure.network/Nsure_WP_0.7.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x20945ca1df56d237fd40036d47e866c7dccd2114"
 }

@@ -7,16 +7,7 @@
     "symbol": "ESD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/emptysetsquad/dollar"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/emptysetsquad/dollar-docs"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
 }

@@ -10,5 +10,6 @@
         "stablecoin"
     ],
     "network": "erc20",
-    "identifier": "0xb4272071ecadd69d933adcd19ca99fe80664fc08"
+    "identifier": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+    "links": []
 }

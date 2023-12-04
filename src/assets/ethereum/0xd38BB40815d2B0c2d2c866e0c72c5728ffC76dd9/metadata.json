@@ -6,24 +6,7 @@
     "description": "Symbiosis aggregates decentralized exchange liquidity across any EVM and non-EVM networks. Swap any token and transfer liquidity. Yes, any.",
     "explorer": "https://etherscan.io/token/0xd38BB40815d2B0c2d2c866e0c72c5728ffC76dd9",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/symbiosis_fi"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/symbiosis-finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/symbiosis_finance"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/symbiosis-fi"
-        }
-    ],
+    "links": [],
     "tags": [
         "stablecoin"
     ],

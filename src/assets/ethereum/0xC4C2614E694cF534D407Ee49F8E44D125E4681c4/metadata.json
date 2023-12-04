@@ -7,16 +7,7 @@
     "symbol": "CHAIN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Chain-Games"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://chaingames.io/wp-content/uploads/2020/08/Chain_Games-White-Paper-Aug-2020v4.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4"
 }

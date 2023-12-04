@@ -6,20 +6,7 @@
     "symbol": "LYXe",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/lukso_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/LUKSO"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/lukso"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa8b919680258d369114910511cc87595aec0be6d"
 }

@@ -6,12 +6,7 @@
     "symbol": "DOGDEFI",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DogDeFiCoin"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb"
 }

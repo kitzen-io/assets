@@ -6,20 +6,7 @@
     "symbol": "PPB",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PPBank_Official"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/PPBcommunity"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/EwpWyGu"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9b85babc0cc89899ccd47e9226a0b1fae577b19e"
 }

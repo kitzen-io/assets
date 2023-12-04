@@ -6,20 +6,7 @@
     "symbol": "RARE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SuperRare"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/superrare/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/superrare/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

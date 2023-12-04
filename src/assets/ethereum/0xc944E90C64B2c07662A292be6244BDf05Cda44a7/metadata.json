@@ -10,28 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/graphprotocol/graph-node"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/graphprotocol"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/thegraph"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/graphprotocol"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/the-graph/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
 }

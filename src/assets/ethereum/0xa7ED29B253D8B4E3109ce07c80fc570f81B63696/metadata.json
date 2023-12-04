@@ -6,28 +6,7 @@
     "symbol": "BAS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Basis-Cash"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Basis Cash"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/basiscash"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/UEZq3HF5Eu"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/basis-cash"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696"
 }

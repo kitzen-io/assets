@@ -9,16 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/perpetual-protocol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.perp.fi/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
 }

@@ -6,36 +6,7 @@
     "symbol": "OMG",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/omgnetwork"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/omgnetworkhq"
-        },
-        {
-            "name": "blog",
-            "url": "https://omg.network/blog"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/omgnetworkhq"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/omisego/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.omg.network/"
-        },
-        {
-            "name": "source_code",
-            "url": "https://github.com/omgnetwork"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
 }

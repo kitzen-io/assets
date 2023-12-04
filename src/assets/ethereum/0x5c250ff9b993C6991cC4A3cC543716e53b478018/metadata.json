@@ -6,24 +6,7 @@
     "symbol": "STP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/stpay/contract"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/stpaychannel"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/stpaychannel"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCfrHNUUZMw7PfojxfdRTTDQ"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5c250ff9b993c6991cc4a3cc543716e53b478018"
 }

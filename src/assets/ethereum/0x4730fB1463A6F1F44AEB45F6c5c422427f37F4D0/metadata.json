@@ -6,36 +6,7 @@
     "website": "https://4thtech.io/",
     "explorer": "https://etherscan.io/token/0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/4thtechProject"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/the-4th-pillar"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/the4thpillar"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/the4thpillarofficial"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/c/4thpillartechnologies"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/4thtech/static-assets/raw/main/pdf/whitepaper.pdf"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/4thpillar-technologies/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0"
 }

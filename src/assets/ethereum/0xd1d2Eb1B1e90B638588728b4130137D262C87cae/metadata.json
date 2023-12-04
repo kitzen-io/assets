@@ -10,28 +10,7 @@
         "nft",
         "gamefi"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GoGalaGames"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/GoGalaGames"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/GoGalaGames"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/GoGalaGames"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/GoGalaGames"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd1d2eb1b1e90b638588728b4130137d262c87cae"
 }

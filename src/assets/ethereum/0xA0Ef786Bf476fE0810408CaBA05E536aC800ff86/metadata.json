@@ -6,20 +6,7 @@
     "symbol": "MYRIA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/myria"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/myriaofficialgroup"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/myria"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa0ef786bf476fe0810408caba05e536ac800ff86"
 }

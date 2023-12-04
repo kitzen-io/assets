@@ -6,24 +6,7 @@
     "symbol": "ASTRO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/astrotoolsio"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Astro_Tools"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/astrotools/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/astrotools/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcbd55d4ffc43467142761a764763652b48b969ff"
 }

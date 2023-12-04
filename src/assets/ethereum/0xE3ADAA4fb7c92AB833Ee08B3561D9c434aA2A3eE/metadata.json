@@ -10,5 +10,6 @@
         "wrapped"
     ],
     "network": "erc20",
-    "identifier": "0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee"
+    "identifier": "0xe3adaa4fb7c92ab833ee08b3561d9c434aa2a3ee",
+    "links": []
 }

@@ -6,28 +6,7 @@
     "symbol": "pBTC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/provable-things"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/pToken pBTC"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ptokens"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/pTokens"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://ptokens.io/ptokens-rev5b.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5228a22e72ccc52d415ecfd199f99d0665e7733b"
 }

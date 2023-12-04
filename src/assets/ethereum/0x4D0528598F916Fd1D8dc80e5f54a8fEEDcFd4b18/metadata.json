@@ -6,16 +6,7 @@
     "symbol": "ATOS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Twitter"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/atoshifoundation/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4d0528598f916fd1d8dc80e5f54a8feedcfd4b18"
 }

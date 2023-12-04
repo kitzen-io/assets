@@ -9,24 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/FraxFinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Frax Finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/fraxfinance"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Xwe8kAwZ4a"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
 }

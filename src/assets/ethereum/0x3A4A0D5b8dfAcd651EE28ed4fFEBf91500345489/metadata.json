@@ -6,24 +6,7 @@
     "symbol": "BRX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Filinomus/BerryX"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Polar berry"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/polarberrycom"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://polar-berry.com/whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3a4a0d5b8dfacd651ee28ed4ffebf91500345489"
 }

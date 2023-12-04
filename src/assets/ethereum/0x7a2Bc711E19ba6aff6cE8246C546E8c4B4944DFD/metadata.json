@@ -7,12 +7,7 @@
     "symbol": "WAXE",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/worldwide-asset-exchange/whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd"
 }

@@ -6,12 +6,7 @@
     "symbol": "USDX",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/coinusdx"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbec4a69d6a5fbcb2303c13d24ea1a51a6f19bd12"
 }

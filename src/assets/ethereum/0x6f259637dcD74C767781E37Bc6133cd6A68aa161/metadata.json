@@ -6,28 +6,7 @@
     "symbol": "HT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/huobiproofficial"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/HUOBI_Pro"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/huobi.pro"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/huobi-global"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/huobi-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
 }

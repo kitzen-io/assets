@@ -9,12 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/YfdaiF"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
 }

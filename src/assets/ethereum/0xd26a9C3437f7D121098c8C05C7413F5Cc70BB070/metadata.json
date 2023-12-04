@@ -6,20 +6,7 @@
     "symbol": "AZUM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GamesAzuma"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/azumagames"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.azumacoin.io/static/Azuma_WP_Sep17-2b944767e8ac9abe89bd3ae0fdf6cfa1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd26a9c3437f7d121098c8c05c7413f5cc70bb070"
 }

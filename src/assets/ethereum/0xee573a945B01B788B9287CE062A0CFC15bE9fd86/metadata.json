@@ -6,12 +6,7 @@
     "symbol": "XED",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/exeedme"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
 }

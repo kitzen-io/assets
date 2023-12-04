@@ -6,12 +6,7 @@
     "symbol": "RFuel",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "medium",
-            "url": "https://medium.com/@riodefiofficial"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5"
 }

@@ -6,16 +6,7 @@
     "symbol": "SAFEEARTH",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SafeEarthETH"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/SafeEarthETH"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba"
 }

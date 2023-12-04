@@ -6,24 +6,7 @@
     "symbol": "NFY",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/NFYFinance/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/NFYFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/NFYOfficialChat"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/wKgUcYr"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc"
 }

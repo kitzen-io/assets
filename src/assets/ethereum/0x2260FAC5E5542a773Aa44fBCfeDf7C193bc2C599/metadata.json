@@ -10,20 +10,7 @@
         "defi",
         "wrapped"
     ],
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/wrapped-bitcoin/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
 }

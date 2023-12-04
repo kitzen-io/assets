@@ -6,20 +6,7 @@
     "symbol": "MNW",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/morpheus-network/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MNWSupplyChain"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/themorpheusnetwork"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4"
 }

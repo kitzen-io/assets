@@ -11,32 +11,7 @@
         "defi",
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MakerDAO"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/MakerDAO/"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.makerdao.com/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://makerdao.com/whitepaper/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/dai/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6b175474e89094c44da98b954eedeac495271d0f"
 }

@@ -6,20 +6,7 @@
     "symbol": "Auction",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/bounce_finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bounce_finance"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/bounce-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096"
 }

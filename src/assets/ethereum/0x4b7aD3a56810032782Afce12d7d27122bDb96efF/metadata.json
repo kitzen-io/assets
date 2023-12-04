@@ -8,12 +8,7 @@
     "symbol": "SPRKL",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Sparkleloyalty"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4b7ad3a56810032782afce12d7d27122bdb96eff"
 }

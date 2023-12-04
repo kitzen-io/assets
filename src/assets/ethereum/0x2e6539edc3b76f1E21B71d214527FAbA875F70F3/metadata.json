@@ -6,24 +6,7 @@
     "symbol": "YFDOT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/YFDOT"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Yfdotfinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/YFDOT_Finance"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@YFdotFinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2e6539edc3b76f1e21b71d214527faba875f70f3"
 }

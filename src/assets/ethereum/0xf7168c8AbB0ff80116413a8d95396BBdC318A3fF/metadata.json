@@ -6,20 +6,7 @@
     "symbol": "KEKE",
     "decimals": 7,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/kingdomofkek"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/kingdomofkek"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/ru/currencies/kek/"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

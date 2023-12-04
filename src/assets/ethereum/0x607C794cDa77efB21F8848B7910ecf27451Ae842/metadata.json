@@ -6,24 +6,7 @@
     "symbol": "PIE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/DefiPie"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/defipiepie"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/defipie"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/defipie"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x607c794cda77efb21f8848b7910ecf27451ae842"
 }

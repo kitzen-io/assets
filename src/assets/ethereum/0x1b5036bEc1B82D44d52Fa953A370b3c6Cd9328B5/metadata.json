@@ -6,24 +6,7 @@
     "description": "Elan Future is a clean-tech Research & Development company located in Canada, leading the way toward affordable and reliable electricity through decentralized energy systems.",
     "explorer": "https://etherscan.io/token/0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/ElanFutureOfficial"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ElanFuture"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/elan/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/elan/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

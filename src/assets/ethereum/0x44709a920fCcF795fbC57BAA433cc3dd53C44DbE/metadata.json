@@ -10,24 +10,7 @@
         "nft",
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/dappradar"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dappradar"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/dappradar/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/joinchat/GdhNjQ8PMhCZ_a0CZutmXg"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe"
 }

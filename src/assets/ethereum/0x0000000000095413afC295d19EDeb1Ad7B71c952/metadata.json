@@ -6,24 +6,7 @@
     "symbol": "LON",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/tokenlon"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/nPmsMrG"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@tokenlon"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://tokenlon.im/files/Tokenlon-litepaper_en-us.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0000000000095413afc295d19edeb1ad7b71c952"
 }

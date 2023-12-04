@@ -7,16 +7,7 @@
     "symbol": "DSD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/dynamicsetdollar/dsd-protocol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/emptysetsquad/dollar/blob/master/d%C3%B8llar.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
 }

@@ -6,16 +6,7 @@
     "symbol": "RBASE",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DefiProphets"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/rbasebydefiprophets"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe8b251822d003a2b2466ee0e38391c2db2048739"
 }

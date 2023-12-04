@@ -6,16 +6,7 @@
     "description": "Sharbi is a community-owned, Arbitrum and Ethereum token. Sharbi is known for being the mistress of Shiba.",
     "explorer": "https://etherscan.io/token/0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9",
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/SharbiPortal"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SharbiToken"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

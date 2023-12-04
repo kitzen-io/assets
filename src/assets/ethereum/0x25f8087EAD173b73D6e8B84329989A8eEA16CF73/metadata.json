@@ -6,44 +6,7 @@
     "symbol": "YGG",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://yieldguild.io/YGG-Whitepaper-English.pdf"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/yield-guild-games"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/yieldguildgames"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/YieldGuild"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/yieldguildgames/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/yieldguildgames"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/ygg"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/yield-guild-games/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/yield-guild-games"
-        }
-    ],
+    "links": [],
     "tags": [
         "governance",
         "gamefi",

@@ -7,20 +7,7 @@
     "symbol": "TVK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/terra-virtua-kolect/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/terra_virtua"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/terravirtua"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988"
 }

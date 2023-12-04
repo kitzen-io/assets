@@ -6,20 +6,7 @@
     "symbol": "KTON",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/darwinia-network"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DarwiniaNetwork"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DarwiniaNetwork"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
 }

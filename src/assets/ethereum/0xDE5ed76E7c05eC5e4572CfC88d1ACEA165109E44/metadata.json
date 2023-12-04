@@ -6,20 +6,7 @@
     "symbol": "DEUS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DeusDao"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/deusfinance"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@deusfinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
 }

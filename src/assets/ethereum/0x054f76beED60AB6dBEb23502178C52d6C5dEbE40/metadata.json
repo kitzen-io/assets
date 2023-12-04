@@ -6,12 +6,7 @@
     "symbol": "FIN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DeFinerorg"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x054f76beed60ab6dbeb23502178c52d6c5debe40"
 }

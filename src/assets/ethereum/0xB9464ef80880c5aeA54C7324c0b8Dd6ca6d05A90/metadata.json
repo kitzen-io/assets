@@ -7,20 +7,7 @@
     "symbol": "LOCK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ethereum"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/ethereum"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://sherlocksecurity.io/SherlockWhitepaperV1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb9464ef80880c5aea54c7324c0b8dd6ca6d05a90"
 }

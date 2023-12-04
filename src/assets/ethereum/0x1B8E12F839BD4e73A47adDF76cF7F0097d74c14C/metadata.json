@@ -6,28 +6,7 @@
     "symbol": "vUSD",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/valuedefi"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/value_defi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ValueDeFi"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Dpvd7tp"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@valuedefi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1b8e12f839bd4e73a47addf76cf7f0097d74c14c"
 }

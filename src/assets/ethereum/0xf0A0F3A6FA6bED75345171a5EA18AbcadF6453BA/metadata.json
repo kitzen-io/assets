@@ -6,16 +6,7 @@
     "symbol": "YFBT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yfbit"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://yfbit.finance/assets/white/YearnFinanceBit_WP_v_1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf0a0f3a6fa6bed75345171a5ea18abcadf6453ba"
 }

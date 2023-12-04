@@ -6,24 +6,7 @@
     "symbol": "ROOT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/RootkitFinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/rootkitfinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/rootkitfinanceann"
-        },
-        {
-            "name": "medium",
-            "url": "https://rootkitfinance.medium.com"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e"
 }

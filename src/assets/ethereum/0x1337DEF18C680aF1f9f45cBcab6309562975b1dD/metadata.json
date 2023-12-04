@@ -6,32 +6,7 @@
     "symbol": "arNXM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ArmorFi"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ArmorFi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ArmorFi"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/8HuTB22"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/armorfi"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://armorfi.gitbook.io/armor/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1337def18c680af1f9f45cbcab6309562975b1dd"
 }

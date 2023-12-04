@@ -6,16 +6,7 @@
     "symbol": "PTF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Power-Trade/fuel-dao/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://power.trade/fuel-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc57d533c50bc22247d49a368880fb49a1caa39f7"
 }

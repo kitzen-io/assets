@@ -6,20 +6,7 @@
     "symbol": "kSEED",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/KushFinance/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KushFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/kushfinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3f09400313e83d53366147e3ea0e4e2279d80850"
 }

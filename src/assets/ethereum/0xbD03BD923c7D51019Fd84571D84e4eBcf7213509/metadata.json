@@ -6,20 +6,7 @@
     "symbol": "RCKT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/XenoTrades/rockettoken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/RocketToken"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/RocketToken"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbd03bd923c7d51019fd84571d84e4ebcf7213509"
 }

@@ -6,12 +6,7 @@
     "website": "https://app.tryroll.com/token/INI",
     "explorer": "https://etherscan.io/token/0xb5fDe360d9d6D4Dddf6093a39F725081F9C601ae",
     "status": "active",
-    "links": [
-        {
-            "name": "docs",
-            "url": "https://app.tryroll.com/token/INI"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

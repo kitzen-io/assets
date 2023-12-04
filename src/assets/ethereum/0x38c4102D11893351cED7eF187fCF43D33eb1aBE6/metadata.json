@@ -6,16 +6,7 @@
     "symbol": "SHRIMP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/shrimp-finance/shrimp-protocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FinanceShrimp"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x38c4102d11893351ced7ef187fcf43d33eb1abe6"
 }

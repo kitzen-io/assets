@@ -10,24 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DIAdata_org"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/diadata-org"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/dia-insights"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DIAdata_org"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419"
 }

@@ -6,24 +6,7 @@
     "website": "https://apenft.io/",
     "explorer": "https://etherscan.io/token/0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/apenftorg"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/apenftEN"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://fundation.apenft.io/book/APENFT%20White%20Paper.pdf"
-        },
-        {
-            "name": "medium",
-            "url": "https://apenftorg.medium.com/"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft",
         "governance"

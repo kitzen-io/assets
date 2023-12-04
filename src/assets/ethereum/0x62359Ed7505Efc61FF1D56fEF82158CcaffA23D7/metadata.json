@@ -9,20 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/cVault-finance/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CORE_VAULT"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/COREVault"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7"
 }

@@ -6,12 +6,7 @@
     "symbol": "RIO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://realio.fund/static/assets/downloads/realio-wp.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097"
 }

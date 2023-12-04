@@ -6,12 +6,7 @@
     "symbol": "LED",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/terawatt_led"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x27c891c210aec85267c2eb5fd3ad2e7c5758a1dc"
 }

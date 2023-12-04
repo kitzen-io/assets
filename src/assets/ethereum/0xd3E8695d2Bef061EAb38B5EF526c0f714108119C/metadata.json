@@ -6,12 +6,7 @@
     "symbol": "YFIVE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/YFIVEfinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd3e8695d2bef061eab38b5ef526c0f714108119c"
 }

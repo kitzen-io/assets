@@ -6,24 +6,7 @@
     "symbol": "METH",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FarmingBad"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/FarmingBad"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/KvDDnVN2FP"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@FarmingBad"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x11003e410ca3fcd220765b3d2f343433a0b2bffd"
 }

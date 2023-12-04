@@ -6,12 +6,7 @@
     "symbol": "ABY*",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/m4ssAB/theAbyss"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x26c5331a8aaede3d3af276fd61329163a55ecbca"
 }

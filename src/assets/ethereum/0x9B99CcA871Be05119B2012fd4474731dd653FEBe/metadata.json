@@ -6,20 +6,7 @@
     "symbol": "MATTER",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/antimatterdefi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/antimatterchat"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/antimatter-finance/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9b99cca871be05119b2012fd4474731dd653febe"
 }

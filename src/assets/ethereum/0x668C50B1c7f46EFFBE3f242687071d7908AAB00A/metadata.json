@@ -6,16 +6,7 @@
     "symbol": "CoShi",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ShibaCorgiDog"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/corgishibadog"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x668c50b1c7f46effbe3f242687071d7908aab00a"
 }

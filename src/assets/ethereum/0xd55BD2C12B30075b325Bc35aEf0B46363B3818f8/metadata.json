@@ -6,16 +6,7 @@
     "symbol": "ZOMBIE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/zombie-finance/zombie-protocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Zombie.Finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd55bd2c12b30075b325bc35aef0b46363b3818f8"
 }

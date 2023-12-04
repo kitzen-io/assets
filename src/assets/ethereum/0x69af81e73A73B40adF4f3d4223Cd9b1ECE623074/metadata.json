@@ -6,20 +6,7 @@
     "symbol": "MASK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/DimensionDev/Maskbook"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/realmaskbook"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/masknetwork"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
 }

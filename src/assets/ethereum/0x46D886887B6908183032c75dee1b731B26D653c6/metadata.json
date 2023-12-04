@@ -6,16 +6,7 @@
     "symbol": "GRC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://greenflows.gitbook.io/litepaper/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/greenflowstech"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x46d886887b6908183032c75dee1b731b26d653c6"
 }

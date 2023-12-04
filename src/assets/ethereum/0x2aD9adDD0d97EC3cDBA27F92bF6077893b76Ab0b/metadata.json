@@ -6,28 +6,7 @@
     "symbol": "PLANET",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/JoinOurPlanet/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/joinourplanet/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/JoinOurPlanet"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/planet-token"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/planettoken/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2ad9addd0d97ec3cdba27f92bf6077893b76ab0b"
 }

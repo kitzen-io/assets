@@ -6,28 +6,7 @@
     "symbol": "YFTE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yftether"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/yftether"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/YfTether"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/yftether/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/yftether/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x94f31ac896c9823d81cf9c2c93feceed4923218f"
 }

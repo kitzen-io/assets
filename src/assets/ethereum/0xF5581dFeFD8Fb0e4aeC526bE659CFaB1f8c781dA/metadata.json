@@ -6,12 +6,7 @@
     "website": "https://hoprnet.org/",
     "explorer": "https://etherscan.io/token/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hoprnet/hoprnet"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
 }

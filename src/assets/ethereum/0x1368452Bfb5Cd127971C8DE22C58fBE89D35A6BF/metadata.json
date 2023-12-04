@@ -6,16 +6,7 @@
     "symbol": "JNTR/e",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/jointerinc"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://jointerinc.github.io/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1368452bfb5cd127971c8de22c58fbe89d35a6bf"
 }

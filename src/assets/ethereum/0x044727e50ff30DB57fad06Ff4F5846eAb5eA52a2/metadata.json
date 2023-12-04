@@ -6,32 +6,7 @@
     "symbol": "KITTY",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/KittyInu"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KittyInuErc20"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/KittyInuToken"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/kitty-inu/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/kitty-inu/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://kittyinuerc20.io/wp-content/uploads/2021/10/KityInuLitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x044727e50ff30db57fad06ff4f5846eab5ea52a2"
 }

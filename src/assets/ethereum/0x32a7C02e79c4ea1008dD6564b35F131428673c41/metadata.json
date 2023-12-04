@@ -6,12 +6,7 @@
     "symbol": "CRU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/crustio/crust"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x32a7c02e79c4ea1008dd6564b35f131428673c41"
 }

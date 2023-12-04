@@ -6,16 +6,7 @@
     "symbol": "ARGP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/argenpeso"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://argenpeso.com/whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x29917c3b1c2b4779a7b61f08d98b3da0fcf3b6a4"
 }

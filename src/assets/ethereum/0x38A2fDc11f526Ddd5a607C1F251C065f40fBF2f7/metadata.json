@@ -8,5 +8,6 @@
     "status": "active",
     "short_description": "Digital identity and authentication protocols to power the next generation of DeFi apps.",
     "network": "erc20",
-    "identifier": "0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7"
+    "identifier": "0x38a2fdc11f526ddd5a607c1f251c065f40fbf2f7",
+    "links": []
 }

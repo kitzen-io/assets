@@ -6,20 +6,7 @@
     "symbol": "PROS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Prosperpredict"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/prosperfi"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/prosper/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8642a849d0dcb7a15a974794668adcfbe4794b56"
 }

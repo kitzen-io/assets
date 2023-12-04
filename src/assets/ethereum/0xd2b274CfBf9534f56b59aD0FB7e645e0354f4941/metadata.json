@@ -6,20 +6,7 @@
     "symbol": "XDOGE",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/XDogeErc20"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/xdogeerc2"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/xdoge-vip/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941"
 }

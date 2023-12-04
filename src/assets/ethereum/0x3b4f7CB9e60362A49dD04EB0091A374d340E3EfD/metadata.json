@@ -6,24 +6,7 @@
     "symbol": "ITAM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/itamgames"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/itam"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/itam_en"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCgM_ijLKjeibbQATtX46ZTw"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3b4f7cb9e60362a49dd04eb0091a374d340e3efd"
 }

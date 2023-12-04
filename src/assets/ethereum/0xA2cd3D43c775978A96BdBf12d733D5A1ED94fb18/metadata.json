@@ -6,28 +6,7 @@
     "symbol": "XCN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Onyx-Protocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/OnyxProtocol"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.chain.com/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/chain/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/onyx"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

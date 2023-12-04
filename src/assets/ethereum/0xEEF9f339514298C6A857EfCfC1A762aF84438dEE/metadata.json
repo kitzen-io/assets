@@ -6,20 +6,7 @@
     "symbol": "HEZ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hermeznetwork"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/hermez_network"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/hermez_network"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xeef9f339514298c6a857efcfc1a762af84438dee"
 }

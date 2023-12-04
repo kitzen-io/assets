@@ -6,20 +6,7 @@
     "symbol": "YMPL",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ympl-protocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ymplofficial"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ympl"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb7ba8461664de526a3ae44189727dfc768625902"
 }

@@ -6,28 +6,7 @@
     "description": "Ultimate Champions is a free to play and play to earn fantasy sports game.",
     "explorer": "https://etherscan.io/token/0x456125Cd98107ae0480Ba566f1b716D48Ba31453",
     "status": "active",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/ultimate-champions/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/UltiChamps"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://whitepaper.ultimate-champions.com/"
-        },
-        {
-            "name": "medium",
-            "url": "https://ultimatechampions.medium.com/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ultimatechampions"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft",
         "gamefi"

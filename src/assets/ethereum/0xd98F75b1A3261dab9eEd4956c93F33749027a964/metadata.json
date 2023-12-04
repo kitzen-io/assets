@@ -6,28 +6,7 @@
     "symbol": "SHR",
     "decimals": 2,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ShareRing"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/shareringglobal"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/sharering"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/ShareRing/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://sharering.network/public/sharetoken-whitepaper-en-web-v1.2.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd98f75b1a3261dab9eed4956c93f33749027a964"
 }

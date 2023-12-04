@@ -6,20 +6,7 @@
     "symbol": "BBANK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/BlockBank-team/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BLOCKBANKapp?s=09"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/u/BlockBankAi?utm_medium=android_app&utm_source=share"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf4b5470523ccd314c6b9da041076e7d79e0df267"
 }

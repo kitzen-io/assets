@@ -9,20 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/usebraintrust"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/braintrustofficial"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/braintrust/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x799ebfabe77a6e34311eeee9825190b9ece32824"
 }

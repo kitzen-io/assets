@@ -7,12 +7,7 @@
     "symbol": "HEGIC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hegic"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x584bc13c7d411c00c01a62e8019472de68768430"
 }

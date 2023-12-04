@@ -6,16 +6,7 @@
     "symbol": "JUL",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/JustLiquidity"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docdro.id/DyOuQZr"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5580ab97f226c324c671746a1787524aef42e415"
 }

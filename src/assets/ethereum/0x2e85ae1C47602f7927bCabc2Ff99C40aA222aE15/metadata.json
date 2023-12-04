@@ -9,40 +9,7 @@
     "tags": [
         "gamefi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/katanainu/katacoin-contract"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/katanainu"
-        },
-        {
-            "name": "telegram_news",
-            "url": "https://t.me/katanainuannouncement"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/katanainu"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@katanainu/katana-inu-a-great-play2earn-battle-royale-pc-game-with-nft-marketplace-on-layer-2-a56f9bbcce79"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://katanainu.com/katanainuwhitepaper.pdf/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/katana-inu"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/katana-inu/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2e85ae1c47602f7927bcabc2ff99c40aa222ae15"
 }

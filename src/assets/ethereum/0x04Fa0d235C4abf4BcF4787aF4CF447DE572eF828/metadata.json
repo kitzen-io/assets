@@ -7,24 +7,7 @@
     "symbol": "UMA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/UMAprotocol/protocol"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/uma-project"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/UMAprotocol/whitepaper"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/uma/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
 }

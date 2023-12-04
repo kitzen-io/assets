@@ -6,20 +6,7 @@
     "description": "DeFine is the NFT social platform for all creators including artists, musicians, influencers, gamers, and athletes. The platform facilitates all social interaction, engagement and communication for creators and their fanbase with digital assets like NFTs and social/fan tokens.",
     "explorer": "https://etherscan.io/token/0x62959c699a52ec647622c91e79ce73344e4099f5",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DeFinePlatform"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DeFinePlatform"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/define/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

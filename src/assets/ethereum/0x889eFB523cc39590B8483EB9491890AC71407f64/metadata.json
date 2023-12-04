@@ -6,12 +6,7 @@
     "symbol": "JUICE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MoonJuice_xyz"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x889efb523cc39590b8483eb9491890ac71407f64"
 }

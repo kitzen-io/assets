@@ -6,12 +6,7 @@
     "symbol": "GEO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://geodb.com/docs/geodb-white-paper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x147faf8de9d8d8daae129b187f0d02d819126750"
 }

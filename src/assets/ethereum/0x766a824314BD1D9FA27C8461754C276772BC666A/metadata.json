@@ -6,16 +6,7 @@
     "symbol": "SCAM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/scamcoin_eth"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/SCAMCOIN_ETH"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x766a824314bd1d9fa27c8461754c276772bc666a"
 }

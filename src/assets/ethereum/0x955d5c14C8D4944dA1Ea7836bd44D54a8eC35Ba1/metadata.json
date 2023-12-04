@@ -6,20 +6,7 @@
     "symbol": "RFD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/RefundCoinETH"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/RFDPortal"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/refund/"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

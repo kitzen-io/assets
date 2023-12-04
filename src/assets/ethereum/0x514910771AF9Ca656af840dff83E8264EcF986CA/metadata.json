@@ -9,24 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/smartcontractkit/chainlink"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/chainlink"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/chainlink"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://link.smartcontract.com/whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x514910771af9ca656af840dff83e8264ecf986ca"
 }

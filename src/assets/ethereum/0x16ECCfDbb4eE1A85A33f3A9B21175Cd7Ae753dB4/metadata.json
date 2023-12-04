@@ -6,28 +6,7 @@
     "symbol": "ROUTE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/router-protocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/routerprotocol"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/route/"
-        },
-        {
-            "name": "medium",
-            "url": "https://routerprotocol.medium.com/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/routerprotocol"
-        }
-    ],
+    "links": [],
     "tags": [
         "staking"
     ],

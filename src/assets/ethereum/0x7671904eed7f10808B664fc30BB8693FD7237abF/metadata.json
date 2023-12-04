@@ -6,12 +6,7 @@
     "symbol": "BBR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bbr-defi/bbr-contracts"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7671904eed7f10808b664fc30bb8693fd7237abf"
 }

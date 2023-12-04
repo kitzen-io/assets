@@ -12,20 +12,7 @@
         "governance",
         "nft"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/sushiswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/sushiswap"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/sushi/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
 }

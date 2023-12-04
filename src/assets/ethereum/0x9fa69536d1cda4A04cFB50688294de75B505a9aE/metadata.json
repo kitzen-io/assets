@@ -6,28 +6,7 @@
     "symbol": "DERC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "blog",
-            "url": "https://derace.com"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/deracenft"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DeRaceNFT"
-        },
-        {
-            "name": "medium",
-            "url": "https://deracenft.medium.com/"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/67M9ckF3q3"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae"
 }

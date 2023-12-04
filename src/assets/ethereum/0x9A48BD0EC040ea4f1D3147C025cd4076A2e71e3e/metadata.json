@@ -6,16 +6,7 @@
     "symbol": "USD++",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/pie-dao/pie-smart-pools"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PieDAO_DeFi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9a48bd0ec040ea4f1d3147c025cd4076a2e71e3e"
 }

@@ -6,12 +6,7 @@
     "symbol": "JulD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/JustLiquidity"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x93effd08e3e5a4b1b40c26137e63876b2501ffa4"
 }

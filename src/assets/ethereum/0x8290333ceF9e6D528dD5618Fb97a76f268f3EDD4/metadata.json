@@ -10,24 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "blog",
-            "url": "https://medium.com/ankr-network"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ankrnetwork?lang=en"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ankrnetwork"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/ankr/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
 }

@@ -6,20 +6,7 @@
     "symbol": "GNT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/golemproject"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/golemfactory/golem"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/golem-network-tokens/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
 }

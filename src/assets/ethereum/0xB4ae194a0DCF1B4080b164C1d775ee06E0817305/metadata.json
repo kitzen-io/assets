@@ -6,12 +6,7 @@
     "symbol": "SSJ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/b-u-i-d-l/super-saiyan-token"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305"
 }

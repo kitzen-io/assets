@@ -9,28 +9,7 @@
     "tags": [
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/GeminiDotCom"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GeminiDotCom"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Gemini/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://gemini.com/dollar/whitepaper"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/gemini-dollar/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
 }

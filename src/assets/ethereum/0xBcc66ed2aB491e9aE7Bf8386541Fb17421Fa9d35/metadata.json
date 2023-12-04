@@ -6,20 +6,7 @@
     "website": "https://linktr.ee/skeenee",
     "explorer": "https://etherscan.io/token/0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/skeenee_art"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/DZm9tY3"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/skeenee"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

@@ -6,16 +6,7 @@
     "symbol": "QQQF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/standardcryptofund"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://qqqfindex.com/qqqf_whitepaper_v1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x22eeab2f980e8ed7824f8ea548c9595564a0f0e4"
 }
