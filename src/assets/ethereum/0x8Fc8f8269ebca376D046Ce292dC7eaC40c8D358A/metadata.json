@@ -3,11 +3,9 @@
     "website": "https://defichain.com/",
     "description": "DeFiChain (DFI) is a blockchain platform built with the mission of maximizing the full potential of DeFi within the Bitcoin (BTC) ecosystem.",
     "explorer": "https://etherscan.io/token/0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
-    "type": "ERC20",
     "symbol": "DFI",
     "decimals": 8,
     "status": "active",
-    "id": "0x8Fc8f8269ebca376D046Ce292dC7eaC40c8D358A",
     "tags": [
         "defi"
     ],
@@ -24,5 +22,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/defichain/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a"
 }

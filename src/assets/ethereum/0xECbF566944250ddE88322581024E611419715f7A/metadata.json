@@ -3,11 +3,9 @@
     "website": "https://xbtc.fi",
     "description": "xBTC gives users one token access to every single digital asset on earth, pegged against Bitcoin dominance.",
     "explorer": "https://etherscan.io/token/0xECbF566944250ddE88322581024E611419715f7A",
-    "type": "ERC20",
     "symbol": "xBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0xECbF566944250ddE88322581024E611419715f7A",
     "links": [
         {
             "name": "github",
@@ -17,5 +15,7 @@
             "name": "whitepaper",
             "url": "https://xbtc.fi/whitepaper.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xecbf566944250dde88322581024e611419715f7a"
 }

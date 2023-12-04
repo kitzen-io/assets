@@ -3,11 +3,9 @@
     "website": "app.ichi.org",
     "description": "oneDODO is an ICHI-created stablecoin for DODO.",
     "explorer": "https://etherscan.io/token/0xcA37530E7c5968627BE470081d1C993eb1dEaf90",
-    "type": "ERC20",
     "symbol": "oneDODO",
     "decimals": 18,
     "status": "active",
-    "id": "0xcA37530E7c5968627BE470081d1C993eb1dEaf90",
     "tags": [
         "defi"
     ],
@@ -32,5 +30,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/DvsYCfK8"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xca37530e7c5968627be470081d1c993eb1deaf90"
 }

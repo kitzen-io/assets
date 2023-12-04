@@ -3,11 +3,9 @@
     "website": "https://defimoneymarket.com",
     "description": "mToken wrapper for USDK",
     "explorer": "https://etherscan.io/token/0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
-    "type": "ERC20",
     "symbol": "mUSDK",
     "decimals": 18,
     "status": "active",
-    "id": "0xD1670Cb7c01987a8DdD6976C4894463460Eeb8a2",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "medium",
             "url": "https://medium.com/dmm-dao"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xd1670cb7c01987a8ddd6976c4894463460eeb8a2"
 }

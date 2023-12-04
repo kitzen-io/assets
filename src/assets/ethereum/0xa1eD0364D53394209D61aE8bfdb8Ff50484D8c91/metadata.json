@@ -5,9 +5,7 @@
     "explorer": "https://etherscan.io/token/0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91",
     "symbol": "TBC",
     "decimals": 18,
-    "type": "ERC20",
     "status": "abandoned",
-    "id": "0xa1eD0364D53394209D61aE8bfdb8Ff50484D8c91",
     "links": [
         {
             "name": "twitter",
@@ -17,5 +15,7 @@
             "name": "telegram",
             "url": "https://t.me/TeraBlock"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91"
 }

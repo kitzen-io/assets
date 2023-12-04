@@ -3,9 +3,9 @@
     "website": "https://popsicle.finance",
     "description": "Popsicle finance is a next-gen cross-chain liquidity provider (LP) yield optimization platform",
     "explorer": "https://etherscan.io/token/0xf16e81dce15B08F326220742020379B855B87DF9",
-    "type": "ERC20",
     "symbol": "ICE",
     "decimals": 18,
     "status": "active",
-    "id": "0xf16e81dce15B08F326220742020379B855B87DF9"
+    "network": "erc20",
+    "identifier": "0xf16e81dce15b08f326220742020379b855b87df9"
 }

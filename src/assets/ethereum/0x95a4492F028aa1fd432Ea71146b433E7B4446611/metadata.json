@@ -3,11 +3,9 @@
     "website": "https://apy.finance",
     "description": "Yield Farming Robo-Advisor",
     "explorer": "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
-    "type": "ERC20",
     "symbol": "APY",
     "decimals": 18,
     "status": "active",
-    "id": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
     "links": [
         {
             "name": "github",
@@ -17,5 +15,7 @@
             "name": "whitepaper",
             "url": "https://docs.apy.finance/whitepaper/litepaper"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x95a4492f028aa1fd432ea71146b433e7b4446611"
 }

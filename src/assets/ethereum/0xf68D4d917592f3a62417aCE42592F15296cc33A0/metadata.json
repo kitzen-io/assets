@@ -2,12 +2,10 @@
     "name": "Coin hub",
     "description": "Utility token",
     "symbol": "CHB",
-    "type": "ERC20",
     "decimals": 8,
     "website": "https://thecoinhub.io/",
     "explorer": "https://etherscan.io/token/0xf68D4d917592f3a62417aCE42592F15296cc33A0",
     "status": "active",
-    "id": "0xf68D4d917592f3a62417aCE42592F15296cc33A0",
     "links": [
         {
             "name": "telegram",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "staking-native"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xf68d4d917592f3a62417ace42592f15296cc33a0"
 }

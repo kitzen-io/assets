@@ -3,11 +3,9 @@
     "website": "https://spores.app",
     "description": "SPO token is designed for community governance and DeFi utilization with NFT-creator-centricity and DeFi-community-driven purpose. SPO is used to incentivize NFT creators, buyers, agents, liquidity providers across the ecosystem.",
     "explorer": "https://etherscan.io/token/0xcbe771323587ea16dacb6016e269d7f08a7acc4e",
-    "type": "ERC20",
     "symbol": "SPO",
     "decimals": 18,
     "status": "active",
-    "id": "0xcbE771323587EA16dACB6016e269D7F08A7ACC4E",
     "links": [
         {
             "name": "twitter",
@@ -25,5 +23,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/spores-network"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e"
 }

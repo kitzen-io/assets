@@ -3,9 +3,9 @@
     "website": "https://abracadabra.money",
     "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
     "explorer": "https://etherscan.io/token/0x090185f2135308BaD17527004364eBcC2D37e5F6",
-    "type": "ERC20",
     "symbol": "SPELL",
     "decimals": 18,
     "status": "active",
-    "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6"
+    "network": "erc20",
+    "identifier": "0x090185f2135308bad17527004364ebcc2d37e5f6"
 }

@@ -3,9 +3,9 @@
     "website": "https://bloodyfi.org/",
     "description": "Bloody is a deflationary farming token that also periodically rebases like Ampleforth.",
     "explorer": "https://etherscan.io/token/0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664",
-    "type": "ERC20",
     "symbol": "BLOODY",
     "decimals": 18,
     "status": "active",
-    "id": "0x892F5A0B08BB7B1eeCCCC63EF3916fF201c93664"
+    "network": "erc20",
+    "identifier": "0x892f5a0b08bb7b1eecccc63ef3916ff201c93664"
 }

@@ -1,11 +1,11 @@
 {
     "name": "SnapCoin",
     "symbol": "SNPC",
-    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "https://earneo.io/",
     "explorer": "https://etherscan.io/token/0x752FF65b884b9C260D212C804E0b7ACEea012473",
     "status": "abandoned",
-    "id": "0x752FF65b884b9C260D212C804E0b7ACEea012473"
+    "network": "erc20",
+    "identifier": "0x752ff65b884b9c260d212c804e0b7aceea012473"
 }

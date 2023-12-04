@@ -3,11 +3,9 @@
     "website": "https://swissborg.com",
     "description": "SwissBorg is a wealthtech offering Swiss-made crypto investment solutions to the world.",
     "explorer": "https://etherscan.io/token/0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
-    "type": "ERC20",
     "symbol": "CHSB",
     "decimals": 8,
     "status": "active",
-    "id": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
     "links": [
         {
             "name": "github",
@@ -37,5 +35,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/swissborg/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
 }

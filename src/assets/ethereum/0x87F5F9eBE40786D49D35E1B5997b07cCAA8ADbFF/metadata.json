@@ -3,11 +3,9 @@
     "website": "https://rebased.fi/",
     "description": "Elastic supply | Publicly callable rebase mechanism every 12h.",
     "explorer": "https://etherscan.io/token/0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
-    "type": "ERC20",
     "symbol": "REB2",
     "decimals": 9,
     "status": "active",
-    "id": "0x87F5F9eBE40786D49D35E1B5997b07cCAA8ADbFF",
     "links": [
         {
             "name": "github",
@@ -21,5 +19,7 @@
             "name": "telegram",
             "url": "https://t.me/rebasedTG"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x87f5f9ebe40786d49d35e1b5997b07ccaa8adbff"
 }

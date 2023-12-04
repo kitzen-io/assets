@@ -3,11 +3,9 @@
     "website": "app.ichi.org",
     "description": "oneFUSE is an ICHI-created stablecoin for Fuse.",
     "explorer": "https://etherscan.io/token/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
-    "type": "ERC20",
     "symbol": "oneFUSE",
     "decimals": 18,
     "status": "active",
-    "id": "0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404",
     "tags": [
         "defi"
     ],
@@ -36,5 +34,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/onefuse"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xbbce03b2e7f53cadca93251ca4c928af01db6404"
 }

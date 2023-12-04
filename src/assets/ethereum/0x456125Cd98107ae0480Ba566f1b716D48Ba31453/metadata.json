@@ -1,13 +1,11 @@
 {
     "name": "Ultimate Champions Token",
-    "type": "ERC20",
     "symbol": "CHAMP",
     "decimals": 18,
     "website": "https://token.ultimate-champions.com/",
     "description": "Ultimate Champions is a free to play and play to earn fantasy sports game.",
     "explorer": "https://etherscan.io/token/0x456125Cd98107ae0480Ba566f1b716D48Ba31453",
     "status": "active",
-    "id": "0x456125Cd98107ae0480Ba566f1b716D48Ba31453",
     "links": [
         {
             "name": "coinmarketcap",
@@ -33,5 +31,7 @@
     "tags": [
         "nft",
         "gamefi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x456125cd98107ae0480ba566f1b716d48ba31453"
 }

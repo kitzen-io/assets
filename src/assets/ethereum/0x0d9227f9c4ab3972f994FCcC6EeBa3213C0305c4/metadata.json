@@ -3,15 +3,15 @@
     "website": "https://sergsave.link",
     "description": "Utility token to for NFT dApp",
     "explorer": "https://etherscan.io/token/0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
-    "type": "ERC20",
     "symbol": "SSL",
     "decimals": 18,
     "status": "active",
-    "id": "0x0d9227f9c4ab3972f994FCcC6EeBa3213C0305c4",
     "links": [
         {
             "name": "twitter",
             "url": "https://twitter.com/SergeySavelink"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0d9227f9c4ab3972f994fccc6eeba3213c0305c4"
 }

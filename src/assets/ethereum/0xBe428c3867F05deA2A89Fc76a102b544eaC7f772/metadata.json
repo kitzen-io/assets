@@ -3,11 +3,9 @@
     "website": "https://cybervein.org",
     "description": "Utility token to increase adoption of cryptocurrency.",
     "explorer": "https://etherscan.io/token/0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
-    "type": "ERC20",
     "symbol": "CVT",
     "decimals": 18,
     "status": "active",
-    "id": "0xBe428c3867F05deA2A89Fc76a102b544eaC7f772",
     "links": [
         {
             "name": "twitter",
@@ -33,5 +31,7 @@
             "name": "medium",
             "url": "https://medium.com/cybervein"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xbe428c3867f05dea2a89fc76a102b544eac7f772"
 }

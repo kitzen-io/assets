@@ -4,8 +4,8 @@
     "description": "Machine Learning driven, personalised cryptocurrency trade automation to help you easily manage your assets.",
     "explorer": "https://etherscan.io/token/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
     "symbol": "TBC",
-    "type": "ERC20",
     "decimals": 18,
     "status": "active",
-    "id": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1"
+    "network": "erc20",
+    "identifier": "0x9798df2f5d213a872c787bd03b2b91f54d0d04a1"
 }

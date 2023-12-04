@@ -1,11 +1,11 @@
 {
     "name": "POOH",
     "symbol": "POOH",
-    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "",
     "explorer": "https://etherscan.io/token/0x4C29d75cc423E8Adaa3839892feb66977e295829",
     "status": "abandoned",
-    "id": "0x4C29d75cc423E8Adaa3839892feb66977e295829"
+    "network": "erc20",
+    "identifier": "0x4c29d75cc423e8adaa3839892feb66977e295829"
 }

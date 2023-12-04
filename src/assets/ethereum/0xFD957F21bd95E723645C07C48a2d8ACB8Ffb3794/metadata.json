@@ -1,13 +1,11 @@
 {
     "name": "Ethereum Meta",
     "symbol": "ETHM",
-    "type": "ERC20",
     "decimals": 18,
     "description": "Ethereum Meta addresses a major weakness in Ethereum: the lack of privacy. Ethereum Meta enables smart contracts where no friend, family, nor foe can see what you bought or for how much.",
     "website": "https://ethermeta.com",
     "explorer": "https://etherscan.io/token/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
     "status": "active",
-    "id": "0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/ethereum-meta/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794"
 }

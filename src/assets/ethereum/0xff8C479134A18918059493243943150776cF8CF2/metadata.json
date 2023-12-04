@@ -1,13 +1,11 @@
 {
     "name": "Renq Finance (RENQ)",
-    "type": "ERC20",
     "symbol": "RENQ",
     "decimals": 18,
     "website": "https://renq.io",
     "description": "Renq aims to connect all isolated blockchains and establish a cross-chain asset exchange network, providing all necessary underlying support for the DeFi ecosystem. Let every digital asset holder experience a truly safe, free and transparent DeFi service.",
     "explorer": "https://etherscan.io/token/0xff8C479134A18918059493243943150776cF8CF2",
     "status": "active",
-    "id": "0xff8C479134A18918059493243943150776cF8CF2",
     "links": [
         {
             "name": "twitter",
@@ -56,5 +54,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xff8c479134a18918059493243943150776cf8cf2"
 }

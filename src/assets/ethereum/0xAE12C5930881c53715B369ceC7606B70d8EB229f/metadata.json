@@ -3,11 +3,9 @@
     "website": "https://coin98.com/",
     "description": "Coin98 enables value transfer as easily as using the Internet by the innovation of Multi-chain Engine, Fully Automatic Liquidity and Space Gate, all in one Super Liquidity Aggregator.",
     "explorer": "https://etherscan.io/token/0xae12c5930881c53715b369cec7606b70d8eb229f",
-    "type": "ERC20",
     "symbol": "C98",
     "decimals": 18,
     "status": "active",
-    "id": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
     "links": [
         {
             "name": "twitter",
@@ -29,5 +27,7 @@
             "name": "telegram",
             "url": "https://t.me/StackerVentures"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xae12c5930881c53715b369cec7606b70d8eb229f"
 }

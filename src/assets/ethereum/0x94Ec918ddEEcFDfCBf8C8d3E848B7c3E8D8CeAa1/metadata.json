@@ -1,6 +1,5 @@
 {
     "name": "Wrapped Zynecoin",
-    "type": "ERC20",
     "symbol": "WYZN",
     "decimals": 18,
     "website": "https://bridge.wethio.io/",
@@ -8,7 +7,6 @@
     "description": "Wrapped Zynecoin is a Wrapped version of Zynecoin its purpose is to provide interoperability between the Wethio blockchain and Ethereum blockchain.",
     "explorer": "https://etherscan.io/token/0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1",
     "status": "active",
-    "id": "0x94Ec918ddEEcFDfCBf8C8d3E848B7c3E8D8CeAa1",
     "links": [
         {
             "name": "telegram",
@@ -22,5 +20,7 @@
             "name": "youtube",
             "url": "https://youtube.com/channel/UCiZ-xova4unF-3HI04ZFOIw"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1"
 }

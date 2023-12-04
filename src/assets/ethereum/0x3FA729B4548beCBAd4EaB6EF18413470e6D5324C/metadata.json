@@ -3,9 +3,9 @@
     "website": "https://viamover.com",
     "description": "Mover -- financial service for a digital generation.",
     "explorer": "https://etherscan.io/token/0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C",
-    "type": "ERC20",
     "symbol": "MOVE",
     "decimals": 18,
     "status": "active",
-    "id": "0x3FA729B4548beCBAd4EaB6EF18413470e6D5324C"
+    "network": "erc20",
+    "identifier": "0x3fa729b4548becbad4eab6ef18413470e6d5324c"
 }

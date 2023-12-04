@@ -3,11 +3,9 @@
     "website": "https://carlive.io",
     "description": "CarLive Chain is a vertical application of blockchain technology in the field of automotive social network.",
     "explorer": "https://etherscan.io/token/0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47",
-    "type": "ERC20",
     "symbol": "IOV",
     "decimals": 8,
     "status": "active",
-    "id": "0x0E69D0A2bbB30aBcB7e5CfEA0E4FDe19C00A8d47",
     "links": [
         {
             "name": "facebook",
@@ -21,5 +19,7 @@
             "name": "twitter",
             "url": "https://twitter.com/CarliveChain"
         }
-    ]
-} 
+    ],
+    "network": "erc20",
+    "identifier": "0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47"
+}

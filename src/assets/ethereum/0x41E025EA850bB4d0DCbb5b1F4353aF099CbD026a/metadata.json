@@ -3,11 +3,9 @@
     "website": "https://fantasygold.co/cgi-sys/suspendedpage.cgi",
     "description": "FantasyGold was built to become a multi-purpose platform offering Ethereum Virtual Machine based smart contracts and lightning fast transactions.",
     "explorer": "https://etherscan.io/token/0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a",
-    "type": "ERC20",
     "symbol": "FGC",
     "decimals": 18,
     "status": "active",
-    "id": "0x41E025EA850bB4d0DCbb5b1F4353aF099CbD026a",
     "links": [
         {
             "name": "twitter",
@@ -17,5 +15,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/fantasygold/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x41e025ea850bb4d0dcbb5b1f4353af099cbd026a"
 }

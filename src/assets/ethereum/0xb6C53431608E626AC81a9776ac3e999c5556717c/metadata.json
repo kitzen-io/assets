@@ -1,13 +1,11 @@
 {
     "name": "pTokens TLOS",
     "symbol": "TLOS",
-    "type": "ERC20",
     "decimals": 18,
     "description": "pNetwork enables cross-chain movement of assets and data.",
     "website": "https://ptokens.io/",
     "explorer": "https://etherscan.io/token/0xb6C53431608E626AC81a9776ac3e999c5556717c",
     "status": "active",
-    "id": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb6c53431608e626ac81a9776ac3e999c5556717c"
 }

@@ -3,11 +3,9 @@
     "website": "https://defimoneymarket.com",
     "description": "mToken wrapper for USDT",
     "explorer": "https://etherscan.io/token/0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA",
-    "type": "ERC20",
     "symbol": "mUSDT",
     "decimals": 6,
     "status": "active",
-    "id": "0x84d4AfE150dA7Ea1165B9e45Ff8Ee4798d7C38DA",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "medium",
             "url": "https://medium.com/dmm-dao"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x84d4afe150da7ea1165b9e45ff8ee4798d7c38da"
 }

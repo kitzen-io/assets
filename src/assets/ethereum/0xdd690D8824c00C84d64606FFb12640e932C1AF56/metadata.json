@@ -6,11 +6,9 @@
     "facebook": "https://www.facebook.com/TavittThailand",
     "description": "Tavitt builds a platform that allows travelers as Travel Providers to earn income while traveling.",
     "explorer": "https://etherscan.io/token/0xdd690D8824c00C84d64606FFb12640e932C1AF56",
-    "type": "ERC20",
     "symbol": "TAVITT",
     "decimals": 8,
     "status": "active",
-    "id": "0xdd690D8824c00C84d64606FFb12640e932C1AF56",
     "links": [
         {
             "name": "whitepaper",
@@ -20,5 +18,7 @@
             "name": "github",
             "url": "https://github.com/Tavitt/token"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xdd690d8824c00c84d64606ffb12640e932c1af56"
 }

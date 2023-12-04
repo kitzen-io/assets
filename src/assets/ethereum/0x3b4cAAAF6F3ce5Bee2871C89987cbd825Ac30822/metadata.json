@@ -3,11 +3,9 @@
     "website": "https://ofin.io",
     "description": "Ofin is non-custodial investment protocol that enables novices to invest directly into the funds managed by seasoned crypto traders",
     "explorer": "https://etherscan.io/token/0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
-    "type": "ERC20",
     "symbol": "ON",
     "decimals": 18,
     "status": "active",
-    "id": "0x3b4cAAAF6F3ce5Bee2871C89987cbd825Ac30822",
     "links": [
         {
             "name": "github",
@@ -25,5 +23,7 @@
             "name": "medium",
             "url": "https://medium.com/@ofin"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x3b4caaaf6f3ce5bee2871c89987cbd825ac30822"
 }

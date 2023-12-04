@@ -3,11 +3,9 @@
     "website": "https://mirror.finance",
     "description": "Wrapped Mirror NFLX Token.",
     "explorer": "https://etherscan.io/token/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
-    "type": "ERC20",
     "symbol": "mNFLX",
     "decimals": 18,
     "status": "active",
-    "id": "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
     "tags": [
         "wrapped"
     ],
@@ -28,5 +26,7 @@
             "name": "medium",
             "url": "https://medium.com/@mirror-protocol"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd"
 }

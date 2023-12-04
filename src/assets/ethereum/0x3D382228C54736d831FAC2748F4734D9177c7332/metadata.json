@@ -1,13 +1,11 @@
 {
     "name": "ANIVERSE",
-    "type": "ERC20",
     "symbol": "ANV",
     "decimals": 18,
     "website": "https://aniverse.io/",
     "description": "ANIVERSE project is an 'Online Theme Park' platform that combines actual businesses based on animation IP with blockchain technology. ANIVERSE allows anyone to access animation IP sources through our platform to create and sell IP products, contents.",
     "explorer": "https://etherscan.io/token/0x3D382228C54736d831FAC2748F4734D9177c7332",
     "status": "active",
-    "id": "0x3D382228C54736d831FAC2748F4734D9177c7332",
     "links": [
         {
             "name": "twitter",
@@ -28,5 +26,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x3d382228c54736d831fac2748f4734d9177c7332"
 }

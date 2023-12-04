@@ -3,9 +3,9 @@
     "website": "https://crypterium.com",
     "description": "Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.",
     "explorer": "https://etherscan.io/token/0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
-    "type": "ERC20",
     "symbol": "CRPT",
     "decimals": 18,
     "status": "active",
-    "id": "0x08389495D7456E1951ddF7c3a1314A4bfb646d8B"
+    "network": "erc20",
+    "identifier": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b"
 }

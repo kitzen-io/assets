@@ -3,11 +3,9 @@
     "website": "http://nexo.io",
     "description": "NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo’s loan portfolio.",
     "explorer": "https://etherscan.io/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
-    "type": "ERC20",
     "symbol": "NEXO",
     "decimals": 18,
     "status": "active",
-    "id": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
     "links": [
         {
             "name": "github",
@@ -37,5 +35,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/nexo/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
 }

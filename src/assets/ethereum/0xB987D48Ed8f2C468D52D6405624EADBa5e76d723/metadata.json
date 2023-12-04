@@ -3,11 +3,9 @@
     "website": "https://stabilize.finance",
     "description": "Stabilize Token (STBZ) is a reward token of the Stabilize Protocol",
     "explorer": "https://etherscan.io/token/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
-    "type": "ERC20",
     "symbol": "STBZ",
     "decimals": 18,
     "status": "active",
-    "id": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
     "links": [
         {
             "name": "github",
@@ -21,5 +19,7 @@
             "name": "telegram",
             "url": "https://t.me/stabilizeprotocol"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb987d48ed8f2c468d52d6405624eadba5e76d723"
 }

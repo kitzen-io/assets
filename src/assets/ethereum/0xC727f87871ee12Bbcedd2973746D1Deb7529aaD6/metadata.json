@@ -1,13 +1,11 @@
 {
     "name": "Akash Network",
-    "type": "ERC20",
     "symbol": "AKT",
     "decimals": 6,
     "website": "https://akash.network",
     "description": "Akash Network is a Distributed Peer-to-Peer Marketplace for Cloud Compute",
     "explorer": "https://etherscan.io/token/0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
     "status": "active",
-    "id": "0xC727f87871ee12Bbcedd2973746D1Deb7529aaD6",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xc727f87871ee12bbcedd2973746d1deb7529aad6"
 }

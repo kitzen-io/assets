@@ -3,11 +3,9 @@
     "website": "https://fortknoxster.com",
     "description": "FortKnoxster's DieFi solution is an automated crypto testament and inheritance platform. DieFi users' crypto portfolio information and credentials are automatically passed on to the chosen beneficiaries in case of emergency, memory loss, or death.",
     "explorer": "https://etherscan.io/token/0x16484d73ac08d2355f466d448d2b79d2039f6ebb",
-    "type": "ERC20",
     "symbol": "FKX",
     "decimals": 18,
     "status": "active",
-    "id": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
     "links": [
         {
             "name": "twitter",
@@ -48,5 +46,7 @@
     ],
     "tags": [
         "nft"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x16484d73ac08d2355f466d448d2b79d2039f6ebb"
 }

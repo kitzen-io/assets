@@ -1,13 +1,11 @@
 {
     "name": "Big Eyes",
-    "type": "ERC20",
     "symbol": "$BIG",
     "decimals": 18,
     "website": "https://bigeyes.space",
     "description": "Big Eyes’ is a full-on community token with the express goal of shifting wealth into the defi ecosystem and protecting an important part of the world’s ecosystem. We are creating the BIG Casino and 20+ P2E games all utilizing $BIG to play. This is the beginning of the $BIG-gest ecosystem in Crypto.",
     "explorer": "https://etherscan.io/token/0xc8De43Bfe33FF496Fa14c270D9CB29Bda196B9B5",
     "status": "active",
-    "id": "0xc8De43Bfe33FF496Fa14c270D9CB29Bda196B9B5",
     "links": [
         {
             "name": "twitter",
@@ -29,5 +27,7 @@
     "tags": [
         "memes",
         "nft"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xc8de43bfe33ff496fa14c270d9cb29bda196b9b5"
 }

@@ -3,11 +3,9 @@
     "website": "https://www.trueusd.com/",
     "description": "TrueUSD is the first independently-verified digital asset redeemable 1-for-1 for US Dollars.",
     "explorer": "https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376",
-    "type": "ERC20",
     "symbol": "TUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x0000000000085d4780B73119b644AE5ecd22b376",
     "tags": [
         "stablecoin"
     ],
@@ -32,5 +30,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/true-usd/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0000000000085d4780b73119b644ae5ecd22b376"
 }

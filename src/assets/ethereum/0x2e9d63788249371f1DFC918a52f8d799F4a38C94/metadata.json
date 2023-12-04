@@ -1,13 +1,11 @@
 {
     "name": "Tokemak",
-    "type": "ERC20",
     "symbol": "TOKE",
     "decimals": 18,
     "website": "https://www.tokemak.xyz/",
     "description": "Tokemak is a decentralized liquidity provider/AMM protocol. TOKE is the native token, serves as tokenized liquidity, enabling stakers to direct the protocol's TVL as liquidity across DeFi markets.",
     "explorer": "https://etherscan.io/token/0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
     "status": "active",
-    "id": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
 }

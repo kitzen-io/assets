@@ -3,15 +3,15 @@
     "website": "https://foresightdefi.io",
     "description": "Foresight provides DAO-Governed Cryptocurrency Insurance.",
     "explorer": "https://etherscan.io/token/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
-    "type": "ERC20",
     "symbol": "FORS",
     "decimals": 18,
     "status": "active",
-    "id": "0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
     "links": [
         {
             "name": "whitepaper",
             "url": "https://foresightdefi.io/Foresight-Litepaper.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb1ec548f296270bc96b8a1b3b3c8f3f04b494215"
 }

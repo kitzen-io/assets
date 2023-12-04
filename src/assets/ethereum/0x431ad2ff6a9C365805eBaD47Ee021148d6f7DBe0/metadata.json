@@ -1,13 +1,11 @@
 {
     "name": "dForce",
     "symbol": "DF",
-    "type": "ERC20",
     "decimals": 18,
     "description": " dForce Lending is a decentralized lending protocol.",
     "website": "https://dforce.network",
     "explorer": "https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
     "status": "active",
-    "id": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
     "links": [
         {
             "name": "github",
@@ -33,5 +31,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/dforce-token/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0"
 }

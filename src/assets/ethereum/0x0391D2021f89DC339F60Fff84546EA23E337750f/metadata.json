@@ -3,15 +3,15 @@
     "website": "https://BarnBridge.com",
     "description": "Tokenized Risk Protocol",
     "explorer": "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
-    "type": "ERC20",
     "symbol": "BOND",
     "decimals": 18,
     "status": "active",
-    "id": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
     "links": [
         {
             "name": "whitepaper",
             "url": "https://github.com/BarnBridge/BarnBridge-Whitepaper"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0391d2021f89dc339f60fff84546ea23e337750f"
 }

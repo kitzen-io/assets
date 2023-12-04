@@ -3,9 +3,9 @@
     "website": "https://minds.com/",
     "description": "Minds Tokens are the fuel of the Minds network.",
     "explorer": "https://etherscan.io/token/0xB26631c6dda06aD89B93C71400D25692de89c068",
-    "type": "ERC20",
     "symbol": "MINDS",
     "decimals": 18,
     "status": "active",
-    "id": "0xB26631c6dda06aD89B93C71400D25692de89c068"
+    "network": "erc20",
+    "identifier": "0xb26631c6dda06ad89b93c71400d25692de89c068"
 }

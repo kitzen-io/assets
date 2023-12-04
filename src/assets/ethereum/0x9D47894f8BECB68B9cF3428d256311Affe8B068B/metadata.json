@@ -4,11 +4,9 @@
     "short_description": "powered by anons",
     "description": "Fair launch NFT and yield bearing asset platform.",
     "explorer": "https://etherscan.io/token/0x9d47894f8becb68b9cf3428d256311affe8b068b",
-    "type": "ERC20",
     "symbol": "$ROPE",
     "decimals": 18,
     "status": "active",
-    "id": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
     "links": [
         {
             "name": "github",
@@ -22,5 +20,7 @@
             "name": "medium",
             "url": "https://dontbuyrope.medium.com"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x9d47894f8becb68b9cf3428d256311affe8b068b"
 }

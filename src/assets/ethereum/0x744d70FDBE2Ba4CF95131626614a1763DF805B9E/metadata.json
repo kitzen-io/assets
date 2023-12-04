@@ -3,11 +3,9 @@
     "website": "http://status.im",
     "description": "Status (SNT) is an open source messaging platform and mobile interface built to interact with applications that run on the Ethereum network. ",
     "explorer": "https://etherscan.io/token/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
-    "type": "ERC20",
     "symbol": "SNT",
     "decimals": 18,
     "status": "active",
-    "id": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
     "links": [
         {
             "name": "github",
@@ -33,5 +31,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/status/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
 }

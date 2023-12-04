@@ -3,9 +3,9 @@
     "website": "https://biffy.ai",
     "description": "Biffy is a cybernetic system that lives on the Ethereum blockchain and loves art.",
     "explorer": "https://etherscan.io/token/0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
-    "type": "ERC20",
     "symbol": "LOVE",
     "decimals": 18,
     "status": "active",
-    "id": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc"
+    "network": "erc20",
+    "identifier": "0xf7f35fe2ede3addee7cf176f4ef20d9436e498dc"
 }

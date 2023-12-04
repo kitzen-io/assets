@@ -3,11 +3,9 @@
     "website": "https://www.gxtglobal.com/en/index.html",
     "description": "GXT, the pioneer of NFT and Diamond Distribution evolves with no limit.",
     "explorer": "https://etherscan.io/token/0x4674672BcDdDA2ea5300F5207E1158185c944bc0",
-    "type": "ERC20",
     "symbol": "GXT",
     "decimals": 18,
     "status": "active",
-    "id": "0x4674672BcDdDA2ea5300F5207E1158185c944bc0",
     "links": [
         {
             "name": "github",
@@ -28,5 +26,7 @@
     ],
     "tags": [
         "nft"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4674672bcddda2ea5300f5207e1158185c944bc0"
 }

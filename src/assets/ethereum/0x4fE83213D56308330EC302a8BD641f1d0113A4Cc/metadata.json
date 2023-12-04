@@ -1,13 +1,11 @@
 {
     "name": "NuCypher",
-    "type": "ERC20",
     "symbol": "NU",
     "decimals": 18,
     "website": "https://www.nucypher.com/",
     "description": "NuCypher is a decentralized threshold cryptography network.",
     "explorer": "https://etherscan.io/token/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
     "status": "active",
-    "id": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
     "links": [
         {
             "name": "github",
@@ -29,5 +27,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/nucypher/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc"
 }

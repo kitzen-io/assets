@@ -3,11 +3,9 @@
     "website": "https://armor.fi",
     "description": "arNXM is the yield-bearing token for the arNXM vault.",
     "explorer": "https://etherscan.io/token/0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
-    "type": "ERC20",
     "symbol": "arNXM",
     "decimals": 18,
     "status": "active",
-    "id": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
     "links": [
         {
             "name": "github",
@@ -33,5 +31,7 @@
             "name": "whitepaper",
             "url": "https://armorfi.gitbook.io/armor/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x1337def18c680af1f9f45cbcab6309562975b1dd"
 }

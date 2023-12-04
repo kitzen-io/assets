@@ -3,9 +3,9 @@
     "website": "https://xfinance.io",
     "description": "Xfinance is a decentralized finance (DeFi) which aims to build an aggregate liquidity pool.",
     "explorer": "https://etherscan.io/token/0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
-    "type": "ERC20",
     "symbol": "XFI",
     "decimals": 18,
     "status": "active",
-    "id": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430"
+    "network": "erc20",
+    "identifier": "0x5befbb272290dd5b8521d4a938f6c4757742c430"
 }

@@ -3,11 +3,9 @@
     "website": "https://ambire.com",
     "description": "WALLET is the governance token of Ambire Wallet. It is also used as a user acquisition tool for marketing activities (referral program, rewards, etc.).",
     "explorer": "https://etherscan.io/token/0x88800092fF476844f74dC2FC427974BBee2794Ae",
-    "type": "ERC20",
     "symbol": "WALLET",
     "status": "active",
     "decimals": 18,
-    "id": "0x88800092fF476844f74dC2FC427974BBee2794Ae",
     "tags": [
         "defi",
         "governance",
@@ -54,5 +52,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/coins/ambire-wallet"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x88800092ff476844f74dc2fc427974bbee2794ae"
 }

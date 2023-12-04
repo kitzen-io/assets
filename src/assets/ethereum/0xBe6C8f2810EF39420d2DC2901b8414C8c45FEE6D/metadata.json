@@ -1,11 +1,11 @@
 {
     "name": "MICROMINES",
     "symbol": "MICRO",
-    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "https://micromines.co/",
     "explorer": "https://etherscan.io/token/0xBe6C8f2810EF39420d2DC2901b8414C8c45FEE6D",
     "status": "abandoned",
-    "id": "0xBe6C8f2810EF39420d2DC2901b8414C8c45FEE6D"
+    "network": "erc20",
+    "identifier": "0xbe6c8f2810ef39420d2dc2901b8414c8c45fee6d"
 }

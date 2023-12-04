@@ -3,11 +3,9 @@
     "website": "https://app.vox.finance/",
     "description": "Yield farming token with low supply and 2% burn rate.",
     "explorer": "https://etherscan.io/token/0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
-    "type": "ERC20",
     "symbol": "VOX",
     "decimals": 18,
     "status": "active",
-    "id": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/c32KurP"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1"
 }

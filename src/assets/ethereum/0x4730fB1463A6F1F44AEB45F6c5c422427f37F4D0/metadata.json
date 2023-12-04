@@ -1,13 +1,11 @@
 {
     "name": "The 4th Pillar Token",
     "symbol": "FOUR",
-    "type": "ERC20",
     "decimals": 18,
     "description": "FOUR is 4thTech ecosystem utility token used as the primary means to enable services such as data file and instant messages wallet to wallet exchange.",
     "website": "https://4thtech.io/",
     "explorer": "https://etherscan.io/token/0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
     "status": "active",
-    "id": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
     "links": [
         {
             "name": "twitter",
@@ -37,5 +35,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/4thpillar-technologies/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0"
 }

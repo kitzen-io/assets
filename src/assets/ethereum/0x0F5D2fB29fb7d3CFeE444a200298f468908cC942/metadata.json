@@ -3,11 +3,9 @@
     "website": "https://decentraland.org",
     "description": "Decentraland (MANA) defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.",
     "explorer": "https://etherscan.io/token/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
-    "type": "ERC20",
     "symbol": "MANA",
     "decimals": 18,
     "status": "active",
-    "id": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
     "tags": [
         "gamefi",
         "nft"
@@ -41,5 +39,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/decentraland/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
 }

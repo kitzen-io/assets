@@ -3,15 +3,15 @@
     "website": "https://pulltherug.finance/",
     "description": "Pull The Rug allows you to farm NFTs and has strategic partnerships with other coins to enhance ecosystem value.",
     "explorer": "https://etherscan.io/token/0xEdFBd6c48c3dDfF5612Ade14B45bb19F916809ba",
-    "type": "ERC20",
     "symbol": "RUGZ",
     "decimals": 18,
     "status": "active",
-    "id": "0xEdFBd6c48c3dDfF5612Ade14B45bb19F916809ba",
     "links": [
         {
             "name": "telegram",
             "url": "https://t.me/ruglife"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xedfbd6c48c3ddff5612ade14b45bb19f916809ba"
 }

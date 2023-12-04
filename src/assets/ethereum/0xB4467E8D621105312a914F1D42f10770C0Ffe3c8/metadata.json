@@ -4,14 +4,14 @@
     "description": "FLASH - The time travel of money.",
     "explorer": "https://etherscan.io/token/0xB4467E8D621105312a914F1D42f10770C0Ffe3c8",
     "symbol": "FLASH",
-    "type": "ERC20",
     "decimals": 18,
     "status": "abandoned",
-    "id": "0xB4467E8D621105312a914F1D42f10770C0Ffe3c8",
     "links": [
         {
             "name": "twitter",
             "url": "https://twitter.com/Flashstake"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb4467e8d621105312a914f1d42f10770c0ffe3c8"
 }

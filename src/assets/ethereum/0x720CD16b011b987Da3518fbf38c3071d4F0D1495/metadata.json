@@ -1,13 +1,11 @@
 {
     "name": "Flux",
-    "type": "ERC20",
     "symbol": "FLUX",
     "decimals": 8,
     "website": "https://runonflux.io/",
     "description": "Flux is the cryptocurrency powering the Flux Ecosystem, including a massive decentralized computational network. Flux gives users both institutional and private control over their cloud infrastructure in a decentralized manner.",
     "explorer": "https://etherscan.io/token/0x720cd16b011b987da3518fbf38c3071d4f0d1495",
     "status": "active",
-    "id": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
     "links": [
         {
             "name": "twitter",
@@ -36,5 +34,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x720cd16b011b987da3518fbf38c3071d4f0d1495"
 }

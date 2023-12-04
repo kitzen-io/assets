@@ -3,11 +3,9 @@
     "website": "https://cybercoin.site",
     "description": "The next-generation blockchain platform for large-scale stacking value. Cybercoin is a platform solution for true digital value storage - Blockchain for everyone - Digital security and boundless possibilities.",
     "explorer": "https://etherscan.io/token/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
-    "type": "ERC20",
     "symbol": "CBR",
     "decimals": 18,
     "status": "active",
-    "id": "0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "whitepaper",
             "url": "https://www.cybercoin.site/Cybercoin.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b"
 }

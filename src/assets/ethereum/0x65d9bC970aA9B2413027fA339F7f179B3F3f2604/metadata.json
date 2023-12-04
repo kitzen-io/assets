@@ -4,11 +4,9 @@
     "description": "KUN is the governance token of the QIAN stablecoin protocol. It is used to vote on QIAN governance and to maintain QUSD price stability.",
     "explorer": "https://etherscan.io/token/0x65d9bC970aA9B2413027fA339F7f179B3F3f2604",
     "audit_report": "https://qian.finance/PeckShield-Audit-Report-QIAN2-v1.0.pdf",
-    "type": "ERC20",
     "symbol": "KUN",
     "decimals": 18,
     "status": "active",
-    "id": "0x65d9bC970aA9B2413027fA339F7f179B3F3f2604",
     "links": [
         {
             "name": "whitepaper",
@@ -18,5 +16,7 @@
             "name": "github",
             "url": "https://github.com/QIAN-Protocol/QIAN"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x65d9bc970aa9b2413027fa339f7f179b3f3f2604"
 }

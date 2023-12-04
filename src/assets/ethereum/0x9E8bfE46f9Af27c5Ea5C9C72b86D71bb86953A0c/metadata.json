@@ -3,11 +3,9 @@
     "website": "https://ezdex.market",
     "description": "EZDex development team united with community development forces to deeply cultivate the underlying technology, and through the value transfer protocol, proposed and implemented a series of technological upgrades and innovative solutions. Build a sustainable public blockchain blockchain.",
     "explorer": "https://etherscan.io/token/0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c",
-    "type": "ERC20",
     "symbol": "EZX",
     "decimals": 18,
     "status": "active",
-    "id": "0x9E8bfE46f9Af27c5Ea5C9C72b86D71bb86953A0c",
     "links": [
         {
             "name": "github",
@@ -37,5 +35,7 @@
             "name": "whitepaper",
             "url": "https://mp.weixin.qq.com/s/NkrME0YfeiaPcsYReWZn7A"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c"
 }

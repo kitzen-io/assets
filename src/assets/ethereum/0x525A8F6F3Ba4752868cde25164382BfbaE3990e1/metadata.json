@@ -1,13 +1,11 @@
 {
     "name": "NYM",
-    "type": "ERC20",
     "symbol": "NYM",
     "decimals": 6,
     "website": "https://nymtech.net/",
     "description": "Nym is an open-source, decentralized and permissionless privacy system. It provides full-stack privacy, allowing other applications, services or blockchains to provide their users with strong metadata protection, at both the network level (mixnet), and the application level (anonymous credentials).",
     "explorer": "https://etherscan.io/token/0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
     "status": "active",
-    "id": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
     "links": [
         {
             "name": "twitter",
@@ -28,5 +26,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x525a8f6f3ba4752868cde25164382bfbae3990e1"
 }

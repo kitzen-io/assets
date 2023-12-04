@@ -4,10 +4,8 @@
     "description": "The Collective is an all-in-one platform built to incubate, manage and develop communities, and help assure liquidity for the best Crypto Projects.",
     "explorer": "https://etherscan.io/token/0x75739d5944534115d7c54ee8c73f186d793bae02",
     "symbol": "CO2",
-    "type": "ERC20",
     "decimals": 18,
     "status": "active",
-    "id": "0x75739d5944534115d7C54ee8C73F186D793BAE02",
     "links": [
         {
             "name": "twitter",
@@ -29,5 +27,7 @@
             "name": "whitepaper",
             "url": "https://thecollectivego-02.medium.com"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x75739d5944534115d7c54ee8c73f186d793bae02"
 }

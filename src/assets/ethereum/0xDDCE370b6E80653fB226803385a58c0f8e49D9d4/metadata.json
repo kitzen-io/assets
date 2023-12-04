@@ -3,9 +3,9 @@
     "website": "https://ecofinances.io",
     "description": "EcoFinances Token is a internal token payment in ecosystem.",
     "explorer": "https://etherscan.io/token/0xDDCE370b6E80653fB226803385a58c0f8e49D9d4",
-    "type": "ERC20",
     "symbol": "EFC",
     "decimals": 18,
     "status": "active",
-    "id": "0xDDCE370b6E80653fB226803385a58c0f8e49D9d4"
+    "network": "erc20",
+    "identifier": "0xddce370b6e80653fb226803385a58c0f8e49d9d4"
 }

@@ -1,13 +1,11 @@
 {
     "name": "Okcash",
-    "type": "ERC20",
     "symbol": "OK",
     "decimals": 18,
     "website": "https://okcash.co",
     "description": "OK is the leading multi chain PoS, web3 + NFTs open source electronic cash, its design is public, nobody owns or controls Okcash and everyone can take part.",
     "explorer": "https://etherscan.io/token/0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
     "status": "active",
-    "id": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
     "links": [
         {
             "name": "twitter",
@@ -32,5 +30,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189"
 }

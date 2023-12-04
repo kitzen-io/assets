@@ -1,13 +1,11 @@
 {
     "name": "Mysterium",
-    "type": "ERC20",
     "symbol": "MYST",
     "decimals": 18,
     "website": "https://mysterium.network/",
     "description": "MYST is the utility token at the heart of Mysterium Network. MYST is used for frictionless P2P micropayments within the network. If you’re using the VPN, you can pay with MYST token. If you’re a node (provider of the VPN service) you receive MYST. Mysterium has designed its own unique micropayments infrastructure, the Hermes protocol, to facilitate these fast, anonymous, and censorship-resistant transactions.",
     "explorer": "https://etherscan.io/token/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
     "status": "active",
-    "id": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
     "links": [
         {
             "name": "twitter",
@@ -36,5 +34,7 @@
     ],
     "tags": [
         "privacy"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361"
 }

@@ -3,11 +3,9 @@
     "website": "https://mirror.finance",
     "description": "Wrapped Mirror VIXY Token.",
     "explorer": "https://etherscan.io/token/0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
-    "type": "ERC20",
     "symbol": "mVIXY",
     "decimals": 18,
     "status": "active",
-    "id": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
     "tags": [
         "wrapped"
     ],
@@ -28,5 +26,7 @@
             "name": "medium",
             "url": "https://medium.com/@mirror-protocol"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86"
 }

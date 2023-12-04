@@ -3,11 +3,9 @@
     "website": "app.ichi.org",
     "description": "oneBTC is an ICHI-created stablecoin backed by USDC and wBTC.",
     "explorer": "https://etherscan.io/token/0xEc4325F0518584F0774b483c215F65474EAbD27F",
-    "type": "ERC20",
     "symbol": "oneBTC",
     "decimals": 18,
     "status": "active",
-    "id": "0xEc4325F0518584F0774b483c215F65474EAbD27F",
     "tags": [
         "defi"
     ],
@@ -32,5 +30,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/DvsYCfK8"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xec4325f0518584f0774b483c215f65474eabd27f"
 }

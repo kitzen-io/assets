@@ -3,9 +3,9 @@
     "website": "https://jgndefi.com/",
     "description": "The World’s First Unstoppable DeFi Communication Network.",
     "explorer": "https://etherscan.io/token/0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
-    "type": "ERC20",
     "symbol": "JGN",
     "decimals": 18,
     "status": "active",
-    "id": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041"
+    "network": "erc20",
+    "identifier": "0x73374ea518de7addd4c2b624c0e8b113955ee041"
 }

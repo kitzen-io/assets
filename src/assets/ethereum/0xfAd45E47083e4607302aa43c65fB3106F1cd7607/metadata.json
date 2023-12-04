@@ -3,11 +3,9 @@
     "website": "https://hogefinance.com",
     "description": "We Meme Business.",
     "explorer": "https://etherscan.io/token/0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
-    "type": "ERC20",
     "symbol": "HOGE",
     "decimals": 9,
     "status": "active",
-    "id": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
     "tags": [
         "deflationary"
     ],
@@ -36,5 +34,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/hoge-finance"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xfad45e47083e4607302aa43c65fb3106f1cd7607"
 }

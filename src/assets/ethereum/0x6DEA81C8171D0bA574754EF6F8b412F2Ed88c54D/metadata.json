@@ -4,9 +4,9 @@
     "description": "Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
     "explorer": "https://etherscan.io/token/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
     "research": "https://docs.liquity.org",
-    "type": "ERC20",
     "symbol": "LQTY",
     "decimals": 18,
     "status": "active",
-    "id": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D"
+    "network": "erc20",
+    "identifier": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
 }

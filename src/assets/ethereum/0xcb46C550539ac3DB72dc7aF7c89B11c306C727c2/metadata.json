@@ -4,12 +4,12 @@
     "description": "Poly Ontology Token (ONT ERC20) is a token issued by Binance on Smart Chain; its price is pegged to Ontology Token (ONT) at a ratio of 1:1.",
     "explorer": "https://etherscan.io/token/0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
     "research": "https://research.binance.com/en/projects/ontology",
-    "type": "ERC20",
     "symbol": "ONT",
     "decimals": 18,
     "status": "active",
-    "id": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xcb46c550539ac3db72dc7af7c89b11c306c727c2"
 }
