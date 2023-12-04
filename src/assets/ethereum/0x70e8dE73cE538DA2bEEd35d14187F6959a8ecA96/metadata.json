@@ -9,16 +9,7 @@
     "tags": [
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Xfers/StraitsX-tokens/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/StraitsX"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
 }

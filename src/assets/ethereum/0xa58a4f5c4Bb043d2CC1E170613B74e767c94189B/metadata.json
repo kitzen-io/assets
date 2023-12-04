@@ -6,20 +6,7 @@
     "symbol": "UTU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/utu-protocol/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/UTU_trust"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/UTUtrust"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b"
 }

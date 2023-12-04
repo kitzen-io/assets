@@ -9,20 +9,7 @@
     "tags": [
         "nft"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DIGITALAX_"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/digitalaxTG"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/monavale/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a"
 }

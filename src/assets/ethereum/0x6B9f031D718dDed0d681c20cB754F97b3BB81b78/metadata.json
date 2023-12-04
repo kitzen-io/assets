@@ -7,20 +7,7 @@
     "symbol": "GEEQ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/geeq-token"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Geeq"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://geeq.io/geeq-white-paper-2/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78"
 }

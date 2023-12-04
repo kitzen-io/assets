@@ -6,12 +6,7 @@
     "symbol": "NRGE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/energicryptocurrency/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1416946162b1c2c871a73b07e932d2fb6c932069"
 }

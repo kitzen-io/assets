@@ -6,24 +6,7 @@
     "symbol": "BTF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bitphantom-ops"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BitphantomPro"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bitphantompro"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/bitphantom-ops/whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0d24e4a32b174ff6777059d4fd6bf8cfe031014b"
 }

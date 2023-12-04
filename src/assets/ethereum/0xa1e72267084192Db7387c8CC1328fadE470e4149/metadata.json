@@ -7,5 +7,6 @@
     "symbol": "tfTUSD",
     "status": "active",
     "network": "erc20",
-    "identifier": "0xa1e72267084192db7387c8cc1328fade470e4149"
+    "identifier": "0xa1e72267084192db7387c8cc1328fade470e4149",
+    "links": []
 }

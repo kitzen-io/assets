@@ -6,12 +6,7 @@
     "symbol": "ARCD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ArcadeCity/arcd-token"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb581e3a7db80fbaa821ab39342e9cbfd2ce33c23"
 }

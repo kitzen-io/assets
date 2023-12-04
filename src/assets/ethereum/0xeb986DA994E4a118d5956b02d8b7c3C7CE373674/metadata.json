@@ -9,24 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Gather_Network"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/GatherNetwork"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@GatherNetwork"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://gather.network/whitepaper.html"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xeb986da994e4a118d5956b02d8b7c3c7ce373674"
 }

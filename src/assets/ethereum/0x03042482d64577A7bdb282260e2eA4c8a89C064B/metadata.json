@@ -6,12 +6,7 @@
     "symbol": "CNTR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://cntr.finance/docs/whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x03042482d64577a7bdb282260e2ea4c8a89c064b"
 }

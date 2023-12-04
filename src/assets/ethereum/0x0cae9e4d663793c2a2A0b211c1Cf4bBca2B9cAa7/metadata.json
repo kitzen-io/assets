@@ -9,24 +9,7 @@
     "tags": [
         "wrapped"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0cae9e4d663793c2a2a0b211c1cf4bbca2b9caa7"
 }

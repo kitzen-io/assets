@@ -6,20 +6,7 @@
     "description": "ARKM is an intel-to-earn and incentive system that help to balance the token economy, with ARKM entering circulation via intel-to-earn payments and ARKM rewards, and cycling out of circulation via pay-in-ARKM platform purchases and exchange fees.",
     "explorer": "https://etherscan.io/token/0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/arkhamintel"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/arkham/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/arkhamintelligence"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050"
 }

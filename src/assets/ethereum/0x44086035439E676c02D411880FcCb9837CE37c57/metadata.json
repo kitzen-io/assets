@@ -6,16 +6,7 @@
     "symbol": "uSD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/b-u-i-d-l/unifi/tree/master/contracts/stableCoin"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/b-u-i-d-l/unifi/blob/master/README.md"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x44086035439e676c02d411880fccb9837ce37c57"
 }

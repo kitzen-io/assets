@@ -6,12 +6,7 @@
     "symbol": "MAGGOT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/rottenswap"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x163c754ef4d9c03fc7fa9cf6dd43bfc760e6ce89"
 }

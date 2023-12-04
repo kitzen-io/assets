@@ -6,28 +6,7 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/pendle-finance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/pendle_fi"
-        },
-        {
-            "name": "docs",
-            "url": "https://docs.pendle.finance/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/pendle"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/9x9VUngNZD"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x808507121b80c02388fad14726482e061b8da827"
 }

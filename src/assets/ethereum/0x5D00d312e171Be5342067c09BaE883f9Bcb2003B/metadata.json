@@ -6,12 +6,7 @@
     "symbol": "EMONA",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ethermon_nft"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5d00d312e171be5342067c09bae883f9bcb2003b"
 }

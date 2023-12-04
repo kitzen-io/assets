@@ -7,28 +7,7 @@
     "symbol": "HY",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hybrix-io"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/@hybrix_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/hybrixgroup"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCGosRXmL1w7nG4TOUUFghTw"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://hybrix.io/en/docs/papers"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9b53e429b0badd98ef7f01f03702986c516a5715"
 }

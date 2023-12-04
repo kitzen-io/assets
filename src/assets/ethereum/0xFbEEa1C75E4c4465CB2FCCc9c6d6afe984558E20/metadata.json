@@ -6,20 +6,7 @@
     "symbol": "DDIM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dao_duck"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/duckdaolobby"
-        },
-        {
-            "name": "medium",
-            "url": "https://duckdao.medium.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20"
 }

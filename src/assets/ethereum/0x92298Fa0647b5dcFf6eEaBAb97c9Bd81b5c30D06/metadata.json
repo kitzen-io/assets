@@ -6,12 +6,7 @@
     "symbol": "LIKE",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/likeapptoken"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x92298fa0647b5dcff6eeabab97c9bd81b5c30d06"
 }

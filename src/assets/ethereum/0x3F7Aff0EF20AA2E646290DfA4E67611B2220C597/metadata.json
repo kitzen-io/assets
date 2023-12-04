@@ -6,16 +6,7 @@
     "symbol": "VOLT",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/VoltInuOfficial"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/VoltInuOfficial"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

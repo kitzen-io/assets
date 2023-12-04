@@ -6,16 +6,7 @@
     "symbol": "LOKA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/league-of-kingdoms/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/LeagueKingdoms"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406"
 }

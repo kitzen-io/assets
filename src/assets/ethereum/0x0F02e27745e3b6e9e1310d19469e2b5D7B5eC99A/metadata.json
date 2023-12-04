@@ -6,28 +6,7 @@
     "symbol": "PCL",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Peculium-Dev/peculiumContracts"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/peculium"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/PeculiumICO"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Peculium/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://peculium.io/white-paper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0f02e27745e3b6e9e1310d19469e2b5d7b5ec99a"
 }

@@ -6,44 +6,7 @@
     "symbol": "FKX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FortKnoxster"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/FortKnoxster"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/FortKnoxster"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/c/FortKnoxster"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/FortKnoxster"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://fortknoxster.com/FortKnoxster_Whitepaper_English.pdf"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/fortknoxster"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/fortknoxster"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/fortknoxster"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

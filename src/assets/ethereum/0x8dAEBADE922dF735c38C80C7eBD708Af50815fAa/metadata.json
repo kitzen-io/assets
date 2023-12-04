@@ -6,20 +6,7 @@
     "symbol": "TBTC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/keep-network/tbtc"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/tBTC_project"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/KeepNetwork"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8daebade922df735c38c80c7ebd708af50815faa"
 }

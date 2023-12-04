@@ -8,16 +8,7 @@
     "symbol": "EVC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ecovalue/evc-contracts"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.ecovaluecoin.com/wp-content/uploads/2018/07/EVC-Whitepaper-v1.0.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xaa843f65872a25d6e9552ea0b360fb1d5e333124"
 }

@@ -6,20 +6,7 @@
     "website": "https://nabox.io/",
     "explorer": "https://etherscan.io/token/0x755f34709E369D37C6Fa52808aE84A32007d1155",
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/naboxcommunity"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/naboxwallet"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/nabox/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x755f34709e369d37c6fa52808ae84a32007d1155"
 }

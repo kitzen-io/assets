@@ -10,36 +10,7 @@
         "gamefi",
         "nft"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/decentraland"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/decentraland"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/decentraland"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.decentraland.org/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/decentraland/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://decentraland.org/whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/decentraland/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
 }

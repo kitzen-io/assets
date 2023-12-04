@@ -6,28 +6,7 @@
     "symbol": "GIG",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ethereum"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Krios"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/KriosToken"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/krios.io/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://krios-test.s3.amazonaws.com/image_1565724128958.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x838d8e11b160dec88fe62bf0f743fb7000941e13"
 }

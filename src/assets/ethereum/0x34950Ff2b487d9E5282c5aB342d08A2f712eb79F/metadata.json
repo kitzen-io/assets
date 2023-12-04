@@ -6,16 +6,7 @@
     "symbol": "WOZX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/EfforceOfficial"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/EFFORCE/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
 }

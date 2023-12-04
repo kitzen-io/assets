@@ -6,32 +6,7 @@
     "symbol": "KCS",
     "decimals": 6,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Kucoin"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KuCoinCom"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/KuCoinOfficial/"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/kucoinexchange"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Kucoin_Exchange"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/kucoin-shares/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
 }

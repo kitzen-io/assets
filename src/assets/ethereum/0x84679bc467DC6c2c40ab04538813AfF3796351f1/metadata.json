@@ -6,12 +6,7 @@
     "symbol": "CHONK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ChonkerFinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x84679bc467dc6c2c40ab04538813aff3796351f1"
 }

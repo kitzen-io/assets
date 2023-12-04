@@ -6,28 +6,7 @@
     "symbol": "DRC",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/digitalreserve/DRC"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DRCToken"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DigitalReserveCurrency"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/8BrRdc"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://drcglobal.org/white-paper-1"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606"
 }

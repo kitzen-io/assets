@@ -7,16 +7,7 @@
     "symbol": "AGS",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/AegisDeFi"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://aegis.finance/whitepage/AegisNetworkLitepaperEN.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdb2f2bcce3efa95eda95a233af45f3e0d4f00e2a"
 }

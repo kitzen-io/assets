@@ -6,16 +6,7 @@
     "symbol": "Shiryo-Inu",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ShiryoInu"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/shiryoinu"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1e2f15302b90edde696593607b6bd444b64e8f02"
 }

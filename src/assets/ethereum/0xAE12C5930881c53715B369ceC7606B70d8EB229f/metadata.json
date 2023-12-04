@@ -6,28 +6,7 @@
     "symbol": "C98",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/coin98_finance"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/coin98/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/coin98/"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/coin98"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/StackerVentures"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xae12c5930881c53715b369cec7606b70d8eb229f"
 }

@@ -6,20 +6,7 @@
     "symbol": "YFED",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yfedfinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FinanceYfed"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/YFEDGROUP"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2dbd330bc9b7f3a822a9173ab52172bdddcace2a"
 }

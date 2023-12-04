@@ -6,12 +6,7 @@
     "symbol": "BOND",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Bondedfinance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5dc02ea99285e17656b8350722694c35154db1e8"
 }

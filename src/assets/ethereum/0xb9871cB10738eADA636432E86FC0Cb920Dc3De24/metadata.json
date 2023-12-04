@@ -6,12 +6,7 @@
     "symbol": "PRIA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://pria.eth.link"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb9871cb10738eada636432e86fc0cb920dc3de24"
 }

@@ -7,5 +7,6 @@
     "decimals": 18,
     "status": "active",
     "network": "erc20",
-    "identifier": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a"
+    "identifier": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+    "links": []
 }

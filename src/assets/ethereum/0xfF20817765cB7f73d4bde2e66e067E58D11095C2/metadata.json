@@ -6,24 +6,7 @@
     "symbol": "AMP",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/amptoken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/amptoken"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/amptoken"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/amp-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
 }

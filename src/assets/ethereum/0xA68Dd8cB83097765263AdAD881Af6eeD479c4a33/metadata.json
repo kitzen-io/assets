@@ -9,16 +9,7 @@
     "tags": [
         "nft"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/feeswtf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/wtf-token"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa68dd8cb83097765263adad881af6eed479c4a33"
 }

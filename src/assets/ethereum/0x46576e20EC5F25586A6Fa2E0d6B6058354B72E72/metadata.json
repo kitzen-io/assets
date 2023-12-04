@@ -6,20 +6,7 @@
     "symbol": "CR",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/cryptomindex"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/cryptomindex1"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/cryptomindex"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x46576e20ec5f25586a6fa2e0d6b6058354b72e72"
 }

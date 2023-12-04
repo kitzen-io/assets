@@ -6,20 +6,7 @@
     "symbol": "CLV",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/clover-network"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/clv_org"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@clv_org"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52"
 }

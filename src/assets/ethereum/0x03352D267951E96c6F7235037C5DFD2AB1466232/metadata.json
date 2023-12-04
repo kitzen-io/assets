@@ -9,32 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ichifarm/ichi-oneToken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ichifarm"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ichifarm"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ichifarm"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/DvsYCfK8"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/stable-fox"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x03352d267951e96c6f7235037c5dfd2ab1466232"
 }

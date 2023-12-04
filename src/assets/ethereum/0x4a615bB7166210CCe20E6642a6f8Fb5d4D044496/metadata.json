@@ -6,44 +6,7 @@
     "symbol": "NAOS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/naos_finance"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/NAOS-Finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/naos_finance"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/rRaPwCVTaA"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/naos-finance"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCPu4TKw6uQaKFuXAUtzdtMg"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/naos-finance/"
-        },
-        {
-            "name": "docs",
-            "url": "https://naosfinance.gitbook.io/naos-finance/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/naos-finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496"
 }

@@ -6,16 +6,7 @@
     "symbol": "TEN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Twitter"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/TOKENOMY/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdd16ec0f66e54d453e6756713e533355989040e4"
 }

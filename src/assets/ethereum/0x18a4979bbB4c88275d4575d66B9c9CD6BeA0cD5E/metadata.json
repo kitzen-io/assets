@@ -6,12 +6,7 @@
     "symbol": "IDXT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/IdexTools"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x18a4979bbb4c88275d4575d66b9c9cd6bea0cd5e"
 }

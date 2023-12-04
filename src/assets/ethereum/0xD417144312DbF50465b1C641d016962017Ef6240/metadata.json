@@ -6,16 +6,7 @@
     "symbol": "CQT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/covalenthq"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.covalenthq.com/static/documents/Covalent%20Whitepaper%20Apr%202021%20v1%20Branded.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd417144312dbf50465b1c641d016962017ef6240"
 }

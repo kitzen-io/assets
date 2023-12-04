@@ -7,12 +7,7 @@
     "symbol": "PTE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://peetdecentralized.finance/litepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x51bb9c623226ce781f4a54fc8f4a530a47142b6b"
 }

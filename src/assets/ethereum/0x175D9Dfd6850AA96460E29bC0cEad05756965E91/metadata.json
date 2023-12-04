@@ -6,24 +6,7 @@
     "symbol": "WIOV",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/iov-one"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/starname_me"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/internetofvalues"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/iov-internet-of-values"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x175d9dfd6850aa96460e29bc0cead05756965e91"
 }

@@ -6,12 +6,7 @@
     "symbol": "DEXT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DexToolsapp"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfb7b4564402e5500db5bb6d63ae671302777c75a"
 }

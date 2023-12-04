@@ -6,16 +6,7 @@
     "symbol": "KP2R",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/kp2r-network"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.kp2r.network"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9bde098be22658d057c3f1f185e3fd4653e2fbd1"
 }

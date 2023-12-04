@@ -6,32 +6,7 @@
     "symbol": "GYEN",
     "decimals": 6,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/trust-zcom/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GMOTrust"
-        },
-        {
-            "name": "medium",
-            "url": "https://gmotrust.medium.com/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/gyen/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/gyen"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCO7CNhdHYiJoBICgbo-yyiw/featured"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc08512927d12348f6620a698105e1baac6ecd911"
 }

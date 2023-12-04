@@ -6,16 +6,7 @@
     "symbol": "EPEP",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/hteniocepeP"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FlippedPepe"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x97e3c21f27182498382f81e32fbe0ea3a0e3d79b"
 }

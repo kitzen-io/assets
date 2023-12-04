@@ -6,16 +6,7 @@
     "symbol": "BSL",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/banksocialio"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/banksocial/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac"
 }

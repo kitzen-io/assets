@@ -7,12 +7,7 @@
     "symbol": "GRO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://growthdefi.com/pdf/GROWTH_DeFi_V1.0.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0"
 }

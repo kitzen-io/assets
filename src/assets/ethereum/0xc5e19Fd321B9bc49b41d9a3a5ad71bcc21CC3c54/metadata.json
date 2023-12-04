@@ -6,16 +6,7 @@
     "symbol": "TDEX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TradePowerToken"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/yyc6wY"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc5e19fd321b9bc49b41d9a3a5ad71bcc21cc3c54"
 }

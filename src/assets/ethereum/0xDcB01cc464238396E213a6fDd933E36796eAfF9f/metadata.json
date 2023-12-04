@@ -6,24 +6,7 @@
     "symbol": "YLD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/YieldCredit"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/yieldchat"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/CGBGRrKJyX"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/YieldCredit"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdcb01cc464238396e213a6fdd933e36796eaff9f"
 }

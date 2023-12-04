@@ -11,28 +11,7 @@
         "defi",
         "governance"
     ],
-    "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/XErMcTq"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/UniswapProtocol"
-        },
-        {
-            "name": "blog",
-            "url": "https://uniswap.org/blog/uni/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/uniswap/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/uniswap/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
 }

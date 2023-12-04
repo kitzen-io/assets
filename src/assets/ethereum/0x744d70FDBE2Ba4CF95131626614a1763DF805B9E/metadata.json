@@ -6,32 +6,7 @@
     "symbol": "SNT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/status-im"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ethstatus"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/statusim/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/ethstatus"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://status.im/whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/status/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x744d70fdbe2ba4cf95131626614a1763df805b9e"
 }

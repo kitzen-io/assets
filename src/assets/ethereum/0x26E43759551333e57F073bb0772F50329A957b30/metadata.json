@@ -6,20 +6,7 @@
     "symbol": "DGVC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/degen-vc"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/degen_vc"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.degen.vc"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x26e43759551333e57f073bb0772f50329a957b30"
 }

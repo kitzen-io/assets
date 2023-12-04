@@ -6,12 +6,7 @@
     "symbol": "ZEFU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://zenfuse.io/whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229"
 }

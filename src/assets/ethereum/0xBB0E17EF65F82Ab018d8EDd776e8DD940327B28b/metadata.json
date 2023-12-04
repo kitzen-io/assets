@@ -12,5 +12,6 @@
         "nft"
     ],
     "network": "erc20",
-    "identifier": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+    "identifier": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "links": []
 }

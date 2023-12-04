@@ -6,52 +6,7 @@
     "symbol": "GMT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram_news",
-            "url": "https://t.me/gmt_token"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/GMTtoken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GMT_Token"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/gmt_token_talk"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://gomining.com/white-paper.pdf"
-        },
-        {
-            "name": "source_code",
-            "url": "https://github.com/gomining-token/smart"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/gomining-token/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/gmt-token"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@GMT_Token"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/user/GoMiningToken"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCl98r2sL8dO058XWToApIJw"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

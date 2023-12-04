@@ -6,36 +6,7 @@
     "symbol": "EZX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ezdex-service"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ExchangeEzdex"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/EZDexExchange/"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/user/EZDexExchage"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@EZDex"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/EZX_Exchange"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://mp.weixin.qq.com/s/NkrME0YfeiaPcsYReWZn7A"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9e8bfe46f9af27c5ea5c9c72b86d71bb86953a0c"
 }

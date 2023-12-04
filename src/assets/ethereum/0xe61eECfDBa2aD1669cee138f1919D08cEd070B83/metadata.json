@@ -6,16 +6,7 @@
     "symbol": "VGTG",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/VideoGamesToken"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/VideoGamesToken"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe61eecfdba2ad1669cee138f1919d08ced070b83"
 }

@@ -6,32 +6,7 @@
     "symbol": "oneMPH",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ichifarm/ichi-oneToken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ichifarm"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ichifarm"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ichifarm"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Bm6pUHjHUC"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/stable-mph"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbe3f88e18be3944fdda830695228adbb82fa125f"
 }

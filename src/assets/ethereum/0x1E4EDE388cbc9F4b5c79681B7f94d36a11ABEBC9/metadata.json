@@ -9,16 +9,7 @@
     "tags": [
         "nft"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/the_x2y2"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/x2y2"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9"
 }

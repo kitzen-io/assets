@@ -6,24 +6,7 @@
     "symbol": "DEXTF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/domaniprotocol"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/dextf-protocol/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/dextf"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/bxgyXMZ2U5"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

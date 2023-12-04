@@ -7,16 +7,7 @@
     "symbol": "PPBLZ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/pepem00n"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://pepemonfinance.medium.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4d2ee5dae46c86da2ff521f7657dad98834f97b8"
 }

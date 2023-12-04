@@ -6,24 +6,7 @@
     "symbol": "POOL",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PoolTogether_"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/hxPhPDW"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/pooltogether"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/pooltogether"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
 }

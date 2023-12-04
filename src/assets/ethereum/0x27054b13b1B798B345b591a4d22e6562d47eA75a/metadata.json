@@ -6,20 +6,7 @@
     "symbol": "AST",
     "decimals": 4,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/airswap"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/ecQbV7H"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/airswap"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x27054b13b1b798b345b591a4d22e6562d47ea75a"
 }

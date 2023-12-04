@@ -6,16 +6,7 @@
     "symbol": "BEND",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BendDAO"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/BendDAO/"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

@@ -6,24 +6,7 @@
     "description": "Treasure is the decentralized gaming ecosystem bringing games and players together through MAGIC.",
     "explorer": "https://etherscan.io/token/0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Treasure_NFT"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@TreasureNFT"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/ru/currencies/magic-token/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/magic/"
-        }
-    ],
+    "links": [],
     "tags": [
         "gamefi"
     ],

@@ -9,24 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FantomFDN"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Fantom_English"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/fantom/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/fantom/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
 }

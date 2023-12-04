@@ -6,16 +6,7 @@
     "symbol": "AXIAv3",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/axiaprotocol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://axiaprotocol.io/Axia%20Protocol%20Whitepaper%202020.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x793786e2dd4cc492ed366a94b88a3ff9ba5e7546"
 }

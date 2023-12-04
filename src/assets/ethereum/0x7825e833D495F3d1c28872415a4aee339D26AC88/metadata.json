@@ -6,20 +6,7 @@
     "description": "pNetwork enables cross-chain movement of assets and data.",
     "explorer": "https://etherscan.io/token/0x7825e833d495f3d1c28872415a4aee339d26ac88",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/pNetworkDeFi"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/provable-things"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/telos/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

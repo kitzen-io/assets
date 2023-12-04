@@ -6,16 +6,7 @@
     "symbol": "PKN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PokmiHQ"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/RarePorn_Fr"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xdf09a216fac5adc3e640db418c0b956076509503"
 }

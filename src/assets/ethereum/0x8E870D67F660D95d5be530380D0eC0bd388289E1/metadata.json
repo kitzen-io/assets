@@ -10,28 +10,7 @@
     "tags": [
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/paxosglobal/pax-contracts"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PaxosStandard"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/@PaxosStandard"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://standard.paxos.com/whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/paxos-standard/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
 }

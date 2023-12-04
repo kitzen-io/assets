@@ -6,16 +6,7 @@
     "symbol": "SYNC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/C-O-F-E/CBONDS"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://syncbond.com/sync_whitepaper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
 }

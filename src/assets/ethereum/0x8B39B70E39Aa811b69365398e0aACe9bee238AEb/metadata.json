@@ -6,20 +6,7 @@
     "website": "https://polkafoundry.com",
     "explorer": "https://etherscan.io/token/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/polkafoundry"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/polkafoundry"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/polkafoundry"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
 }

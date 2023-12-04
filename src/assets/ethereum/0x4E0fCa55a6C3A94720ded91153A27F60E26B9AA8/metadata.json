@@ -6,16 +6,7 @@
     "symbol": "BOOST",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://boostco.in/wp-content/uploads/2021/10/BoostWhitePaper.pdf"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TheBoostCoin"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8"
 }

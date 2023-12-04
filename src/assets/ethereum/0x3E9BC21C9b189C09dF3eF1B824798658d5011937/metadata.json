@@ -9,28 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Linear-finance/linear"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/LinearFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/linearfinanceofficial"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/linear/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/linear-bsc/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3e9bc21c9b189c09df3ef1b824798658d5011937"
 }

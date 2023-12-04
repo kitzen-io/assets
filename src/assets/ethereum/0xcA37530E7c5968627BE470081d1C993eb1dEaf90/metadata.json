@@ -9,28 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ichifarm/ichi-oneToken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ichifarm"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ichifarm"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ichifarm"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/DvsYCfK8"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xca37530e7c5968627be470081d1c993eb1deaf90"
 }

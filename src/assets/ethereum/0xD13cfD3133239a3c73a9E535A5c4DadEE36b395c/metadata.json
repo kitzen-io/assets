@@ -6,24 +6,7 @@
     "description": "VAIOT offers a portfolio of blockchain-based AI assistants for businesses and consumers to provide automated services and transactions.",
     "explorer": "https://etherscan.io/token/0xD13cfD3133239a3c73a9E535A5c4DadEE36b395c",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/VAIOT_LTD"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/VAIOT_Community"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/vaiot/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/vaiot/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c"
 }

@@ -6,12 +6,7 @@
     "symbol": "BCDC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bcdc-defi/bcdc-contract"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa1069a93b0e44cc42bdcec90d010746d1b65a65c"
 }

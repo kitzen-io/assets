@@ -7,16 +7,7 @@
     "symbol": "INT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/intfoundation/int"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://intchain.io/whitepaper/INT-whitepaper-release-EN.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xbe038a2fdfec62cf1bed852f141a43005035edcc"
 }

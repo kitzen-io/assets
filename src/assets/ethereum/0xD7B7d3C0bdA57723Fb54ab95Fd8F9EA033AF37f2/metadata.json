@@ -6,16 +6,7 @@
     "symbol": "PYLON",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/pylonfinance/pylonfinance"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.google.com/document/d/1Ixec_ya46UR_LMlPzSCoosBSlNAxWC5ycnDV5LEw454/edit"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2"
 }

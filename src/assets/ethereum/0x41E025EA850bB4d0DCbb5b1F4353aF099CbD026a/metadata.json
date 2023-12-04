@@ -6,16 +6,7 @@
     "symbol": "FGC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/fantasygoldcoin"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/fantasygold/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x41e025ea850bb4d0dcbb5b1f4353af099cbd026a"
 }

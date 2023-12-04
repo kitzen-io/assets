@@ -6,12 +6,7 @@
     "symbol": "AllWin",
     "decimals": 6,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://allwindefi.com/AllwinDeFi(WPv1.0).pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc6358c02a4bafcbcd85360ae046e6bee556429c1"
 }

@@ -10,5 +10,6 @@
         "defi"
     ],
     "network": "erc20",
-    "identifier": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2"
+    "identifier": "0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+    "links": []
 }

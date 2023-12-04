@@ -8,12 +8,7 @@
     "symbol": "ZDEX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/zeedexio"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x5150956e082c748ca837a5dfa0a7c10ca4697f9c"
 }

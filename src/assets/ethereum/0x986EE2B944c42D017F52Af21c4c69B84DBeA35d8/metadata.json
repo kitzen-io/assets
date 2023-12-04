@@ -7,5 +7,6 @@
     "explorer": "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
     "status": "active",
     "network": "erc20",
-    "identifier": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8"
+    "identifier": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+    "links": []
 }

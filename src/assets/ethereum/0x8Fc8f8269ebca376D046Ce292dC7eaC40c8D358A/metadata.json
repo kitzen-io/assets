@@ -9,20 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/DeFiCh/ain"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/defichain"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/defichain/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a"
 }

@@ -6,20 +6,7 @@
     "symbol": "CBR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Cybercoin"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/H4sy68N"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.cybercoin.site/Cybercoin.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b"
 }

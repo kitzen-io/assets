@@ -6,12 +6,7 @@
     "symbol": "TelFx",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://telfx.io/white-paper"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc75fbba6f5ec3acdb60307b8278de1d2aac99471"
 }

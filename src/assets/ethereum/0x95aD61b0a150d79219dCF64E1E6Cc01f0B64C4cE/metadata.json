@@ -10,20 +10,7 @@
         "deflationary",
         "memes"
     ],
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/shibainuthedogecoinkiller"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/shiba-inu/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/shiba-inu/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
 }

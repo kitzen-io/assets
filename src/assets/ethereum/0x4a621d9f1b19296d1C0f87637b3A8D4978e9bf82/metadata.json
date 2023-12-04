@@ -6,24 +6,7 @@
     "symbol": "CYFM",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CyberFM/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CyberFM"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mftudotnet"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/cyberfm"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x4a621d9f1b19296d1c0f87637b3a8d4978e9bf82"
 }

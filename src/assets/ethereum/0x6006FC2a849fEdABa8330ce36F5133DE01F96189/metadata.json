@@ -6,24 +6,7 @@
     "symbol": "SHAKE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/spaceswap/spaceswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/spaceswapdefi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/spaceswap"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/r6RymJj"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6006fc2a849fedaba8330ce36f5133de01f96189"
 }

@@ -6,20 +6,7 @@
     "symbol": "QCORE",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/qcore-finance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/qcore_finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/qcore_finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x82866b4a71ba9d930fe338c386b6a45a7133eb36"
 }

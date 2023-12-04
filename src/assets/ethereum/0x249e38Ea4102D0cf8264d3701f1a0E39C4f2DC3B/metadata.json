@@ -6,24 +6,7 @@
     "website": "https://www.ufotoken.io/",
     "explorer": "https://etherscan.io/token/0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/theufotoken?s=21"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ufotokenofficial"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@UFOtruth"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/UFOTOKENOFFICIAL/supergalactic"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b"
 }

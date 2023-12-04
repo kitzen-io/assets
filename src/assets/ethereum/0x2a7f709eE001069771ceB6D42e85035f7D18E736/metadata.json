@@ -7,16 +7,7 @@
     "symbol": "OWL",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/stealthswap"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://stealthswap.org/dist/assets/stealthswap-whitepaper-v1.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2a7f709ee001069771ceb6d42e85035f7d18e736"
 }

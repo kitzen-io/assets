@@ -11,24 +11,7 @@
         "defi",
         "governance"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/curvefi/curve-contract"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CurveFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/curvefi"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/curve-dao-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd533a949740bb3306d119cc777fa900ba034cd52"
 }

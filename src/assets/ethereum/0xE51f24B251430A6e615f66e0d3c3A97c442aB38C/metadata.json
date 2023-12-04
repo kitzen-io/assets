@@ -6,16 +6,7 @@
     "symbol": "ART",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/$ART"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Drg4y5j"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe51f24b251430a6e615f66e0d3c3a97c442ab38c"
 }

@@ -6,20 +6,7 @@
     "description": "Everipedia IQ’s mission is to bring the world’s knowledge on-chain.",
     "explorer": "https://etherscan.io/token/0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Everipedia"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/EveripediaNetwork"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/ru/currencies/everipedia/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

@@ -6,12 +6,7 @@
     "website": "https://app.tryroll.com/token/HRTS",
     "explorer": "https://etherscan.io/token/0xb65722e0fbD75aAF5Be39022510Ed9b018FC1FaC",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/NFTHearts"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

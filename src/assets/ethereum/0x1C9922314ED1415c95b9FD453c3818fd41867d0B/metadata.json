@@ -9,24 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TowerToken"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/crazydefenseheroes"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/tower-token"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://lightpaper.crazydefenseheroes.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b"
 }

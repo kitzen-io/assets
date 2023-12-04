@@ -7,20 +7,7 @@
     "description": "Wrapped Zynecoin is a Wrapped version of Zynecoin its purpose is to provide interoperability between the Wethio blockchain and Ethereum blockchain.",
     "explorer": "https://etherscan.io/token/0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1",
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/Zynecoin"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/zynecoin/"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCiZ-xova4unF-3HI04ZFOIw"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1"
 }

@@ -6,12 +6,7 @@
     "symbol": "NXTG",
     "decimals": 0,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/nxtgold"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x60ec679cf3a48d89efa774fccd3dc59ef1401330"
 }

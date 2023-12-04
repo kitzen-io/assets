@@ -6,24 +6,7 @@
     "symbol": "PRQBOOST",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/parsiq_group"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/parsiq_net"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/parsiqnet/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/parsiq"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9"
 }

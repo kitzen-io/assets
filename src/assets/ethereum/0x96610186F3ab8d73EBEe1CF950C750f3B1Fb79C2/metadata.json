@@ -6,32 +6,7 @@
     "symbol": "EJS",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/enjinstarter/enjinstarter-tge-contracts"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/enjinstarter"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ENJINSTARTER"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/enjinstarter"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/enjinstarter"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCWzOp5iZ8B3vONrxlarIXbg"
-        }
-    ],
+    "links": [],
     "tags": [
         "gamefi",
         "nft"

@@ -6,12 +6,7 @@
     "symbol": "VRC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/voidreserve"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb65aa347a28d40039f62f3a488c9fd2799cb5a95"
 }

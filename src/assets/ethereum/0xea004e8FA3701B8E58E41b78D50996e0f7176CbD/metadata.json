@@ -6,24 +6,7 @@
     "symbol": "YFFC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/yffcfinance"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/yffc_finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/yffcfinance"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@yffc.finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xea004e8fa3701b8e58e41b78d50996e0f7176cbd"
 }

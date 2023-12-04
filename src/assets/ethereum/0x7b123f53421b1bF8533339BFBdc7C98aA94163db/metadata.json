@@ -6,16 +6,7 @@
     "symbol": "buidl",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/b-u-i-d-l"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.dfohub.com/strategy"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db"
 }

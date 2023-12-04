@@ -6,20 +6,7 @@
     "website": "https://xen.network/",
     "explorer": "https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/XEN_Crypto"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/XENCryptoTalk"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/xen-crypto/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8"
 }

@@ -6,40 +6,7 @@
     "symbol": "eXRD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/radixdlt"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Radix"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/RadixAnnouncements"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/WkB2USt"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/RadixDLT/"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCWz_uLkOCrmSUnLAxSY4N5Q"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Radix/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@radixdlt"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
 }

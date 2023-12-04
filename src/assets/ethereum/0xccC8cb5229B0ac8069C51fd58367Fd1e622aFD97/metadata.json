@@ -9,20 +9,7 @@
     "tags": [
         "gamefi"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/GodsUnchained"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/GodsUnchained/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/godsunchained/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97"
 }

@@ -6,12 +6,7 @@
     "symbol": "WHOLE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/wormhole_group"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe6179bb571d2d69837be731da88c76e377ec4738"
 }

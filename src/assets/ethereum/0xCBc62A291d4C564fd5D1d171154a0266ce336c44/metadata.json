@@ -6,16 +6,7 @@
     "symbol": "\"\"",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/zythtech"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://18.190.113.58//api.uzyth.com/uploaded_media/downloads/1591291137645_download.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcbc62a291d4c564fd5d1d171154a0266ce336c44"
 }

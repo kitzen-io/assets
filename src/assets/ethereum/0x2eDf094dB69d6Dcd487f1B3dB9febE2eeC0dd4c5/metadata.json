@@ -6,24 +6,7 @@
     "symbol": "ZEE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ZeroswapLabs"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ZeroSwapLabs"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/zeroswap"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/zeroswaplabs"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x2edf094db69d6dcd487f1b3db9febe2eec0dd4c5"
 }

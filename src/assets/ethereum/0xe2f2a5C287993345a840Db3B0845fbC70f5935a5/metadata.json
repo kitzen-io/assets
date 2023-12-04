@@ -9,12 +9,7 @@
     "tags": [
         "stablecoin"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/mstable_"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
 }

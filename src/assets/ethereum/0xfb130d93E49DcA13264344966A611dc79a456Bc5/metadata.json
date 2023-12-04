@@ -6,28 +6,7 @@
     "symbol": "DOGEGF",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "medium",
-            "url": "https://dogegf.medium.com/"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/dogegf/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dogegftoken"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DogeGF_Official"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Tjr8AvFBTP"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfb130d93e49dca13264344966a611dc79a456bc5"
 }

@@ -6,24 +6,7 @@
     "symbol": "QUICK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/QuickSwap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/QuickswapDEX"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/QuickSwapDEX"
-        },
-        {
-            "name": "medium",
-            "url": "https://quickswap-layer2.medium.com/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f"
 }

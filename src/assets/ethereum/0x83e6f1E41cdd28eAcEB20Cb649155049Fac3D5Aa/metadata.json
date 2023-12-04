@@ -9,16 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/polkastarter"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.google.com/presentation/d/1HkdL6XZfbl4mYgNo_8xZsZU0m8QOKusjgi0vBT9nvvY/edit"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
 }

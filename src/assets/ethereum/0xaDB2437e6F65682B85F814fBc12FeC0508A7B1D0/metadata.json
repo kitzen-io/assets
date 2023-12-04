@@ -6,32 +6,7 @@
     "symbol": "UNCX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/UNCX_token"
-        },
-        {
-            "name": "medium",
-            "url": "https://unicrypt.medium.com/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/uncx_token"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/uncx/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/unicrypt"
-        },
-        {
-            "name": "docs",
-            "url": "https://docs.unicrypt.network/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0"
 }

@@ -6,16 +6,7 @@
     "website": "https://unlock-protocol.com/",
     "explorer": "https://etherscan.io/token/0x90de74265a416e1393a450752175aed98fe11517",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Unlock Protocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/unlockprotocol"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x90de74265a416e1393a450752175aed98fe11517"
 }

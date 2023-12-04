@@ -6,20 +6,7 @@
     "symbol": "MAHA",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TheMahaDAO"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mahadao"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/mahadao"
-        }
-    ],
+    "links": [],
     "tags": [
         "staking",
         "governance",

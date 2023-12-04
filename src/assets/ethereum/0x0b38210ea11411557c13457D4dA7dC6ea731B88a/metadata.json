@@ -6,20 +6,7 @@
     "symbol": "API3",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/API3DAO"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/API3DAO"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/api3/"
-        }
-    ],
+    "links": [],
     "tags": [
         "defi"
     ],

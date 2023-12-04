@@ -6,12 +6,7 @@
     "symbol": "OD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://static.dsdaq.com/pdf/Dsdaq-white-paper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3c2cf21b9d4b543b93a9bcfe637f673d8bd944d8"
 }

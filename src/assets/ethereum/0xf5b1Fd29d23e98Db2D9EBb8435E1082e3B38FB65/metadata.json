@@ -6,16 +6,7 @@
     "description": "Kishimoto Inu is the Latest Anime & Inu Based Token released on the ERC20 Network.",
     "explorer": "https://etherscan.io/token/0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KishimotoInu"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Kishimoto_Inu"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

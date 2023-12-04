@@ -6,16 +6,7 @@
     "symbol": "CORN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/popcorntoken"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://popcorntoken.dev/Popcorn Whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3080ec2a6960432f179c66d388099a48e82e2047"
 }

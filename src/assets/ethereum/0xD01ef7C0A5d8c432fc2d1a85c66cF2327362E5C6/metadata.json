@@ -6,28 +6,7 @@
     "symbol": "aETHb",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Ankr-network/stkr-smartcontract"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Ankr"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ankrnetwork"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ankr-network"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://assets.ankr.com/files/stkr_whitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd01ef7c0a5d8c432fc2d1a85c66cf2327362e5c6"
 }

@@ -6,20 +6,7 @@
     "symbol": "TLN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/trustlines-protocol/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TrustlinesFound"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Trustlines"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x679131f591b4f369acb8cd8c51e68596806c3916"
 }

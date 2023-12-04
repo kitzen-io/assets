@@ -7,20 +7,7 @@
     "symbol": "$ROPE",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/dontbuyrope/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dontbuyrope"
-        },
-        {
-            "name": "medium",
-            "url": "https://dontbuyrope.medium.com"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9d47894f8becb68b9cf3428d256311affe8b068b"
 }

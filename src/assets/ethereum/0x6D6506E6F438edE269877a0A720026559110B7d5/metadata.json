@@ -6,12 +6,7 @@
     "symbol": "BONK",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bonktoken"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6d6506e6f438ede269877a0a720026559110b7d5"
 }

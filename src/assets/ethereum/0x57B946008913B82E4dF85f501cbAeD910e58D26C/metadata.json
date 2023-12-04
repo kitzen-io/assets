@@ -6,24 +6,7 @@
     "symbol": "POND",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/marlinprotocol"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/marlin/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/marlinprotocol"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/marlin/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x57b946008913b82e4df85f501cbaed910e58d26c"
 }

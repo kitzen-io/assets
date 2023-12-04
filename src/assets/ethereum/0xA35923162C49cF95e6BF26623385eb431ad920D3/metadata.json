@@ -6,16 +6,7 @@
     "symbol": "TURBO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/FYdKKmV3CU"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TurboToadToken"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

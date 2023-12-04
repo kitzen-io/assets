@@ -9,24 +9,7 @@
     "tags": [
         "deflationary"
     ],
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/nyx-token/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/NyxGeneral"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/NyxToken"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/NYXToken"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x118b552725e1892137740cb4d29390d952709639"
 }

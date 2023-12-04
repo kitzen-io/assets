@@ -10,16 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/indexcoop"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/indexcoop"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x47110d43175f7f2c2425e7d15792acc5817eb44f"
 }

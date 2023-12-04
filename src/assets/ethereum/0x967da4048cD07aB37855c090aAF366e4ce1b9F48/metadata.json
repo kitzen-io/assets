@@ -10,32 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/oceanprotocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/oceanprotocol"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.oceanprotocol.com/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/OceanProtocol_Community"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://oceanprotocol.com/tech-whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/ocean-protocol/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
 }

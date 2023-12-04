@@ -6,24 +6,7 @@
     "symbol": "SPO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Spores_Network"
-        },
-        {
-            "name": "medium",
-            "url": "https://spores.medium.com"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/spores-network"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/spores-network"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xcbe771323587ea16dacb6016e269d7f08a7acc4e"
 }

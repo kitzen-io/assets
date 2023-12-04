@@ -6,20 +6,7 @@
     "symbol": "MOSES",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/moses_erc20"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mosescoin"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/moses-coin/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xa81c39d038ee26d8443fe6994cc1d51dc13d7658"
 }

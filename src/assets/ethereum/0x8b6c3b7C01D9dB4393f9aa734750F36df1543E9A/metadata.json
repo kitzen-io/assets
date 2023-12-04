@@ -6,12 +6,7 @@
     "symbol": "VI",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://vid.camera/files/Vi-UBI.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8b6c3b7c01d9db4393f9aa734750f36df1543e9a"
 }

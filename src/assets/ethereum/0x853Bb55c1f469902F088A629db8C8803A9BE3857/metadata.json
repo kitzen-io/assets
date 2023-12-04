@@ -6,36 +6,7 @@
     "symbol": "one1inch",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ichifarm/ichi-oneToken"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ichifarm"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ichifarm"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/ichifarm"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/Bm6pUHjHUC"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/stable-1inch"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/stable-1inch/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x853bb55c1f469902f088a629db8c8803a9be3857"
 }

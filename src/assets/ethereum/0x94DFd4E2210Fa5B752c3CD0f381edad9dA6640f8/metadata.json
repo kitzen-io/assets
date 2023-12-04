@@ -9,32 +9,7 @@
     "tags": [
         "deflationary"
     ],
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/sphynx-eth/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/sphynx-eth"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/sphynxswapETH"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@sphynxeth"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/sphynxeth"
-        },
-        {
-            "name": "source_code",
-            "url": "https://github.com/sphynxeth/sphynx-eth"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x94dfd4e2210fa5b752c3cd0f381edad9da6640f8"
 }

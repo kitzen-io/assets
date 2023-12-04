@@ -6,16 +6,7 @@
     "symbol": "GIV",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CryptoLocally/Resources"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://cryptolocally.com/en/blog/giv-whitepaper/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf6537fe0df7f0cc0985cf00792cc98249e73efa0"
 }

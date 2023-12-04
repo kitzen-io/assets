@@ -6,16 +6,7 @@
     "symbol": "GBX",
     "decimals": 8,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/globitex_"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/globitex_com"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x12fcd6463e66974cf7bbc24ffc4d40d6be458283"
 }

@@ -7,20 +7,7 @@
     "symbol": "ANT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/aragonproject?lang=es"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/AragonProject"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/aragon"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x960b236a07cf122663c4303350609a66a7b288c0"
 }

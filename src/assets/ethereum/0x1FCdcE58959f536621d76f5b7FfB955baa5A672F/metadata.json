@@ -10,5 +10,6 @@
         "governance"
     ],
     "network": "erc20",
-    "identifier": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f"
+    "identifier": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+    "links": []
 }

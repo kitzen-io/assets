@@ -6,28 +6,7 @@
     "symbol": "FRONT",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/frontierwallet"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FrontierDotXYZ"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/FrontierDotXYZ"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/frontier/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/frontier-token/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
 }

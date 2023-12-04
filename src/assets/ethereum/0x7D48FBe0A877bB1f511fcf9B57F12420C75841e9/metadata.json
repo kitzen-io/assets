@@ -6,16 +6,7 @@
     "symbol": "DOOR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/door"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/door/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x7d48fbe0a877bb1f511fcf9b57f12420c75841e9"
 }

@@ -6,16 +6,7 @@
     "symbol": "CXN",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "source_code",
-            "url": "https://gitlab.com/beejay141/cxnsol"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://cxn.network/files/Whitepaper-CXN.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb48e0f69e6a3064f5498d495f77ad83e0874ab28"
 }

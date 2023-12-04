@@ -7,16 +7,7 @@
     "symbol": "CHART",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/chartexpro"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://about.chartex.pro"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1d37986f252d0e349522ea6c3b98cb935495e63e"
 }

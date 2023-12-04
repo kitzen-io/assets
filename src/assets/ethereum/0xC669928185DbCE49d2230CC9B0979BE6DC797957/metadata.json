@@ -6,28 +6,7 @@
     "website": "https://bt.io/",
     "explorer": "https://etherscan.io/token/0xc669928185dbce49d2230cc9b0979be6dc797957",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BitTorrent"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/bttcprotocol/bttc"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/BitTorrentChain"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://tron.network/static/doc/BitTorrent-ChainWhitepaper_EN.pdf"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@BitTorrent"
-        }
-    ],
+    "links": [],
     "tags": [
         "governance",
         "staking",

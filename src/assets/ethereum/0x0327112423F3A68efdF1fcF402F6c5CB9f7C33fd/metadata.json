@@ -6,12 +6,7 @@
     "symbol": "BTC++",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PieDAO_DeFi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd"
 }

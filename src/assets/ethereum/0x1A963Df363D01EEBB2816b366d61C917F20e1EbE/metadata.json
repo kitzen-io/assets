@@ -6,16 +6,7 @@
     "description": "we are a lab that designs and conducts social and entertaining experiments that simulate community experiences like no other. our experiments are designed to be immersive and fun for all who participate.",
     "explorer": "https://etherscan.io/token/0x1a963df363d01eebb2816b366d61c917f20e1ebe",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/mememe69696969"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/mememe/"
-        }
-    ],
+    "links": [],
     "tags": [
         "memes"
     ],

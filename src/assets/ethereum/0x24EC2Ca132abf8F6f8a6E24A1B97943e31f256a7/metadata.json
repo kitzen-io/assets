@@ -6,20 +6,7 @@
     "symbol": "MOOV",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/dotmoovs"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dotmoovs"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/dotmoovs"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7"
 }

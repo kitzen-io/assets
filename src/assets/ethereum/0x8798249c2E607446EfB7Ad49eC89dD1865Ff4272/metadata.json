@@ -9,20 +9,7 @@
     "tags": [
         "governance"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/sushiswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SushiSwap"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/sqhXAqc"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
 }

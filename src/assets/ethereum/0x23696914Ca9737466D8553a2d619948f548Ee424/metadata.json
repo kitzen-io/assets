@@ -7,5 +7,6 @@
     "symbol": "stkTRU",
     "status": "active",
     "network": "erc20",
-    "identifier": "0x23696914ca9737466d8553a2d619948f548ee424"
+    "identifier": "0x23696914ca9737466d8553a2d619948f548ee424",
+    "links": []
 }

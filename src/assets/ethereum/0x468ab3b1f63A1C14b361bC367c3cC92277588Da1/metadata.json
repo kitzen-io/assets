@@ -6,16 +6,7 @@
     "symbol": "YELD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/merlox/yeld-website"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://yeld.finance"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x468ab3b1f63a1c14b361bc367c3cc92277588da1"
 }

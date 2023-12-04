@@ -6,20 +6,7 @@
     "symbol": "DEC",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/decentr"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DecentrNet"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@DecentrNet"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
 }

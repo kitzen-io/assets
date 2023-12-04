@@ -9,16 +9,7 @@
     "tags": [
         "nft"
     ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/limewire"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/limewire"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88"
 }

@@ -6,24 +6,7 @@
     "symbol": "XSTAR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/stardexio"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/stardexio"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/stardexio"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@stardex"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xc0e47007e084eef3ee58eb33d777b3b4ca98622f"
 }

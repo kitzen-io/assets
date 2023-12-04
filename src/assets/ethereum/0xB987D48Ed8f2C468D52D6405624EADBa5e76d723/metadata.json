@@ -6,20 +6,7 @@
     "symbol": "STBZ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/stabilize-token/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/StabilizePro"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/stabilizeprotocol"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xb987d48ed8f2c468d52d6405624eadba5e76d723"
 }

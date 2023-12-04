@@ -7,24 +7,7 @@
     "symbol": "COR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/coreto-io"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Coretoio"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Coreto"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/coreto"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835"
 }

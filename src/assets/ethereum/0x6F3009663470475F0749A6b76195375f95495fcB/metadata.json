@@ -7,16 +7,7 @@
     "symbol": "HATCH",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/HatchDAO/HatchDAO-Token"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://pdfhost.io/v/sizGm.REJ_HatchDao_WPpdf.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x6f3009663470475f0749a6b76195375f95495fcb"
 }

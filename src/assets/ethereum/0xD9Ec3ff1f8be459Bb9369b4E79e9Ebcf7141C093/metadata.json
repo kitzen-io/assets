@@ -6,24 +6,7 @@
     "symbol": "KAI",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/kardiachain"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/KardiaChain"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@KardiaChain"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://dl.kardiachain.io/KardiaChain-WhitePaper-English.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093"
 }

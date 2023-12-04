@@ -6,20 +6,7 @@
     "symbol": "MFTU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CyberFM/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Mainstream For The Underground"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mftudotnet"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xba745513acebcbb977497c569d4f7d340f2a936b"
 }

@@ -6,24 +6,7 @@
     "symbol": "SUKU",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/SukuLab"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/SUKUecosystem"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/SUKUecosystem"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/SUKUecosystem"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7"
 }

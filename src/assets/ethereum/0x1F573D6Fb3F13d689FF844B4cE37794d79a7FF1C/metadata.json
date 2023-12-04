@@ -10,36 +10,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bancorprotocol"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/bancornetwork"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Bancor/"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.bancor.network/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bancor"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/bancor/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
 }

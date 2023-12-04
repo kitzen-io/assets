@@ -6,20 +6,7 @@
     "symbol": "XOR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Sora"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/sora_xor"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/SORA"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
 }

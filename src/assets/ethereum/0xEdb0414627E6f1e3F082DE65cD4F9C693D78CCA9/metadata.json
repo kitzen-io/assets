@@ -6,24 +6,7 @@
     "symbol": "mTWTR",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9"
 }

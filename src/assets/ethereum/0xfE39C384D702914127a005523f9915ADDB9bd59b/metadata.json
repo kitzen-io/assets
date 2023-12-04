@@ -6,28 +6,7 @@
     "symbol": "HPO",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hippocrat-dao"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Hippocrat_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/nexofinance"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://whitepaper.hippocrat.io/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/hippocrat/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfe39c384d702914127a005523f9915addb9bd59b"
 }

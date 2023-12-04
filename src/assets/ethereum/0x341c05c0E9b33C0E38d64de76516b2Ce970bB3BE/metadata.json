@@ -6,28 +6,7 @@
     "symbol": "dsETH",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/IndexCoop"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/indexcoop"
-        },
-        {
-            "name": "docs",
-            "url": "https://docs.indexcoop.com/index-coop-community-handbook/products/diversified-staked-eth-index-dseth"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/coins/diversified-staked-eth"
-        },
-        {
-            "name": "forum",
-            "url": "https://gov.indexcoop.com/t/iip-171-launch-the-diversified-staked-eth-index-dseth/4389"
-        }
-    ],
+    "links": [],
     "tags": [
         "staking",
         "defi"

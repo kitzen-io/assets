@@ -6,20 +6,7 @@
     "website": "https://vulcanforged.com/",
     "explorer": "https://etherscan.io/token/0x430ef9263e76dae63c84292c3409d61c598e9682",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/VulcanForged"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/VeriArti"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/vulcan-forged-pyr/"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

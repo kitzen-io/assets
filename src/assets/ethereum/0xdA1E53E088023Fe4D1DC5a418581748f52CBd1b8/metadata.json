@@ -6,24 +6,7 @@
     "symbol": "AIDI",
     "decimals": 9,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/AidiToken"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/AidiFinance/Aidiverse-Contracts"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/aidi_official"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/aidi-inu/"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xda1e53e088023fe4d1dc5a418581748f52cbd1b8"
 }

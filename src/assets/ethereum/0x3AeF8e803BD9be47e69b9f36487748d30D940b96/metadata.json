@@ -6,12 +6,7 @@
     "symbol": "vesta",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://vtp.network/static/VestaProtocolWhitepaper.pdf"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x3aef8e803bd9be47e69b9f36487748d30d940b96"
 }

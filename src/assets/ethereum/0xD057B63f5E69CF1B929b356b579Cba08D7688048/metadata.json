@@ -9,20 +9,7 @@
     "tags": [
         "defi"
     ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/gnosis/cowswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MEVprotection"
-        },
-        {
-            "name": "blog",
-            "url": "https://cow.fi"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xd057b63f5e69cf1b929b356b579cba08d7688048"
 }

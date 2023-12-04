@@ -6,16 +6,7 @@
     "website": "http://leavingrecords.com/",
     "explorer": "https://etherscan.io/token/0xA392c35EC6900346aDEc720Abe50413F48Ee5143",
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/LEAVINGRECORDS/"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/2EmZsrf"
-        }
-    ],
+    "links": [],
     "tags": [
         "nft"
     ],

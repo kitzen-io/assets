@@ -6,28 +6,7 @@
     "symbol": "CEZ",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/cezo-os"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/cezo_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/cezo_io"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/cezo/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@cezo_io"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3"
 }

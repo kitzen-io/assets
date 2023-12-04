@@ -6,36 +6,7 @@
     "symbol": "CRAD",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ixc-software"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CryptoAds Marketplace"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/cryptoads_marketplace_en"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/CryptoAdsMarketplace"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/CRAD/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@AlexVinogradov4"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://cryptoads.exchange"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x608f006b6813f97097372d0d31fb0f11d1ca3e4e"
 }

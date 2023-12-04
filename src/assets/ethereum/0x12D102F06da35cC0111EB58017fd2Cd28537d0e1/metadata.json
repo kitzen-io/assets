@@ -6,20 +6,7 @@
     "symbol": "VOX",
     "decimals": 18,
     "status": "active",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/RealVoxFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/VoxFinance"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/c32KurP"
-        }
-    ],
+    "links": [],
     "network": "erc20",
     "identifier": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1"
 }
