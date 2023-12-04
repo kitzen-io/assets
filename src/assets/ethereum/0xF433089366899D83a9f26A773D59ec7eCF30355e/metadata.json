@@ -3,9 +3,9 @@
     "website": "https://metalpay.com",
     "description": "Metal Pay makes it simple to keep track of where your money goes.",
     "explorer": "https://etherscan.io/token/0xF433089366899D83a9f26A773D59ec7eCF30355e",
-    "type": "ERC20",
     "symbol": "MTL",
     "decimals": 8,
     "status": "active",
-    "id": "0xF433089366899D83a9f26A773D59ec7eCF30355e"
+    "network": "erc20",
+    "identifier": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
 }

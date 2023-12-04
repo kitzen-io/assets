@@ -3,9 +3,9 @@
     "website": "https://chrono.tech",
     "description": "TIME is an utility and governance token of ChronoTech ecosystem",
     "explorer": "https://etherscan.io/token/0x485d17A6f1B8780392d53D64751824253011A260",
-    "type": "ERC20",
     "symbol": "TIME",
     "decimals": 8,
     "status": "active",
-    "id": "0x485d17A6f1B8780392d53D64751824253011A260"
+    "network": "erc20",
+    "identifier": "0x485d17a6f1b8780392d53d64751824253011a260"
 }

@@ -3,11 +3,9 @@
     "website": "https://valuedefi.io/",
     "description": "Value DeFi: Bringing True Value to DeFi.",
     "explorer": "https://etherscan.io/token/0x76A034e76Aa835363056dd418611E4f81870f16e",
-    "type": "ERC20",
     "symbol": "vETH",
     "decimals": 9,
     "status": "active",
-    "id": "0x76A034e76Aa835363056dd418611E4f81870f16e",
     "links": [
         {
             "name": "github",
@@ -29,5 +27,7 @@
             "name": "medium",
             "url": "https://medium.com/@valuedefi"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x76a034e76aa835363056dd418611e4f81870f16e"
 }

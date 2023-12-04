@@ -3,11 +3,9 @@
     "website": "https://superrare.com/",
     "description": "A network owned & governed by artists, collectors and curators",
     "explorer": "https://etherscan.io/token/0xba5BDe662c17e2aDFF1075610382B9B691296350",
-    "type": "ERC20",
     "symbol": "RARE",
     "decimals": 18,
     "status": "active",
-    "id": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xba5bde662c17e2adff1075610382b9b691296350"
 }

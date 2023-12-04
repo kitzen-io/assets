@@ -4,11 +4,9 @@
     "short_description": "Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.",
     "description": "Newscrypto is a project that brings together education, information and trading tools for traders in the crypto markets.",
     "explorer": "https://etherscan.io/token/0x968f6f898a6df937fc1859b323ac2f14643e3fed",
-    "type": "ERC20",
     "symbol": "NWC",
     "decimals": 18,
     "status": "active",
-    "id": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
     "links": [
         {
             "name": "twitter",
@@ -26,5 +24,7 @@
             "name": "whitepaper",
             "url": "https://newscrypto.io/whitepaper.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x968f6f898a6df937fc1859b323ac2f14643e3fed"
 }

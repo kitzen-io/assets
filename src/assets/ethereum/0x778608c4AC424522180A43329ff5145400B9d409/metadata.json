@@ -1,11 +1,11 @@
 {
     "name": "Chainclub Ecosystem Network",
     "symbol": "CEN",
-    "type": "ERC20",
     "decimals": 8,
     "description": "-",
     "website": "",
     "explorer": "https://etherscan.io/token/0x778608c4AC424522180A43329ff5145400B9d409",
     "status": "abandoned",
-    "id": "0x778608c4AC424522180A43329ff5145400B9d409"
+    "network": "erc20",
+    "identifier": "0x778608c4ac424522180a43329ff5145400b9d409"
 }

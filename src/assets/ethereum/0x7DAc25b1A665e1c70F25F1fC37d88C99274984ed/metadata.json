@@ -1,13 +1,11 @@
 {
     "name": "Shibnobi",
-    "type": "ERC20",
     "symbol": "SHINJA",
     "decimals": 9,
     "website": "https://shibnobi.com",
     "description": "SHIBNOBI is a community-driven token / platform that wants to develop a cross-chain token swap for the next generation of investors and make crypto simple and safe for everyone.",
     "explorer": "https://etherscan.io/token/0x7DAc25b1A665e1c70F25F1fC37d88C99274984ed",
     "status": "active",
-    "id": "0x7DAc25b1A665e1c70F25F1fC37d88C99274984ed",
     "links": [
         {
             "name": "twitter",
@@ -37,5 +35,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/shibnobi"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x7dac25b1a665e1c70f25f1fc37d88c99274984ed"
 }

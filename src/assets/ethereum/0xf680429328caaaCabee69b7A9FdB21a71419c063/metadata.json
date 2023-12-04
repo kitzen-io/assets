@@ -6,8 +6,6 @@
     "website": "https://www.butterflyprotocol.io",
     "description": "A Decentralized Name System for the New Internet",
     "explorer": "https://etherscan.io/token/0xf680429328caaacabee69b7a9fdb21a71419c063",
-    "type": "ERC20",
-    "id": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "medium",
             "url": "https://medium.com/@bproto"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xf680429328caaacabee69b7a9fdb21a71419c063"
 }

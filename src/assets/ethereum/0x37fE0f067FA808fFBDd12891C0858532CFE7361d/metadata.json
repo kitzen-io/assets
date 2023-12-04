@@ -3,11 +3,9 @@
     "website": "https://civfund.com",
     "description": "The World's First 100% Decentralized Investment Fund (DIF)",
     "explorer": "https://etherscan.io/token/0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
-    "type": "ERC20",
     "symbol": "CIV",
     "decimals": 18,
     "status": "active",
-    "id": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
     "links": [
         {
             "name": "github",
@@ -41,5 +39,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/civilization/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d"
 }

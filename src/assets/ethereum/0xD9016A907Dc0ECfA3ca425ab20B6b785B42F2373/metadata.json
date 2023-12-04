@@ -3,9 +3,9 @@
     "website": "https://token.gamee.com",
     "description": "The GAMEE Token is an ERC-20 utility token that is designed to be the currency of purchase, utility and reward in supported play-to-earn games provided on the GAMEE entertainment platform.",
     "explorer": "https://etherscan.io/token/0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
-    "type": "ERC20",
     "symbol": "GMEE",
     "decimals": 18,
     "status": "active",
-    "id": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373"
+    "network": "erc20",
+    "identifier": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
 }

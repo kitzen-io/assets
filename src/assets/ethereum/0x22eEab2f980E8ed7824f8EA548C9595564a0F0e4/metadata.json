@@ -3,11 +3,9 @@
     "website": "http://qqqfindex.com",
     "description": "The Standard Crypto Fund QQQF is a tokenised exchange-tradable fund (ETF) with DAO implementation.",
     "explorer": "https://etherscan.io/token/0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4",
-    "type": "ERC20",
     "symbol": "QQQF",
     "decimals": 18,
     "status": "active",
-    "id": "0x22eEab2f980E8ed7824f8EA548C9595564a0F0e4",
     "links": [
         {
             "name": "github",
@@ -17,5 +15,7 @@
             "name": "whitepaper",
             "url": "https://qqqfindex.com/qqqf_whitepaper_v1.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x22eeab2f980e8ed7824f8ea548c9595564a0f0e4"
 }

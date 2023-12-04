@@ -1,13 +1,11 @@
 {
     "name": "Zedxion",
-    "type": "ERC20",
     "symbol": "USDZ",
     "decimals": 9,
     "website": "https://zedxion.io/",
     "description": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto-powered ecosystem comprising Zedxion.",
     "explorer": "https://etherscan.io/token/0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8",
     "status": "active",
-    "id": "0x0a661F6AD63a1500D714ED1EeEdb64ec493a54A8",
     "links": [
         {
             "name": "twitter",
@@ -40,5 +38,7 @@
     ],
     "tags": [
         "stablecoin"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0a661f6ad63a1500d714ed1eeedb64ec493a54a8"
 }

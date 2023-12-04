@@ -4,10 +4,8 @@
     "description": "Luffy is a versatile altcoin featuring a layer-2 blockchain for fast and cheap transactions.",
     "explorer": "https://etherscan.io/token/0x54012cDF4119DE84218F7EB90eEB87e25aE6EBd7",
     "symbol": "LUFFY",
-    "type": "ERC20",
     "decimals": 9,
     "status": "active",
-    "id": "0x54012cDF4119DE84218F7EB90eEB87e25aE6EBd7",
     "tags": [
         "nft"
     ],
@@ -28,5 +26,7 @@
             "name": "facebook",
             "url": "https://facebook.com/groups/luffytoken"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7"
 }

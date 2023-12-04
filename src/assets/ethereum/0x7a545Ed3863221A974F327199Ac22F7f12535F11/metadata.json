@@ -3,11 +3,9 @@
     "website": "https://baguettetoken.com/",
     "description": "Baguette Token is a community-based meme project implemented as an ERC20 token. BGTT is distributed as a reward for contributions made to its ecosystem. Its goal is to bridge the culinary and cryptocurrency worlds and provide partnerships with bakeries all around the world.",
     "explorer": "https://etherscan.io/token/0x7a545Ed3863221A974F327199Ac22F7f12535F11",
-    "type": "ERC20",
     "symbol": "BGTT",
     "decimals": 18,
     "status": "active",
-    "id": "0x7a545Ed3863221A974F327199Ac22F7f12535F11",
     "links": [
         {
             "name": "telegram",
@@ -25,5 +23,7 @@
             "name": "whitepaper",
             "url": "https://baguettetoken.com/assets/Baguette_Token_White_Paper.pdf"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x7a545ed3863221a974f327199ac22f7f12535f11"
 }

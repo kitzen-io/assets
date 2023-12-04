@@ -3,11 +3,9 @@
     "website": "https://gomining.com/",
     "description": "Gomining is an exchange token backed by a Top 10 global bitcoin mining project.",
     "explorer": "https://etherscan.io/token/0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
-    "type": "ERC20",
     "symbol": "GMT",
     "decimals": 18,
     "status": "active",
-    "id": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
     "links": [
         {
             "name": "telegram_news",
@@ -56,5 +54,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989"
 }

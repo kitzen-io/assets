@@ -3,9 +3,9 @@
     "website": "https://pegnet.org/",
     "description": "pUSD is a USD-pegged stablecoin asset in the PegNet network.",
     "explorer": "https://etherscan.io/token/0x93d3296cac208422BF587c3597D116e809870f2b",
-    "type": "ERC20",
     "symbol": "pUSD",
     "decimals": 8,
     "status": "active",
-    "id": "0x93d3296cac208422BF587c3597D116e809870f2b"
+    "network": "erc20",
+    "identifier": "0x93d3296cac208422bf587c3597d116e809870f2b"
 }

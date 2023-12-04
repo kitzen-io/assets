@@ -3,11 +3,9 @@
     "website": "https://cezo.io/",
     "description": "CEZO is a decentralized OS infrastructure to enable full ecosystem required by complex computations of DApps.",
     "explorer": "https://etherscan.io/token/0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3",
-    "type": "ERC20",
     "symbol": "CEZ",
     "decimals": 18,
     "status": "active",
-    "id": "0xFEbc25f4c5fc3E90a7eFaE0b4d436A77c9e131B3",
     "links": [
         {
             "name": "github",
@@ -29,5 +27,7 @@
             "name": "medium",
             "url": "https://medium.com/@cezo_io"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xfebc25f4c5fc3e90a7efae0b4d436a77c9e131b3"
 }

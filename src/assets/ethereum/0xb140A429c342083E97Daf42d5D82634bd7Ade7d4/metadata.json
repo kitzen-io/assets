@@ -4,15 +4,15 @@
     "description": "WAX Governance Token",
     "explorer": "https://etherscan.io/token/0xb140A429c342083E97Daf42d5D82634bd7Ade7d4",
     "research": "https://wax.io/blog/tags/technical",
-    "type": "ERC20",
     "symbol": "WAXG",
     "decimals": 8,
     "status": "active",
-    "id": "0xb140A429c342083E97Daf42d5D82634bd7Ade7d4",
     "links": [
         {
             "name": "whitepaper",
             "url": "https://github.com/worldwide-asset-exchange/whitepaper"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xb140a429c342083e97daf42d5d82634bd7ade7d4"
 }

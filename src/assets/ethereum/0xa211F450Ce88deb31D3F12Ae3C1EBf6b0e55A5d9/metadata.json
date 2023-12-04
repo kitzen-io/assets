@@ -3,11 +3,9 @@
     "website": "https://parsiq.net",
     "description": "Incentivization of Liquidity Providers by PARSIQ.",
     "explorer": "https://etherscan.io/token/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
-    "type": "ERC20",
     "symbol": "PRQBOOST",
     "decimals": 18,
     "status": "active",
-    "id": "0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
     "links": [
         {
             "name": "telegram",
@@ -25,5 +23,7 @@
             "name": "medium",
             "url": "https://medium.com/parsiq"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xa211f450ce88deb31d3f12ae3c1ebf6b0e55a5d9"
 }

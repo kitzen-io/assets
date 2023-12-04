@@ -4,12 +4,12 @@
     "description": "Numeraire: A Cryptographic Token for Coordinating Machine Intelligence and Preventing Overfitting.",
     "explorer": "https://etherscan.io/token/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
     "research": "https://research.binance.com/en/projects/numeraire",
-    "type": "ERC20",
     "symbol": "NMR",
     "decimals": 18,
     "status": "active",
-    "id": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
 }

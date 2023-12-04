@@ -1,11 +1,11 @@
 {
     "name": "QPay",
     "symbol": "QPY",
-    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "https://qpay.group/",
     "explorer": "https://etherscan.io/token/0x6911270D4BC1915744AEdd785d41D44f47245BD0",
     "status": "abandoned",
-    "id": "0x6911270D4BC1915744AEdd785d41D44f47245BD0"
+    "network": "erc20",
+    "identifier": "0x6911270d4bc1915744aedd785d41d44f47245bd0"
 }

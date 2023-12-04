@@ -3,11 +3,9 @@
     "website": "https://sushiswap.fi",
     "description": "xSUSHI is a trading fee accruing token. 0.05% of the exchange trade fees on SushiSwap are awarded to holders of the xSUSHI token",
     "explorer": "https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
-    "type": "ERC20",
     "symbol": "xSUSHI",
     "decimals": 18,
     "status": "active",
-    "id": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
     "tags": [
         "governance"
     ],
@@ -24,5 +22,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/sqhXAqc"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
 }

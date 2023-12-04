@@ -3,15 +3,15 @@
     "website": "https://wormhole.finance",
     "description": "The first Trade to Farm DeFi coin on the Ethereum Blockchain",
     "explorer": "https://etherscan.io/token/0xe6179bB571D2d69837bE731da88C76e377ec4738",
-    "type": "ERC20",
     "symbol": "WHOLE",
     "decimals": 18,
     "status": "active",
-    "id": "0xe6179bB571D2d69837bE731da88C76e377ec4738",
     "links": [
         {
             "name": "twitter",
             "url": "https://twitter.com/wormhole_group"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xe6179bb571d2d69837be731da88c76e377ec4738"
 }

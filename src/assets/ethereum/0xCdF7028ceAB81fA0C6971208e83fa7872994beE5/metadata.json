@@ -1,13 +1,11 @@
 {
     "name": "Threshold Network Token",
-    "type": "ERC20",
     "symbol": "T",
     "decimals": 18,
     "website": "https://threshold.network/",
     "description": "Threshold Network is the home of $tBTC v2, proxy re-encryption #PRE, $thUSD, and all threshold cryptography.",
     "explorer": "https://etherscan.io/token/0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
     "status": "active",
-    "id": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
     "links": [
         {
             "name": "github",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5"
 }

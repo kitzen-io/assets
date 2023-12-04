@@ -3,11 +3,9 @@
     "website": "https://hippocrat.io/",
     "description": "Hippocrat is pursuing to aggregate global health data and build data economy upon decentralized governance and open cooperation. Hippocrat token is an incentive for data provider and utilized to build and maintain Hippocrat DAO and protocol in a way the project can be permanently sustainable.",
     "explorer": "https://etherscan.io/token/0xfE39C384D702914127a005523f9915ADDB9bd59b",
-    "type": "ERC20",
     "symbol": "HPO",
     "decimals": 18,
     "status": "active",
-    "id": "0xfE39C384D702914127a005523f9915ADDB9bd59b",
     "links": [
         {
             "name": "github",
@@ -29,5 +27,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/hippocrat/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xfe39c384d702914127a005523f9915addb9bd59b"
 }

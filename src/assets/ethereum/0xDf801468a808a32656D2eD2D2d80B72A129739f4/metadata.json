@@ -1,13 +1,11 @@
 {
     "name": "Somnium Space Cubes",
-    "type": "ERC20",
     "symbol": "CUBE",
     "decimals": 8,
     "website": "https://www.somniumspace.com/",
     "description": "We are an open, social & persistent VR world built on blockchain. Buy land, build or import objects and instantly monetize. Universe shaped entirely by players!",
     "explorer": "https://etherscan.io/token/0xdf801468a808a32656d2ed2d2d80b72a129739f4",
     "status": "active",
-    "id": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "nft"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xdf801468a808a32656d2ed2d2d80b72a129739f4"
 }

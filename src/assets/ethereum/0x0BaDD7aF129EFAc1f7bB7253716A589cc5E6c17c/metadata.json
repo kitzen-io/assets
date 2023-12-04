@@ -3,9 +3,9 @@
     "website": "https://e-money.com",
     "description": "ERC20 version of the e-Money EUR stablecoin",
     "explorer": "https://etherscan.io/token/0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
-    "type": "ERC20",
     "symbol": "EEUR",
     "decimals": 6,
     "status": "active",
-    "id": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c"
+    "network": "erc20",
+    "identifier": "0x0badd7af129efac1f7bb7253716a589cc5e6c17c"
 }

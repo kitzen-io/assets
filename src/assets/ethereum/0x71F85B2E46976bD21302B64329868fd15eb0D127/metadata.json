@@ -3,9 +3,9 @@
     "website": "https://axion.network",
     "description": "Using a high-interest time-locked savings account, Axion is a global currency, built to serve the people.",
     "explorer": "https://etherscan.io/token/0x71F85B2E46976bD21302B64329868fd15eb0D127",
-    "type": "ERC20",
     "symbol": "AXN",
     "decimals": 18,
     "status": "active",
-    "id": "0x71F85B2E46976bD21302B64329868fd15eb0D127"
+    "network": "erc20",
+    "identifier": "0x71f85b2e46976bd21302b64329868fd15eb0d127"
 }

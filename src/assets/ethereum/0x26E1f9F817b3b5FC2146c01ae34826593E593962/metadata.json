@@ -1,13 +1,11 @@
 {
     "name": "qiibeeToken",
     "symbol": "QBX",
-    "type": "ERC20",
     "decimals": 18,
     "description": "The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.",
     "website": "https://qiibee.com/",
     "explorer": "https://etherscan.io/token/0x26e1f9f817b3b5fc2146c01ae34826593e593962",
     "status": "active",
-    "id": "0x26E1f9F817b3b5FC2146c01ae34826593E593962",
     "links": [
         {
             "name": "whitepaper",
@@ -36,5 +34,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x26e1f9f817b3b5fc2146c01ae34826593e593962"
 }

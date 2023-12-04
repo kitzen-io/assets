@@ -3,11 +3,9 @@
     "website": "https://dhedge.org",
     "description": "Decentralized asset management protocol connecting the world’s best investment managers with investors in a permissionless, trustless fashion.",
     "explorer": "https://etherscan.io/token/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
-    "type": "ERC20",
     "symbol": "DHT",
     "decimals": 18,
     "status": "active",
-    "id": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
     "links": [
         {
             "name": "twitter",
@@ -61,5 +59,7 @@
     "tags": [
         "governance",
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xca1207647ff814039530d7d35df0e1dd2e91fa84"
 }

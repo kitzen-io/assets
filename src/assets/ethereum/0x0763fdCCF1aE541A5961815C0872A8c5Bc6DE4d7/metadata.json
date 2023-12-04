@@ -3,11 +3,9 @@
     "website": "https://suku.world",
     "description": "The link between open finance, traceability, and transparency. The future of supply chains today.",
     "explorer": "https://etherscan.io/token/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
-    "type": "ERC20",
     "symbol": "SUKU",
     "decimals": 18,
     "status": "active",
-    "id": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
     "links": [
         {
             "name": "github",
@@ -25,5 +23,7 @@
             "name": "facebook",
             "url": "https://facebook.com/SUKUecosystem"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x0763fdccf1ae541a5961815c0872a8c5bc6de4d7"
 }

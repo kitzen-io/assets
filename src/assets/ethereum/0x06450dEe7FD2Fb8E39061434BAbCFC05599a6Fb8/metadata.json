@@ -1,13 +1,11 @@
 {
     "name": "XEN Crypto",
     "symbol": "XEN",
-    "type": "ERC20",
     "decimals": 18,
     "description": "XEN aims to become a community-building crypto asset that connects like minded people together and provide the lowest barrier to entry through its unique tokenomics.",
     "website": "https://xen.network/",
     "explorer": "https://etherscan.io/token/0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
     "status": "active",
-    "id": "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/xen-crypto/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8"
 }

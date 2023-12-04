@@ -1,13 +1,11 @@
 {
     "name": "Ariva",
-    "type": "ERC20",
     "symbol": "ARV",
     "decimals": 8,
     "website": "https://www.ariva.digital/",
     "description": "Ariva (ARV) is a cryptocurrency supported by Ariva Co., produced for active use in global and local tourism and travel networks in the near future.",
     "explorer": "https://etherscan.io/token/0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
     "status": "active",
-    "id": "0x79C7EF95aD32DcD5ECadB231568Bb03dF7824815",
     "links": [
         {
             "name": "twitter",
@@ -48,5 +46,7 @@
     ],
     "tags": [
         "defi"
-    ]
-} 
+    ],
+    "network": "erc20",
+    "identifier": "0x79c7ef95ad32dcd5ecadb231568bb03df7824815"
+}

@@ -3,11 +3,9 @@
     "website": "https://katana.finance/",
     "description": "Katana is a DeFi Yield Farming platform that helps users to have profit as much as possible from their crypto assets.",
     "explorer": "https://etherscan.io/token/0xe6410569602124506658Ff992F258616Ea2D4A3D",
-    "type": "ERC20",
     "symbol": "KATANA",
     "decimals": 18,
     "status": "active",
-    "id": "0xe6410569602124506658Ff992F258616Ea2D4A3D",
     "links": [
         {
             "name": "github",
@@ -25,5 +23,7 @@
             "name": "medium",
             "url": "https://medium.com/katanafinance"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xe6410569602124506658ff992f258616ea2d4a3d"
 }

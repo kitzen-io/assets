@@ -3,9 +3,9 @@
     "website": "-",
     "description": "CHF stablecoin",
     "explorer": "https://etherscan.io/token/0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
-    "type": "ERC20",
     "symbol": "DCHF",
     "decimals": 4,
     "status": "abandoned",
-    "id": "0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D"
+    "network": "erc20",
+    "identifier": "0x0703fb3ccf77d117ecbb19774b5f97c5a4875c9d"
 }

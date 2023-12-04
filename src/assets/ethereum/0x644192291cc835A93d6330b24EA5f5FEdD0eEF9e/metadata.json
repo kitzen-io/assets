@@ -1,13 +1,11 @@
 {
     "name": "AllianceBlock Nexera Token",
-    "type": "ERC20",
     "symbol": "NXRA",
     "decimals": 18,
     "website": "https://allianceblock.io",
     "description": "Seamless gateways between TradFi and DeFi",
     "explorer": "https://etherscan.io/token/0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
     "status": "active",
-    "id": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
     "links": [
         {
             "name": "twitter",
@@ -48,5 +46,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e"
 }

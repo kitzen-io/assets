@@ -3,9 +3,9 @@
     "website": "https://burnthestate.com/",
     "description": "Yield Farming Known as Ash",
     "explorer": "https://etherscan.io/token/0x4086692D53262b2Be0b13909D804F0491FF6Ec3e",
-    "type": "ERC20",
     "symbol": "YFKA",
     "decimals": 18,
     "status": "active",
-    "id": "0x4086692D53262b2Be0b13909D804F0491FF6Ec3e"
+    "network": "erc20",
+    "identifier": "0x4086692d53262b2be0b13909d804f0491ff6ec3e"
 }

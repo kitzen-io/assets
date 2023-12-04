@@ -3,11 +3,9 @@
     "website": "app.ichi.org",
     "description": "The ICHI token is a token built for governing the ICHI DAO.",
     "explorer": "https://etherscan.io/token/0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
-    "type": "ERC20",
     "symbol": "ICHI",
     "decimals": 18,
     "status": "active",
-    "id": "0x111111517e4929D3dcbdfa7CCe55d30d4B6BC4d6",
     "tags": [
         "defi"
     ],
@@ -28,5 +26,7 @@
             "name": "medium",
             "url": "https://medium.com/ichifarm"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6"
 }

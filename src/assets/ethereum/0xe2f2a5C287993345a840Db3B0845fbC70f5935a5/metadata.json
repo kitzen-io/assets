@@ -3,11 +3,9 @@
     "website": "https://mstable.org",
     "description": "mStable unites stablecoins, lending and swapping into one standard.",
     "explorer": "https://etherscan.io/token/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
-    "type": "ERC20",
     "symbol": "mUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
     "tags": [
         "stablecoin"
     ],
@@ -16,5 +14,7 @@
             "name": "twitter",
             "url": "https://twitter.com/mstable_"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
 }

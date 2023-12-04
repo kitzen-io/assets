@@ -3,11 +3,9 @@
     "website": "https://mahadao.com/",
     "description": "MahaDAO introduces the world's first valuecoin ARTH, a new kind of currency that remains stable short term, but appreciates long-term",
     "explorer": "https://etherscan.io/token/0x745407c86DF8DB893011912d3aB28e68B62E49B0",
-    "type": "ERC20",
     "symbol": "MAHA",
     "decimals": 18,
     "status": "active",
-    "id": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
     "links": [
         {
             "name": "twitter",
@@ -26,5 +24,7 @@
         "staking",
         "governance",
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x745407c86df8db893011912d3ab28e68b62e49b0"
 }

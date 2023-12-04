@@ -1,12 +1,10 @@
 {
     "name": "SPACE ID",
     "symbol": "ID",
-    "type": "ERC20",
     "decimals": 18,
     "description": "SPACE ID is a universal name service network that seamlessly connects people, information, assets, and applications in the digital world. SPACE ID is also the provider of .bnb domain name service.",
     "website": "https://space.id/",
     "explorer": "https://etherscan.io/token/0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
-    "id": "0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
     "status": "active",
     "links": [
         {
@@ -40,5 +38,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x2dff88a56767223a5529ea5960da7a3f5f766406"
 }

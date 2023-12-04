@@ -4,11 +4,9 @@
     "description": "Travala.com claims to be the leading blockchain-based travel booking platform.",
     "explorer": "https://etherscan.io/token/0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0",
     "research": "https://research.binance.com/en/projects/travala",
-    "type": "ERC20",
     "symbol": "AVA",
     "decimals": 18,
     "status": "active",
-    "id": "0x442B153F6F61C0c99A33Aa4170DCb31e1ABDa1D0",
     "links": [
         {
             "name": "twitter",
@@ -26,5 +24,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/travala/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x442b153f6f61c0c99a33aa4170dcb31e1abda1d0"
 }

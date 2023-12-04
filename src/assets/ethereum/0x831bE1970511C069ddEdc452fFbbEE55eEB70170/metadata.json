@@ -1,13 +1,11 @@
 {
     "name": "ELF wallet (ELF)",
-    "type": "ERC20",
     "symbol": "ELF",
     "decimals": 18,
     "website": "https://www.elfwallets.com/",
     "description": "Multi-chain Wallet in WEB3.Multi-chain Wallet, Security First, Full Control by User.",
     "explorer": "https://etherscan.io/token/0x831be1970511c069ddedc452ffbbee55eeb70170",
     "status": "active",
-    "id": "0x831bE1970511C069ddEdc452fFbbEE55eEB70170",
     "links": [
         {
             "name": "twitter",
@@ -36,5 +34,7 @@
     ],
     "tags": [
         "governance"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x831be1970511c069ddedc452ffbbee55eeb70170"
 }

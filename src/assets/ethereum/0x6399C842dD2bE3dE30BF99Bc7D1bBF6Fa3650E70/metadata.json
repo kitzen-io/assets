@@ -4,11 +4,9 @@
     "short_description": "powered by anons.",
     "description": "Decentralized Financial Instrument Protocol.",
     "explorer": "https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
-    "type": "ERC20",
     "symbol": "$PREMIA",
     "decimals": 18,
     "status": "active",
-    "id": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
     "links": [
         {
             "name": "github",
@@ -22,5 +20,7 @@
             "name": "medium",
             "url": "https://premia.medium.com"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
 }

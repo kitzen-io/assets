@@ -3,11 +3,9 @@
     "website": "https://DxSale.Network",
     "description": "DxSale is a decentralized, cross chain, token management platform as a service. DxSale DAO allows for seamless onboarding of chains to provide tools to facilitate and grow out a chains ecosystem.",
     "explorer": "https://etherscan.io/token/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
-    "type": "ERC20",
     "symbol": "SALE",
     "decimals": 18,
     "status": "active",
-    "id": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
     "links": [
         {
             "name": "twitter",
@@ -41,5 +39,7 @@
             "name": "docs",
             "url": "https://docs.dxsale.network"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xf063fe1ab7a291c5d06a86e14730b00bf24cb589"
 }

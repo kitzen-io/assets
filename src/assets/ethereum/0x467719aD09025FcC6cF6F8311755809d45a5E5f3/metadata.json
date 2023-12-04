@@ -1,13 +1,11 @@
 {
     "name": "Axelar",
-    "type": "ERC20",
     "symbol": "AXL",
     "decimals": 6,
     "website": "https://axelar.network/",
     "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
     "explorer": "https://etherscan.io/token/0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
     "status": "active",
-    "id": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
     "links": [
         {
             "name": "twitter",
@@ -64,5 +62,7 @@
     ],
     "tags": [
         "wrapped"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
 }

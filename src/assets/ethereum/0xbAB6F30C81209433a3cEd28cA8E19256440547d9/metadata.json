@@ -1,11 +1,11 @@
 {
     "name": "Yu Gi Oh",
     "symbol": "YGO",
-    "type": "ERC20",
     "decimals": 6,
     "description": "-",
     "website": "",
     "explorer": "https://etherscan.io/token/0xbAB6F30C81209433a3cEd28cA8E19256440547d9",
     "status": "abandoned",
-    "id": "0xbAB6F30C81209433a3cEd28cA8E19256440547d9"
+    "network": "erc20",
+    "identifier": "0xbab6f30c81209433a3ced28ca8e19256440547d9"
 }

@@ -3,11 +3,9 @@
     "website": "https://jointer.io/",
     "description": "Jointer’s Decentralized Finance (DeFi) Auction",
     "explorer": "https://etherscan.io/token/0x1368452Bfb5Cd127971C8DE22C58fBE89D35A6BF",
-    "type": "ERC20",
     "symbol": "JNTR/e",
     "decimals": 18,
     "status": "active",
-    "id": "0x1368452Bfb5Cd127971C8DE22C58fBE89D35A6BF",
     "links": [
         {
             "name": "github",
@@ -17,5 +15,7 @@
             "name": "whitepaper",
             "url": "https://jointerinc.github.io/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x1368452bfb5cd127971c8de22c58fbe89d35a6bf"
 }

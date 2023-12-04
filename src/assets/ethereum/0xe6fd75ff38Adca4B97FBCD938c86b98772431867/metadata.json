@@ -3,11 +3,9 @@
     "website": "https://elastos.info",
     "description": "Elastos is not an entity – it’s a global movement to build an internet that works for everyone. Starting with open source, decentralized web services, developers can build applications where all data is exchanged peer-to-peer, stored in a decentralized fashion, and secured by its owners via verifiable blockchain immutability and smart contract execution. This is an Internet of Value – with Values.",
     "explorer": "https://etherscan.io/token/0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
-    "type": "ERC20",
     "symbol": "ELA",
     "decimals": 18,
     "status": "active",
-    "id": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
     "links": [
         {
             "name": "github",
@@ -25,5 +23,7 @@
             "name": "reddit",
             "url": "https://reddit.com/r/Elastos"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xe6fd75ff38adca4b97fbcd938c86b98772431867"
 }

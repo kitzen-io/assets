@@ -1,11 +1,11 @@
 {
     "name": "TradeBit Token",
     "symbol": "TBT",
-    "type": "ERC20",
     "decimals": 18,
     "description": "-",
     "website": "",
     "explorer": "https://etherscan.io/token/0xDc279799643b6F52A7aDb03497f3cC941ff8f113",
     "status": "abandoned",
-    "id": "0xDc279799643b6F52A7aDb03497f3cC941ff8f113"
+    "network": "erc20",
+    "identifier": "0xdc279799643b6f52a7adb03497f3cc941ff8f113"
 }

@@ -1,13 +1,11 @@
 {
     "name": "Data Economy Index",
     "symbol": "DATA",
-    "type": "ERC20",
     "decimals": 18,
     "description": "The Data Economy Index is an ecosystem of data-based products and services.",
     "website": "https://www.indexcoop.com/data",
     "explorer": "https://etherscan.io/token/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
     "status": "active",
-    "id": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
     "links": [
         {
             "name": "blog",
@@ -29,5 +27,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/RKZ4S3b"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1"
 }

@@ -1,13 +1,11 @@
 {
     "name": "KEEP Token",
     "symbol": "KEEP",
-    "type": "ERC20",
     "decimals": 18,
     "description": "Keep technology is what sets tBTC apart as the only decentralized solution for Bitcoin on Ethereum.",
     "website": "https://keep.network",
     "explorer": "https://etherscan.io/token/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
     "status": "active",
-    "id": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
     "tags": [
         "defi"
     ],
@@ -32,5 +30,7 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/keep-network/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
 }

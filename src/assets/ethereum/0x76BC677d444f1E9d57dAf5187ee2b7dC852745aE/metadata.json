@@ -1,13 +1,11 @@
 {
     "name": "Offshift",
-    "type": "ERC20",
     "symbol": "XFT",
     "decimals": 18,
     "website": "https://offshift.io/",
     "description": "Pioneering #PriFi on Ethereum Layer 1",
     "explorer": "https://etherscan.io/token/0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
     "status": "active",
-    "id": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
     "links": [
         {
             "name": "twitter",
@@ -48,5 +46,7 @@
     ],
     "tags": [
         "privacy"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae"
 }

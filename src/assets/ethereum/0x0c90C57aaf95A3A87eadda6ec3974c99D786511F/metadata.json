@@ -1,13 +1,11 @@
 {
     "name": "HanChain",
-    "type": "ERC20",
     "symbol": "HAN",
     "decimals": 18,
     "website": "https://paykhan.io/",
     "description": "Dual cryptocurrency platform with DeFi structure focusing on real-life use.",
     "explorer": "https://etherscan.io/token/0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
     "status": "active",
-    "id": "0x0c90C57aaf95A3A87eadda6ec3974c99D786511F",
     "links": [
         {
             "name": "twitter",
@@ -29,5 +27,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/hanchain/"
         }
-    ]
-} 
+    ],
+    "network": "erc20",
+    "identifier": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f"
+}

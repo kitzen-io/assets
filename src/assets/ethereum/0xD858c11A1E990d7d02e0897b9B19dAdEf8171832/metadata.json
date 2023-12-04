@@ -1,11 +1,11 @@
 {
     "name": "Voke",
     "symbol": "VOKE",
-    "type": "ERC20",
     "decimals": 4,
     "description": "-",
     "website": "",
     "explorer": "https://etherscan.io/token/0xD858c11A1E990d7d02e0897b9B19dAdEf8171832",
     "status": "abandoned",
-    "id": "0xD858c11A1E990d7d02e0897b9B19dAdEf8171832"
+    "network": "erc20",
+    "identifier": "0xd858c11a1e990d7d02e0897b9b19dadef8171832"
 }

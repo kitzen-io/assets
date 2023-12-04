@@ -1,13 +1,11 @@
 {
     "name": "$ZKP Token",
     "symbol": "$ZKP",
-    "type": "ERC20",
     "decimals": 18,
     "description": "Panther Protocol Token",
     "website": "https://pantherprotocol.io",
     "explorer": "https://etherscan.io/token/0x909E34d3f6124C324ac83DccA84b74398a6fa173",
     "status": "active",
-    "id": "0x909E34d3f6124C324ac83DccA84b74398a6fa173",
     "links": [
         {
             "name": "blog",
@@ -69,5 +67,7 @@
     "tags": [
         "privacy",
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x909e34d3f6124c324ac83dcca84b74398a6fa173"
 }

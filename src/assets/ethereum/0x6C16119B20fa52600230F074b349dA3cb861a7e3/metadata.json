@@ -3,11 +3,9 @@
     "website": "https://alkemi.network",
     "description": "Alkemi Network is bridging CeFi to DeFi, building an institution-grade liquidity network for financial institutions and individuals to access professional DeFi and earn yields on their Ethereum-based digital assets.",
     "explorer": "https://etherscan.io/token/0x6C16119B20fa52600230F074b349dA3cb861a7e3",
-    "type": "ERC20",
     "symbol": "ALK",
     "decimals": 18,
     "status": "active",
-    "id": "0x6C16119B20fa52600230F074b349dA3cb861a7e3",
     "links": [
         {
             "name": "coingecko",
@@ -41,5 +39,7 @@
             "name": "docs",
             "url": "https://docs.alkemi.network/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x6c16119b20fa52600230f074b349da3cb861a7e3"
 }

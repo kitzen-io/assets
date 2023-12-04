@@ -3,11 +3,9 @@
     "website": "https://stream-coin.com/",
     "description": "All-in-one Live Streaming on a blockchain-based platform.",
     "explorer": "https://etherscan.io/token/0x94a7f270cd12545a277e656266aef5e27df3eb28",
-    "type": "ERC20",
     "symbol": "MSTRM",
     "decimals": 18,
     "status": "active",
-    "id": "0x94a7f270cd12545A277E656266Aef5e27dF3Eb28",
     "links": [
         {
             "name": "twitter",
@@ -24,5 +22,7 @@
     ],
     "tags": [
         "nft"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x94a7f270cd12545a277e656266aef5e27df3eb28"
 }

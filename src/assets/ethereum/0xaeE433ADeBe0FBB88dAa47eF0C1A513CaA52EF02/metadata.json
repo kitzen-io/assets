@@ -17,9 +17,9 @@
         }
     ],
     "explorer": "https://etherscan.io/token/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
-    "type": "ERC20",
     "symbol": "TOON",
     "decimals": 18,
     "status": "active",
-    "id": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02"
+    "network": "erc20",
+    "identifier": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02"
 }

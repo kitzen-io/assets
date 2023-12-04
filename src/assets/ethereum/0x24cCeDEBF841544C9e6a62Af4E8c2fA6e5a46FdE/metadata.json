@@ -1,13 +1,11 @@
 {
     "name": "BlueSparrow",
-    "type": "ERC20",
     "symbol": "BLUESPARROW",
     "decimals": 9,
     "website": "http://bluesparrowtoken.com",
     "description": "BlueSparrow stands as the premier native token of BlueBit.io Exchange and BlueVinci.io NFT Marketplace. By holding BlueSparrow, users gain access to exclusive trading discounts and lucrative staking opportunities.",
     "explorer": "https://etherscan.io/token/0x24cCeDEBF841544C9e6a62Af4E8c2fA6e5a46FdE",
     "status": "active",
-    "id": "0x24cCeDEBF841544C9e6a62Af4E8c2fA6e5a46FdE",
     "links": [
         {
             "name": "twitter",
@@ -36,5 +34,7 @@
     ],
     "tags": [
         "defi"
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x24ccedebf841544c9e6a62af4e8c2fa6e5a46fde"
 }

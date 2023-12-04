@@ -3,9 +3,9 @@
     "website": "https://e-money.com",
     "description": "ERC20 version of the e-Money NOK stablecoin",
     "explorer": "https://etherscan.io/token/0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5",
-    "type": "ERC20",
     "symbol": "ENOK",
     "decimals": 6,
     "status": "active",
-    "id": "0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5"
+    "network": "erc20",
+    "identifier": "0x9ec749faa086bb604b96bfe02bd49c53cef47ea5"
 }

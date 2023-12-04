@@ -1,13 +1,11 @@
 {
     "name": "StakeWise sETH2",
-    "type": "ERC20",
     "symbol": "sETH2",
     "decimals": 18,
     "website": "https://stakewise.io",
     "description": "sETH2 is a token that represents staked ether in StakeWise.",
     "explorer": "https://etherscan.io/token/0xFe2e637202056d30016725477c5da089Ab0A043A",
     "status": "active",
-    "id": "0xFe2e637202056d30016725477c5da089Ab0A043A",
     "links": [
         {
             "name": "twitter",
@@ -61,5 +59,7 @@
             "name": "source_code",
             "url": "https://github.com/stakewise/contracts/blob/master/contracts/tokens/StakedEthToken.sol"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xfe2e637202056d30016725477c5da089ab0a043a"
 }

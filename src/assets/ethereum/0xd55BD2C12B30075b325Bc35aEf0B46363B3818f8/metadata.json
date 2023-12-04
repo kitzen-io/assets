@@ -3,11 +3,9 @@
     "website": "https://zombie.finance/",
     "description": "Zombie is an decentralized experiment to see how people will react having power over one another.",
     "explorer": "https://etherscan.io/token/0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
-    "type": "ERC20",
     "symbol": "ZOMBIE",
     "decimals": 18,
     "status": "active",
-    "id": "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8",
     "links": [
         {
             "name": "github",
@@ -17,5 +15,7 @@
             "name": "twitter",
             "url": "https://twitter.com/Zombie.Finance"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0xd55bd2c12b30075b325bc35aef0b46363b3818f8"
 }

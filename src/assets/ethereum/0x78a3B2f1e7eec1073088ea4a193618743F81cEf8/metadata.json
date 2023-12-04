@@ -3,11 +3,9 @@
     "website": "app.ichi.org",
     "description": "bootusd is an ICHI-created stablecoin for Boot Finance.",
     "explorer": "https://etherscan.io/token/0x78a3b2f1e7eec1073088ea4a193618743f81cef8",
-    "type": "ERC20",
     "symbol": "bootusd",
     "decimals": 18,
     "status": "active",
-    "id": "0x78a3B2f1e7eec1073088ea4a193618743F81cEf8",
     "tags": [
         "defi"
     ],
@@ -32,5 +30,7 @@
             "name": "discord",
             "url": "https://discord.com/invite/DvsYCfK8"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x78a3b2f1e7eec1073088ea4a193618743f81cef8"
 }

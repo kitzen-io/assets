@@ -1,13 +1,11 @@
 {
     "name": "Telcoin",
     "symbol": "TEL",
-    "type": "ERC20",
     "decimals": 2,
     "description": "Telcoin (TEL) is an Ethereum-based decentralized crypto established.",
     "website": "http://www.telco.in",
     "explorer": "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
     "status": "active",
-    "id": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
     "links": [
         {
             "name": "github",
@@ -37,5 +35,7 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/telcoin/"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x467bccd9d29f223bce8043b84e8c8b282827790f"
 }

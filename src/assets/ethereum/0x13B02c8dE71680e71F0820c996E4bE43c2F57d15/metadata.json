@@ -3,11 +3,9 @@
     "website": "https://mirror.finance",
     "description": "Wrapped Mirror QQQ Token.",
     "explorer": "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
-    "type": "ERC20",
     "symbol": "mQQQ",
     "decimals": 18,
     "status": "active",
-    "id": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
     "tags": [
         "wrapped"
     ],
@@ -28,5 +26,7 @@
             "name": "medium",
             "url": "https://medium.com/@mirror-protocol"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x13b02c8de71680e71f0820c996e4be43c2f57d15"
 }

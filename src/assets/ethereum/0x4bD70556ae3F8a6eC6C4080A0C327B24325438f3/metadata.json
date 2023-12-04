@@ -3,11 +3,9 @@
     "website": "https://hxro.io/",
     "description": "Hxro is a cryptocurrency exchange platform that offers perpetual, time-based digital derivatives markets. Hxro offers a way to interact with the market.",
     "explorer": "https://etherscan.io/token/0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
-    "type": "ERC20",
     "symbol": "HXRO",
     "decimals": 18,
     "status": "active",
-    "id": "0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3",
     "links": [
         {
             "name": "twitter",
@@ -21,5 +19,7 @@
             "name": "medium",
             "url": "https://medium.com/@hxromedia"
         }
-    ]
+    ],
+    "network": "erc20",
+    "identifier": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3"
 }
